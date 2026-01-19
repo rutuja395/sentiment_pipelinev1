@@ -1,0 +1,279 @@
+{
+  "info": {
+    "name": "Review Intelligence API",
+    "description": "Dashboard APIs for review sentiment analysis and insights",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8000",
+      "type": "string"
+    },
+    {
+      "key": "locationId",
+      "value": "JFK",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Dashboard",
+      "item": [
+        {
+          "name": "Get Dashboard Summary",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/summary?location_id={{locationId}}",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "dashboard", "summary"],
+              "query": [
+                {
+                  "key": "location_id",
+                  "value": "{{locationId}}",
+                  "description": "Optional: Filter by location"
+                }
+              ]
+            },
+            "description": "Get complete dashboard summary with all key metrics including total reviews, average rating, sentiment breakdown, rating distribution, and top topics."
+          }
+        },
+        {
+          "name": "Get Trends",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/trends?location_id={{locationId}}&period=month",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "dashboard", "trends"],
+              "query": [
+                {
+                  "key": "location_id",
+                  "value": "{{locationId}}",
+                  "description": "Optional: Filter by location"
+                },
+                {
+                  "key": "period",
+                  "value": "month",
+                  "description": "Grouping period: day, week, or month"
+                }
+              ]
+            },
+            "description": "Get rating and sentiment trends over time."
+          }
+        },
+        {
+          "name": "Get Topic Analysis",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/topics?location_id={{locationId}}",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "dashboard", "topics"],
+              "query": [
+                {
+                  "key": "location_id",
+                  "value": "{{locationId}}",
+                  "description": "Optional: Filter by location"
+                }
+              ]
+            },
+            "description": "Get detailed topic analysis with sentiment correlation per topic."
+          }
+        },
+        {
+          "name": "Get Reviews by Topic",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/reviews-by-topic/wait_times?location_id={{locationId}}&limit=20",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "dashboard", "reviews-by-topic", "wait_times"],
+              "query": [
+                {
+                  "key": "location_id",
+                  "value": "{{locationId}}",
+                  "description": "Optional: Filter by location"
+                },
+                {
+                  "key": "limit",
+                  "value": "20",
+                  "description": "Max number of reviews to return"
+                }
+              ]
+            },
+            "description": "Get reviews filtered by a specific topic. Replace 'wait_times' in the URL with any topic."
+          }
+        },
+        {
+          "name": "Get Sentiment Details",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/sentiment-details?location_id={{locationId}}",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "dashboard", "sentiment-details"],
+              "query": [
+                {
+                  "key": "location_id",
+                  "value": "{{locationId}}",
+                  "description": "Optional: Filter by location"
+                }
+              ]
+            },
+            "description": "Get detailed sentiment analysis with score distribution and example reviews."
+          }
+        },
+        {
+          "name": "Get Recent Reviews",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/recent-reviews?location_id={{locationId}}&limit=10",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "dashboard", "recent-reviews"],
+              "query": [
+                {
+                  "key": "location_id",
+                  "value": "{{locationId}}",
+                  "description": "Optional: Filter by location"
+                },
+                {
+                  "key": "limit",
+                  "value": "10",
+                  "description": "Max number of reviews to return"
+                }
+              ]
+            },
+            "description": "Get most recent reviews with enrichments."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Core",
+      "item": [
+        {
+          "name": "Get Locations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/locations",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "locations"]
+            },
+            "description": "Get all available locations."
+          }
+        },
+        {
+          "name": "Get Location Stats",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/stats/{{locationId}}",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "stats", "{{locationId}}"]
+            },
+            "description": "Get basic stats for a specific location."
+          }
+        },
+        {
+          "name": "Get Insights",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/insights/{{locationId}}?regenerate=false",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "insights", "{{locationId}}"],
+              "query": [
+                {
+                  "key": "regenerate",
+                  "value": "false",
+                  "description": "Set to true to regenerate insights"
+                }
+              ]
+            },
+            "description": "Get AI-generated insights for a location."
+          }
+        },
+        {
+          "name": "Get Reviews (Filtered)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/reviews?location_id={{locationId}}&min_rating=1&max_rating=5&sentiment=negative&limit=50",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "reviews"],
+              "query": [
+                {
+                  "key": "location_id",
+                  "value": "{{locationId}}",
+                  "description": "Filter by location"
+                },
+                {
+                  "key": "min_rating",
+                  "value": "1",
+                  "description": "Minimum rating (1-5)"
+                },
+                {
+                  "key": "max_rating",
+                  "value": "5",
+                  "description": "Maximum rating (1-5)"
+                },
+                {
+                  "key": "sentiment",
+                  "value": "negative",
+                  "description": "Filter by sentiment: positive, negative, neutral"
+                },
+                {
+                  "key": "limit",
+                  "value": "50",
+                  "description": "Max results (up to 1000)"
+                }
+              ]
+            },
+            "description": "Get reviews with various filters."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chat",
+      "item": [
+        {
+          "name": "Chat Query",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"query\": \"What are the main complaints about wait times?\",\n  \"location_id\": \"JFK\",\n  \"use_semantic\": false\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/chat",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "chat"]
+            },
+            "description": "Ask questions about reviews using AI. Set use_semantic to true for vector-based search (requires embeddings)."
+          }
+        }
+      ]
+    }
+  ]
+}
