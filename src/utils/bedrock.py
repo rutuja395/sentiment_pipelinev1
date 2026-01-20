@@ -17,39 +17,45 @@ class BedrockClient:
             raise ValueError("BEDROCK_KB_ID environment variable not set")
         
         try:
-            retrieval_config = {
-                'vectorSearchConfiguration': {
-                    'numberOfResults': limit
-                }
-            }
-            
-            # Add location filter if provided
-            if location_id:
-                retrieval_config['vectorSearchConfiguration']['filter'] = {
-                    'stringContains': {
-                        'key': 'x-amz-bedrock-kb-source-file-name',
-                        'value': location_id
-                    }
-                }
+            # Fetch more results if filtering, to ensure we get enough after filter
+            fetch_limit = limit * 3 if location_id else limit
             
             response = self.agent_client.retrieve(
                 knowledgeBaseId=self.kb_id,
                 retrievalQuery={'text': query},
-                retrievalConfiguration=retrieval_config
+                retrievalConfiguration={
+                    'vectorSearchConfiguration': {
+                        'numberOfResults': fetch_limit
+                    }
+                }
             )
             
             results = []
             for item in response.get('retrievalResults', []):
                 text = item.get('content', {}).get('text', '')
+                location = item.get('location', {})
+                
+                # Filter by location_id if provided (check S3 URI for location)
+                if location_id:
+                    s3_uri = location.get('s3Location', {}).get('uri', '')
+                    if location_id.upper() not in s3_uri.upper():
+                        continue
+                
                 # Fix UTF-16 encoding issue - remove null bytes
                 if '\x00' in text:
                     text = text.replace('\x00', '')
+                    
                 results.append({
                     'text': text,
                     'score': item.get('score', 0.0),
                     'metadata': item.get('metadata', {}),
-                    'location': item.get('location', {})
+                    'location': location
                 })
+                
+                # Stop once we have enough filtered results
+                if len(results) >= limit:
+                    break
+                    
             return results
         
         except Exception as e:
