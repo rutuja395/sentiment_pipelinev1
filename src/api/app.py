@@ -46,11 +46,8 @@ async def home():
 
 @app.get("/api/locations")
 async def get_locations():
-    conn = db.get_connection()
-    cursor = conn.cursor()
-    cursor.execute("SELECT DISTINCT location_id FROM reviews")
-    locations = [row[0] for row in cursor.fetchall()]
-    conn.close()
+    """Get all locations with coordinates for map display"""
+    locations = db.get_locations_with_coords()
     return {"locations": locations}
 
 @app.get("/api/insights/{location_id}")

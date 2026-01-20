@@ -73,6 +73,19 @@ class Database:
             )
         """)
         
+        # Locations table for storing location metadata including coordinates
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS locations (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                location_id TEXT UNIQUE NOT NULL,
+                name TEXT,
+                latitude REAL,
+                longitude REAL,
+                address TEXT,
+                created_at TEXT DEFAULT CURRENT_TIMESTAMP
+            )
+        """)
+        
         conn.commit()
         conn.close()
     
@@ -163,3 +176,35 @@ class Database:
         conn.close()
         
         return dict(row) if row else None
+    
+    def upsert_location(self, location_id: str, name: str = None, 
+                        latitude: float = None, longitude: float = None, 
+                        address: str = None):
+        """Insert or update location metadata"""
+        conn = self.get_connection()
+        cursor = conn.cursor()
+        cursor.execute("""
+            INSERT INTO locations (location_id, name, latitude, longitude, address)
+            VALUES (?, ?, ?, ?, ?)
+            ON CONFLICT(location_id) DO UPDATE SET
+                name = COALESCE(excluded.name, locations.name),
+                latitude = COALESCE(excluded.latitude, locations.latitude),
+                longitude = COALESCE(excluded.longitude, locations.longitude),
+                address = COALESCE(excluded.address, locations.address)
+        """, (location_id, name, latitude, longitude, address))
+        conn.commit()
+        conn.close()
+    
+    def get_locations_with_coords(self) -> List[Dict]:
+        """Get all locations with their coordinates"""
+        conn = self.get_connection()
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT DISTINCT r.location_id, l.name, l.latitude, l.longitude, l.address
+            FROM reviews r
+            LEFT JOIN locations l ON r.location_id = l.location_id
+        """)
+        rows = cursor.fetchall()
+        conn.close()
+        return [dict(row) for row in rows]

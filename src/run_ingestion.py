@@ -31,4 +31,4 @@ def run_ingestion(file_path: str, location_id: str = None, batch_size: int = 20)
 
 if __name__ == "__main__":
     # Process JFK reviews with batch LLM enrichment
-    run_ingestion("data/raw/JFK_reviews_10_01_2026.json", "JFK", batch_size=20)
+    run_ingestion("data/raw/LAX_reviews_10_01_2026.json", "LAX", batch_size=20)
