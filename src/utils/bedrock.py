@@ -9,28 +9,43 @@ class BedrockClient:
         self.model_id = model_id
         self.client = boto3.client('bedrock-runtime', region_name=region)
         self.agent_client = boto3.client('bedrock-agent-runtime', region_name=region)
-        self.kb_id = os.getenv('BEDROCK_KB_ID')
+        self.kb_id = '4EJ0BSHUTO'
     
-    def retrieve(self, query: str, limit: int = 5) -> List[Dict]:
+    def retrieve(self, query: str, limit: int = 5, location_id: str = None) -> List[Dict]:
         """Retrieve relevant chunks from Bedrock Knowledge Base"""
         if not self.kb_id:
             raise ValueError("BEDROCK_KB_ID environment variable not set")
         
         try:
+            retrieval_config = {
+                'vectorSearchConfiguration': {
+                    'numberOfResults': limit
+                }
+            }
+            
+            # Add location filter if provided
+            if location_id:
+                retrieval_config['vectorSearchConfiguration']['filter'] = {
+                    'stringContains': {
+                        'key': 'x-amz-bedrock-kb-source-file-name',
+                        'value': location_id
+                    }
+                }
+            
             response = self.agent_client.retrieve(
                 knowledgeBaseId=self.kb_id,
                 retrievalQuery={'text': query},
-                retrievalConfiguration={
-                    'vectorSearchConfiguration': {
-                        'numberOfResults': limit
-                    }
-                }
+                retrievalConfiguration=retrieval_config
             )
             
             results = []
             for item in response.get('retrievalResults', []):
+                text = item.get('content', {}).get('text', '')
+                # Fix UTF-16 encoding issue - remove null bytes
+                if '\x00' in text:
+                    text = text.replace('\x00', '')
                 results.append({
-                    'text': item.get('content', {}).get('text', ''),
+                    'text': text,
                     'score': item.get('score', 0.0),
                     'metadata': item.get('metadata', {}),
                     'location': item.get('location', {})
@@ -41,8 +56,20 @@ class BedrockClient:
             print(f"Error retrieving from Knowledge Base: {e}")
             return []
     
-    def invoke(self, prompt: str, max_tokens: int = 2000, temperature: float = 0.7) -> str:
-        """Invoke Bedrock model with a prompt"""
+    def invoke(self, prompt: str, max_tokens: int = 2000, temperature: float = 0.7,
+               return_raw: bool = False):
+        """Invoke Bedrock model with a prompt
+        
+        Args:
+            prompt: The prompt to send to the model
+            max_tokens: Maximum tokens in response
+            temperature: Sampling temperature
+            return_raw: If True, returns full API response dict instead of just text
+            
+        Returns:
+            str: Generated text (default)
+            dict: Full response with raw_response, metadata, content_type (if return_raw=True)
+        """
         body = json.dumps({
             "anthropic_version": "bedrock-2023-05-31",
             "max_tokens": max_tokens,
@@ -62,11 +89,19 @@ class BedrockClient:
             )
             
             response_body = json.loads(response['body'].read())
+            
+            if return_raw:
+                return {
+                    "raw_response": response_body,
+                    "metadata": response.get('ResponseMetadata', {}),
+                    "content_type": response.get('contentType', '')
+                }
+            
             return response_body['content'][0]['text']
         
         except Exception as e:
             print(f"Error invoking Bedrock: {e}")
-            return ""
+            return {} if return_raw else ""
     
     def extract_topics(self, review_text: str) -> List[str]:
         """Extract topics from review text"""
