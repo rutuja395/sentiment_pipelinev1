@@ -4,15 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Review Intelligence</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
     <div class="container">
         <header>
             <h1>🚗 Review Intelligence</h1>
-            <div class="location-selector">
-                <label>Location:</label>
-                <select id="locationSelect"><option value="">Loading...</option></select>
+            <div class="location-picker">
+                <button class="location-picker-btn" id="locationPickerBtn">
+                    <span class="location-icon">📍</span>
+                    <span class="location-name" id="selectedLocationName">Select Location</span>
+                    <span class="location-chevron">▼</span>
+                </button>
+                <div class="location-picker-panel" id="locationPickerPanel">
+                    <div class="location-picker-content">
+                        <div class="location-map-container">
+                            <div id="locationMap"></div>
+                        </div>
+                        <div class="location-list" id="locationList">
+                            <div class="location-list-header">Locations</div>
+                            <div class="location-list-items" id="locationListItems"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </header>
         <nav class="mode-nav">
@@ -66,6 +81,7 @@
             </div>
         </div>
     </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="/static/app.js"></script>
 </body>
 </html>

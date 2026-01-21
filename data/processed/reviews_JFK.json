@@ -1,0 +1,3189 @@
+[
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTlpHWkZVVzFFWDFKdk0wbENXRGsyZWpKcWJVRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Roey Maor",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "\u2b50 Rating: 1 out of 5\n\nWe\u2019ve heard so many good things about Avis in many locations around the world, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd1lrSXhPVFpwYlZWVVFWOHpVVGR0UjBSb1NGRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Sarah Leighton",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "BEWARE - last weekend, this location rented us a car with insanely dangerously damaged tires - see photos. It was 5am and dark when we picked up the car and so we despite walking around the car, we didn\u2019t see it until the end of our 5h \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxM1JHbDVTVEpPTUdWUFJFVnRXRU5uWXpkTlNXYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Marleny Guterrez",
+    "review_date": "2025-12-31T15:37:31.653457",
+    "review_text": "There is a terrible service on these day, just a phew employees, not enough for the amount of customers waiting not just in line but also to receive the rented vehicles. So prepare to wait for more than 2 hours to end the process",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SR1lrRnZYMlZ2Wm1OclYyMXlZMTl5WkdGSlEzYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Chaz Morantz",
+    "review_date": "2026-01-07T15:37:31.653457",
+    "review_text": "Heed the warnings you see here! This was our worst rental car experience ever. We waited over an hour for our car when there were just 2 people in line with us. They also had that experience, as did everyone else we met there. Staff was \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sblNVa3hhMlIzWVhGSVlXVjJRV2d3WTBWT2NWRRAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Inessa Madorsky",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "We made reservations online and had to wait for an hour to complete the paperwork. While we were waiting, we witnessed a customer who was waiting for 45 minutes after all paperwork was completed. I guess we were lucky, and after spending a \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.6,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VKWGN6NGp6eHNLSUNnEAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "\u0414\u0438\u0430\u043d\u0430 \u0424\u043e\u043c\u0447\u0435\u043d\u043a\u043e\u0432\u0430",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "We rented a Chevrolet Malibu without prior reservation. Everything was fast, despite the number of customers. They explained how to use the E-pass. The car is good, it drove us from New York to Miami without any problems. The deposit was returned quickly. Within a week, as they should have, they charged for the E-pass on toll roads.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "tolls_epass",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Chevrolet Malibu",
+      "New York",
+      "Miami"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNU1WbEdka3R5UTIwM1EwMUdNMWhUZGs5UU5rRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "April Jackson",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "We were able to rent the car. It looked brand new and after a week, we barely used half a tank of gas even after driving it all week long. The car is half electric and self charging. We were even given the option to rent the car again upon \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ac1F6ZEhVSEV6Y25kWWREZzFhemhGTjNwWlVsRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jessica Whitney",
+    "review_date": "2026-01-07T15:37:31.653457",
+    "review_text": "One person is working the counter with dozens of people in line. I\u2019ve been waiting an hour and hardly moved.\nIf you register in advance for Avis Preferred, you can get much faster service, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis",
+      "Avis Preferred"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMlVuaElUVlZHZVdWRU1WTnVXVXBuVkZoTmFXYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Cristina Torre Calvo",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "I reserved by @hopper, the best way for everything if your going on a trip. It was a little slow to take the car, normal because a lot of people arrived a the same time. Wes, came, he was fast and efficient, the only thing the car was in \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Hopper"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WQ1VISkVWV05hU0dOU01VYzRhMncxWjA1Zk5XYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Eli Kruger",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "I\u2019ve been on hold with Avis for more than two hours trying to reach customer service\u2014it\u2019s beyond unacceptable. I needed assistance urgently and felt completely ignored. The wait music kept looping, and no one ever picked up or called back. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWlZ5MUhRWGhYV0c1V1pFUklORE01VkhBd1kzYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Dhehxj Shehxj",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "I want to express my deepest gratitude to this wonderful lady, Almarene (JFK Airport) for helping me solve a big problem.\nI had rental coverage insurance, and someone broke my car window. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "insurance",
+      "customer_service"
+    ],
+    "entities": [
+      "Almarene"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWU2ExZFBlVzVVVVZrMmRtZHJVMEl3TjFod1luYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Pan Xinlei",
+    "review_date": "2026-01-07T15:37:31.653457",
+    "review_text": "As AVIS preferred member for 5 years, I had the worst experience in this place. Their unprofessional behavior and arrogant attitude ruined the AVIS brand.\nI\u2019m the last people get my car in the center as preferred member, all the other \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swM1J6UkZVbmh2V0dsa2NsSTFXRzFaTUZwamRFRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Yulia Belyavsky",
+    "review_date": "2026-01-07T15:37:31.653457",
+    "review_text": "Rude customer service - we prepaid directly through Avis, showed up with 0 people ahead of us and it\u2019s been 25 minutes since they said they will pull the car around and \u2026 nothing. Anytime you ask a question it\u2019s like youre an awful bother. Never had such bad experience with avis:",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURudVppeTF3RRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Sourabh Khot",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "Very poor experience. Their online car allocation system is giving error, so even Avis Preferred members are forced to wait in line for getting a car. And then, they take more than 20 minutes per customer to allocate a car and do the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis",
+      "Avis Preferred"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMVZIUllUeTFFTUZCUFNGaE5PV0Z5V2pGRU1FRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Benito Martinez",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "After an 8 hour flight, 1 hour custom and bagagge claim, we still have to wait extra hours to grab our a car already paid, 3 open counters out of 7 total counters\u2026 horrible Planning. Worst way to start our Family vacation in the US. thank u Avis!",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbmJybENREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Romeu Hayashi",
+    "review_date": "2025-05-19T15:37:31.653457",
+    "review_text": "Something is not right with Avis. I\u2019m seeing signs of deterioration in their service level, cleaning facilities, quality of their cars, professionalism of their staff more and more scores the world. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSM1kwNTRVVmw0YVMwM1pVSXlNVGR0Y1U1cU5uYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Nick Atherton",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Yesterday my wife and i picked up a Surbuban at Federal Circle. My wife booked with her account under her name. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "preferred_program"
+    ],
+    "entities": [
+      "Surbuban",
+      "Federal Circle"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcWJYZE9kbVJLVTFWeWRrYzNOR1kxY1VSRUxXYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Tony",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "* Car took long time to be ready, way past my booked time\n* When the car was provided to me, the tire pressure were low. Instead of taking the car back, they ask me to drive to their work area to get someone to fill \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKMVVERnVYeko2T1ZWcVNuaENhbE5KWDNReE4yYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "yasin khadem",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Do NOT rent from this location if you value your time. Despite having booked well in advance, we were left waiting with no updates or clear timeframe for when our car would be ready. Completely unacceptable experience. The staff didn't seem \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxTk5tWnJjRGRQUW1od1RYWm5UalpzYTJGUGFWRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Osp",
+    "review_date": "2025-12-31T15:37:31.653457",
+    "review_text": "Terribly managed. Even if you are Avis Preferred, your name is usually not on the signboard. The wait for the counter and then the second wait for a car routinely exceeds 30 minutes even if you are preferred. Today, I arrived at 5 pm and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZNWFuWnhXV0k1WVVScFYxTXRjVnBYUkRkeFkxRRAB",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Rebecca Wentling",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Service could be faster but staff was nice. I didn't opt for the pre paid tolls. I paid cash at several places for tolls but no cash accepted in most places. Avis still charged me almost 100.00 in tolls fees. A bit of a rip off.......just be aware that it's their policy.",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "tolls_epass",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0elRIWlZUVWxrUWpKTWVsTTFaVFpwYW5aNk1HYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Samuel Chandool",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "Went into Avis jfk to exchange a Denali I rented that had a horrible dog odor, the lady working the preferred counter was extremely rude and unprofessional. Her name was gabby, she was upset because I brought the car back but didn\u2019t tell an \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Gabby"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUVJVeHdjM1ppVWxGbk5UZGtlVVp3U2tVeVdGRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Rick S",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Horrible experience by Ronal Reagan Airport AVIS and folks at this AVIS JFK location made everything right  Having been an AVIS customer for a long time, it was by far the worst rental experience ever.  The lady at the DC Airport rental \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "location_access"
+    ],
+    "entities": [
+      "Ronal Reagan Airport",
+      "JFK"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SeFZraGZaakl3WDJ0bWF6UkZaR3hvU1RGMVRYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jasmine Richards",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Avis JFK \u2013 Avoid at All Costs\n\nWhile the staff is pleasant enough, they are completely incompetent and show \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis JFK"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMGJYYzNXV1JDYjJ0TVdrWTRVRUZIUjJoTVIyYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Rachael Morey",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "If I could leave -10 * I would. This has to be the worst car hire experience I have come across and I\u2019ve hired cars all over the world. The queue was ridiculously long leave a good hour and the women on the counter would rather chat between \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SmNEaEVaRWQyVjNoNFJsQXlWbWRmUzFadVVWRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Shakti Chauhan",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Wait times at this location are absolutely ridiculous. They have 8 counters, but only two were operational. This happened with me last year as well. Knowing that JFK is a busy airport AVIS should deploy more workers to speed up the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TWFUSlRhRmQyWVdVek5FcHViMjl4WXpCVmVuYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Taraka Seerum",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Absolutely the worst car rental experience I\u2019ve ever had. Despite having a confirmed reservation, there were no staff available to assist upon arrival. I waited over 3 hours just to receive the vehicle I had already booked. The lack of \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJek1rdzNMV2xZVUdwRlRVOVRkekUxWnpWRldIYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Lei Yu",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "I was nervous about the service I was going to get due to many negative feedback online. I booked a car to drive home after a international trip. Arrived around 10:30PM, there were two person at the counter and a line about 5 person. I have \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOd2VITkpRMEpTZFZCSmIxaHZSM1JHVm1VeFZrRRAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Michael Warnon",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "I had prepaid for a rental and I am a preferred member. I waited in line for an hour. The check in process just takes to long and there is not enough staff. After finally completing the paper work i was told that the car will be brought to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "preferred member"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WmQyWjFNbXRtZVVoVlVrNUVTRGxFY2t4NkxYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Laila Harilall",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "If you're looking to get scammed, then Avis is the one for you. We booked with them about a month advance for a Tacoma the picture they sent is a Tacoma but when we got to jfk and head to pickup Avis told us no Tacoma is available we have \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Tacoma",
+      "jfk"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kelh6Sk9XVEZ1U0dNNFRFdERkV2RNUmsxM01HYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Ariel & IKUN",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Terrible experience!! Avoid this location!!\nWe came to pick up the car we had reserved, only to find the tire had low pressure. When we asked for a replacement, the staff gave us attitude and handed us \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSc01uY3pZME5GYzBKQlRscHVVMHhYY2twMFgyYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Joe B",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Unfortunately I had a terrible experience here. I had already had a vehicle reservation. Got checked in after landing at JFK and was told the vehicle would be pulled up shortly. Waited over (1) hour to get into our vehicle. After checking \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bm9ua0RREAE",
+    "location_id": "JFK",
+    "rating": 4.0,
+    "reviewer_name": "AG",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "I quickly arrived at the car rental area by taking the air train from JFK. The counter service was fast, but the car pickup process was slow. It was only during the counter service that they informed me about cleaning the vehicle, so I had \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "location_access",
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbVQyUnVVamhWYkVsUk9VdFNhMlJMZURGVFdrRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Giorgio Rossini",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Worst rental ever. After 10 days I received an invoice for \"additional cleaning\". The car was perfect at the return, I personally cleaned,  and this poor company refuse to provide me the pictures of what they suppose to found. Totally a \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "cleanliness",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxVVdVY3pOMnR1UXpWUWVXSnhWRXBRT0c0M00wRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jack Tran",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Dear Avis Customer Relations,\n\nI am writing to file a formal complaint regarding my recent rental experience \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMFVFWnhibVYwUjJOWFJESlVTRlJzWTJSR1VIYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Altaf Ahmed",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "If I could, I would read this below one star. I had an online reservation that I made three weeks ago. I was supposed to pick up my car at 7:30 PM. My flight got delayed and I got there by 9 p.m. The app told me what slot my car was going \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTVIzUjRhRlJNWVdsQldYVlVjWEJpWkVKQ1IwRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Amanda Chen",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "New York JFK AVIS has the least efficient service. Today my kids and I were waiting in the line for agent to help us for 1.5 hours; then wait outside for another hour still did not get the car until I complained several times finally the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CS1JqQjRRa1JEYWtOSExURmliRFI0VEhVd09VRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Colleen Ryan",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Long wait for a staff member who was then rude and unhelpful. I didnt get the type of car I selected for my grandmother's access requirements (I selected a small car and was issued an SUV) when booking and when I questioned this, I was met \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ocVdHcFpjR1JtVjNSUldXdGpkWFk1Y1hOeVZrRRAB",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Jose AKD",
+    "review_date": "2025-12-24T15:37:31.653457",
+    "review_text": "Car was dirty outside. Windshield was dirty and no fluid. Maintenance due message was on. Front desk lady was courteous and check in was easy. Wish Avis takes care of their image a little better",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "cleanliness",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMmRVZG9VR1JIYlhKamVVWkpWVWxJUmtKRWVuYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Maxim Razmakhin",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Waited 45 minutes in line (I was only the 3rd person). The person working there looked barely alive. Then, at 12:30a (Sep 14), I overhear that the system is down. I ask if that\u2019s true, and they say yes. I ask how long it\u2019ll take to fix, and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMUxXcDJWRFF3WWxKcFZ6VjRjMUpTTTJKNmEyYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Nicole Spasovski",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "If you want to wait 45 minutes in line (there were five people ahead of us) and then wait additional 45 minutes just to get a car (you have to wait for someone to bring you one) - Avis is right up your alley! Terrible experience. If I could give it 0 starts I would.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJb09hN1JnEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "L. Minaya",
+    "review_date": "2025-04-19T15:37:31.653457",
+    "review_text": "Long Wait and Understaffing at Avis - A Disappointing Experience Despite Online Check-in\nMy recent experience with Avis car rental in JFK New York  was far from \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis",
+      "JFK New York"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMVgyTkNYMlU1V0cxSk4zUkRSbEpxTlRKdVRWRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Sp",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "The best experience I\u2019ve ever had with a rental agency has been thanks to a desk agent named Mark at Avis. When my car was delayed, he personally took it through the wash and brought it out to me\u2014something im sure is not a part of his job \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Mark"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adWFUVnRjekl4VVRrMGJGUTBjMDV6VlRaVlluYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Vic Hav",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "huge line and zero available workers! Never again. I thought Avis is a reputable rental car company.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUlkzRnZNa0ZHVDJ0eE1qWTRSRTFRU0hsalRsRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Mohamed Ben Salem",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Worst front desk services ever. The employee was rude and  no patient at all. Even the simple person knows that if you coming to pick a car at this location means that you just landed from an airplane trip. Means ear pressure, jetlug and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTlYxOXRSbk5KZFZObVRqZ3RhRFpOZW5aU00wRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Phelan Kenyon",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "If I could give 0 stars I would.\nMy girlfriend and I rented a car from Avis and when we went to pick it up we spent 20 minutes just trying to find the car which was in the wrong spot and no \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis",
+      "girlfriend"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VQSDdnc1RNanBqaGh3RRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Sam Makar",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "I waited for over two hours just to get to customer service. Only one person was working at the counter, which caused a long delay. When it was finally my turn, I was given an old Chevy. As soon as I went outside to inspect it, I saw the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Chevy"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZM1NFRnNlV3N4U0hwR2NrMVBWRzA1UzI1MWEyYxAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Padraig Lynch",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "After checking in and given a piece of paper detailing rental agreement - I was told to wait while they pull up the car. 60 minutes later I was still waiting. A different person informed me the car with the reg assigned was not being cleaned - that it must have been given to someone else. This is so a called Avis Preferred.",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUZ3B1LWp3RRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "brandon dengler",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "Couldn't have had a better experience. Received the stall number on the app before arriving, didn't even need to talk to anyone, just grabbed the car. Almost new with only 2k miles on it and no issues for over a week. Dropped off and \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUVNWZFZhbXBaVFZCMVZrODBUVTh4VW5FdGNWRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Morten L. Svendsen",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "I rented a Ford Expedition at JFK airport.\nMain issues\nAudio/phone disabled: No radio and no Bluetooth/phone. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Ford Expedition"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSmVuWnJTMjVhUXpoTGExaHJhR0ZDWkY4MVNuYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Rachel Olson",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Absolutely awful experience. Desk workers were some of the most unprofessional I\u2019ve ever seen at 9pm est on 8/24. Woman checking us out was on the phone with a friend? We waited for an hour minimum for the car to come out of the car wash? \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNXJuek13EAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Mrs. D",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "Only two geriatric reps attending taking 45 minutes minimum per customer. Lines are out the doors - both sets of doors - It's been 2 hours with no change or additional personnel. And be careful asking questions or this lady will snap. The \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TFdUaFRNbTFoZWtacFZHVnVUa3hSUmpZME5sRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Nelson",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "1/5 is still giving them too much credit. Be better and figure out how to not waste people time. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dlNrRTRWbHB0VVdWMFdGTjVUME5CYjJNMVZXYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Beatriz Oechler",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Extremely rude employee and poor service. When we arrived, there was only one employee assisting customers, while two others were just typing or doing something else, completely ignoring the growing line. We had to wait around 30 minutes, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNGRtNTFaVnB0T0docE1FTXdNVGhzVURjM1dVRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Duncan Mathieson",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Leaving something behind in a rental is stressful enough, but Avis managed to make it a nightmare. I called repeatedly, the phone rang for an hour straight, finally dumped me into a 30-minute hold, and then I was hung up on. That\u2019s not \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNid2ZEU2FnEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Javier Perez",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "WORST CAR RENTAL IN THE WORLD\n\nI rented plenty of cars before and I could fairly say I hadn\u2019t experienced \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTFlVY3hUSGx5YUdaR1pHeHRlSGhDYTFCSlNFRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Kaeleigh Pacheco",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "After being stranded by dollar car rental, Sonia at this Avis location went out of her way to help us get home. Were it not for Sonia, myself and my group of 11 people would not have been able to make it back home to Providence RI. She was \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Sonia",
+      "Providence RI"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVlNscEVNME5KU2pOUFlqVkxjSEpVVW00M1dHYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Hamza Qadeer",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "One of the most worst rental car companies to rent from. There staff is disrespectful and and zero level of professionalism. The will not convey the entirety of the agreement and will scam you on the bill. There customer service should be \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacVV6RkJZMXB0TVVKdFMzVldOVXRhT1hWVVluYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Amine Benbouzid",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Prior to picking up the vehicle, I noticed several existing damages and immediately brought them to the attention of the staff. The representative at the counter assured me that these damages were already documented and not a concern. For \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU2FHNXpNVjh4VWtkeFlrdGFjVEJYY2xWdVpYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Kellie Brauchle",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "After filling out the required paperwork, we waited outside for over 30 minutes for our vehicle. And the only reason we got the car when we did was because we brought it to some ones attention that we were still waiting, after other people \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMWFsbG1kRkJLWlZwelNGOTBMVTVaWW1OUlYyYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Alex Kay",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Preferred rep left at 12\u2026 my name is on the screen and it says to see a preferred counter. Unacceptable. Never ever again. You lost a customer of 24 years.1 person at the counter, Avis JFK AIRPORT. This is how you welcome the world?",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVlNqSmliWFY0ZDJaSFgyaGZaRXQyV0dOSmNuYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Christopher Lemaire",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "I am deeply disappointed with the customer service at Avis. The representatives were rude and unprofessional, making the rental process frustrating despite paying extra for preferred service. One employee was unresponsive, distracted by her \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNElpelZnEAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Tony Wang",
+    "review_date": "2025-04-19T15:37:31.653457",
+    "review_text": "First time use Avis, 5 stars service, made reservations through App, due to flight cancellation, we can\u2019t arrive JFK on time, we  cancelled reservations through App, one click, done, but need to make sure to choose pay late at the counter, \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis",
+      "JFK"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWldrNWFSWGxTYmw4d01UZG5WSHBQYkRNMlMyYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Curtis T",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "I rented a Toyota Camry for 1 day at $61 per day and return the vehicle in the condition it was given except with 1/2 tank. The final cost was $508 for the one day. Avis charged all kinds of insurance fees and breakdowns fees which I didn't \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": [
+      "Toyota Camry"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUWNFMW1jR1ZZYUZoSFUyVnVNVGgwU2xVeGVFRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Kaitlyn Wright",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Joe was absolutely useless. We went up to the front desk to get our rental car and he sat there without saying a word. He basically told us we would not be able to get a car until the next morning. He gave us no alternative options, so I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Joe"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSNFlXb3ZRRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Keith Edwards",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Once more I am writing to express my deep disappointment and frustration with the recent experience I had with Avis Rent A Car, which unfortunately marks the third instance of subpar service. As a loyal customer, I feel compelled to share \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taaE9HWlZSRGxIVjJ4VFdXOWlUbFpZT0RWa04wRRAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Ann Progler",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Rented a deluxe SUV Volvo in Manhattan and drove to meadowlark Long Island for my daughter\u2018s wedding . when it came time to take my daughter to the church the car was dead. Had to deal with that and get a tow truck out in the middle of long \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Volvo"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMWJsRjJlSEZ5T0hGd1kxb3dXVUZpVUVWcE1WRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jeremy Layton",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "Worst service I\u2019ve ever experienced at a car rental spot. After midnight and there are two dozen people waiting for their cars while the people behind the counter sit around doing nothing seemingly waiting for the keys? They genuinely have no idea where their cars or keys are. Rent from somewhere else if you\u2019re coming into JFK",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaaVAtWFh3EAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Miron",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "This was my first time renting an electric vehicle from Avis, and I had some questions. The Avis representative on site was incredibly helpful and set us up with all the information we needed while showing us the utmost patience and kindness. Amazing staff on site this evening.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMVRGbHNjMk5vZHpkSExVdDBMWFJ4TFY5WFRYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "P C",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Fraudulently tried to charge us nearly $850 for a rental that we signed a rental agreement for $330. We executed the rental agreement as agreed upon. They attempted to charge us for a higher class vehicle even though I\u2019m Avis Preferred Plus \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis Preferred Plus"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMk0wczROMnR3TlRadmVUWjBSaTFNZW1WVlRXYxAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Andrew Kulpecz",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Below expectations for Avis, who I generally hold in great esteem. The cars are never ready, even as a preferred member, and a 30-40 minute wait after checking in seems to be the norm. Beware if they tell you to wait at the curb for someone \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaE9GVmtMWEpuYVVZNE9XazJRbUozYTJsQlFtYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Kiwi Goldsmith",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Horrible experience, we waited in line for 1h only to be told that we had to pay more for an additional driver ( even though I asked ahead of time and had written proof that I would not pay an additional charge), they also charge 21$ per \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUExYcFpNazFCUTNoMVEwMU5TVUY0YUZwVU9GRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Luke Bond",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "I really cannot recommend this location.  I paid for a Premium car but was given an Intermediate SUV instead.  This was a really deflating start to the trip.  If you do go with a rental here, please make sure to Google the car level before leaving, especially if you were expecting a similar car to the one you chose.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1S1IwcGlRVWx2Y0dkWmEzQktkVTAxUzNRNE1HYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jamie Hykes",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Service was horrible. We rented a car online. We realized we were going to be late to the rental so we called before our appointment to advise . The manager that answered the phone just said well \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWllYZHhiamgxZW5kU1ducHFjbGhRTlVwalNGRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "\u6e7e\u533a\u63a2\u5e97\u5d14\u540c\u5b66tony",
+    "review_date": "2025-12-17T15:37:31.653457",
+    "review_text": "What a terrible rental company! They actually rented me a vehicle with expired registration. If I hadn't been pulled over by the police, I'd never have known I was driving a car with expired registration documents. I'm furious! And their \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NU5GQlJUVWxwWjNJM2RqbEVMWFZ1UmpWRFlsRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Justin Gibson",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "This was my worst rental car experience. I tried to find the cheapest option at JFK and this was it, but I paid for it in more ways than one. First, I showed up early to get a head start, but it didn\u2019t matter. Despite only 9 people being in \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "pricing_fees"
+    ],
+    "entities": [
+      "JFK"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OQ1YxbFlWMFpLUkRsclFXODNhVmd5TVZKZmNGRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "phil jacobson",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Waited almost 2 hours for a car. Never waited longer than 5 minutes at any rental company before. I ordered a toddler car seat and they gave me a booster seat with 0 straps or buckles. Got a flat tire a few days into my trip. They said I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOeU1sRk9NMVUwYnpscE4zbDRkSEpxVlc0ME1WRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Maxine Murray",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Avis came in clutch when we needed a last minute car rental because of a flight cancellation (boooo jet blue). The car rental price was expensive but I\u2019m assuming the limited availability due to high demand majorly affected the price. The \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMWVVRkdaV1pYVkd4a1JHTkNaM0pFVDBsNmVsRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Scott Bogardus",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "BAIT AND SWITCH/SHAKEDOWN\nI traveled to China for 3 months. I reserved a car at this location 3 months prior to when I got back. I received an email with a reserved confirmation number \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObmVqVnNTR1JJVDBNM1ZYcDFia3d5T1RjelZXYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "a",
+    "review_date": "2025-12-24T15:37:31.653457",
+    "review_text": "Don\u2019t rent here. Even though you are preferred, they make you wait for 40 minutes for your car.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURybGJqZElBEAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Felipe A. Cevallos",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "My first time renting with Avis. The wait time in line was less than 5 minutes and the service representative was very helpful and kind. I even got a better vehicle than the one I was expecting!! Absolutely will use your rental service again, and in the future.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSNC11ci1nRRAB",
+    "location_id": "JFK",
+    "rating": 4.0,
+    "reviewer_name": "Sandhya Prashant",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "The car we got has stains on the seat and inside door which did not feel clean. Other than that everything else was smooth. We rented in buffalo and returned at JFK",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WblIxOTFWRVV4UmpoTWNVdEJlVU5zTVZVeldtYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Christian Martin Stahl",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Probably one of the worst car rental experiences that is out there. I am Avis Preferred and Avis has all my information including drivers license, address, credit card etc. One would then expect that the car would be ready when arriving \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis Preferred"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2cXRxam9BRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Yatin Pradhan",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "I have picked up and dropped off cars multiple times in the last few weeks and every time it was smooth sailing. The drop off is simple, pull in and let the Avis guy do his thing. For pickups, just find the name on the display and go to the parked spot and drive off. I am a president\u2019s club member so No waiting or talking to anyone.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3Mlp5OGRnEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Troy Jenkinson",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "Absolutely horrific service. Had to wait almost 2 hours to pick up the car in the first place. Only 2 people working the desk, 1 person checking in the premium guests and 1 person sorting out standard class (us). The queue went out beyond \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScVRWQXhjV3RWUVd4T2RFUjZNRTFaU1ZCb1RYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Samuel Magharious",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "As an Avis Preferred member for years, I was highly disappointed with my recent experience. After a lengthy wait in the Preferred line, I was finally assigned a car and told to wait outside. 45 minutes later, no car appeared. When I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "preferred_program",
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUeGFPVXNRRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Saulo P.",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "I had a reservation for Saturday 1AM, there were only 2 employees to do all the job (including inspecting and release the cars). I am here for almost 1 hour and only three customers were served. One of the employees said that the company \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMFEwTjNlbkZyU1dGWE0zcG5XVU5XUW5GdU5uYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Khalid Awadh",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Worst experience ever! THE FRONT DESK IS VERY RUDE\n\nReturned a defective car next day and try to get a replacement vehicle they told \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSFdrYzBYMlp3V0VKNVFsSXlRV2R4WkZGMmNYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Talha \u00dcnsal",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "First they made me wait 1 hour in the line because they decided to have only 1 counter available then they gave me a shit car without CarPlay which I could not change of course, and finally they charged me $250 fuel service fee even though \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJbkc0dkhwN1lxaGJnEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Emily Kennedy",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "The car was clean and seemed quite new, but that's about it with the positives. The dash showed that a service was needed over 1000 miles ago.\nCustomer service at pick up wasn't great. We asked a question about tolls and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "service"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUGRrUnpZM2RpZVVwUmFrSnlWVVk0TVZob09XYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Madhur Naredi",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "This is a next level of bad service. Not only Long wait times but the tellers do not communicate clearly and act privileged. They were extremely rude and unprofessional. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6ajdXbDlBRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Tatiana Quinn",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "It was the worst experience in my life. I\u2019ve been in the line for 3 hours from 11:30 pm till 2:50 am and employee MOKIS didn't take me in line after 3 hours of waiting for his own \u201creason\u201d and said that he shouldn't do anything at all, but \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "MOKIS"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kaU1uUlpaRGx0YW1GcFdVMXNhMU5pVUZCd1kwRRAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "marketule \u201cKoldi\u201d",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "Absolute disappointment. When renting a car, everything was fine, when returning it, everything was a problem. Especially\n, Mr. Joseph was very unfriendly, everything was a problem. He absolutely ruined the impression of the car rental company.",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Mr. Joseph"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3NGJleE9nEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Mohd Mubasheer",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "The most irresponsible rental service of the decade title should be awarded to you guys with an additional bonus of being so rude to a customer and not accepting your fault. Are you serious, guys? I need to attend an important meeting, I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJMlhzTzNDclpUajZnRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Brian Davidson",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "First off, I never leave reviews about anywhere, good, bad, indifferent, I usually just don't care enough...With that, DO NOT RENT FROM THIS AVIS LOCATION. Worst rental car experience I've had by a mile. To pickup the rental, I had to wait \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZeFJFTlVUek5IUlRCd1EyZGFVbXhFT1RCS2RHYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Ming Zou",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "very bad experience. they overbooked and I have to wait until someone returns a car, the staff are very rude \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOeU8zSDFRRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Karolina G",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "**update as of February 2**\nThe company promised me a refund for renting me this vehicle with no oil, and now they are saying I was never promised that. Don\u2019t do business with these people \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMTlmcWZREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Zubair Warsi",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "I have a very bad experience with the last night staff , the both associates were very rude especially wearing a white shirt  representative  , as soon as I got my turn after he left the desk which was not bad I was guessing that he went to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWlZXUjFiQzFDVGtGTVJrZEdVMHBzWkhoR1VFRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jill Shadek",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Just don\u2019t do it. Awful. Waited in line for an hour today only to be told when I got to the front that I had to get in the back of the line and start over because I had just signed up for Preferred status. Woman was insanely rude. Everyone in line was miserable. Walked next door to Sixt - no line and I rented a car writhing 5 minutes.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMVNscGZWMWhZWDJaVWFXOHhlbGR4VGxNd2JGRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Ro Cic",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "At the time of collecting the vehicle, the staff member at the counter reassured me that I would not have to pay anything and that my signature was required solely for the collection process. I clearly informed her that I do not have a good command of English. Despite this, I was subsequently charged $",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MlNFeFdUSFZ0U0U5Nk9HRlFWakpDZGxwV09YYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Edward Kim",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Big shout out to Kyrle, the JFK Avis agent who helped me on 7/20/25. I\u2019d reserved a car a week in advance at Alamo and they refused to rent it to me on my debit card when I arrived at JFK despite repeatedly reassuring me that I did NOT need \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": [
+      "Kyrle"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNlh6WnJhV1ozWmtSYU9UUXhOV1ExTTI5bGNWRRAB",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Darren",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Hard to find, had to wait significantly for vehicle as preferred member. Car was good, clean with no order. Return was easy but finding it was difficult depending on direction you come by (Belt parkway) .",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "location_access",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cFgzZFlWVEZpUnpSWlJWRlBjSGxmZG14ME5YYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Katherine Rivas",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "I would like to put 0 stars because seriously the worst car rental service in the United States!!! We rented the car at JFK airport and there was only one person attending with a very long line of which we waited 4 hours since they did not \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "United States",
+      "JFK airport"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CVFIwVXdOSGxDWVV0QmVsWnFZWFZGVEhoaVIzYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Joshua Lee",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "I recently visited New York 3 times and rented a car from AVIS 3 times.\nWhen I returned the first rental car, I clearly FULL Fueled at the GAS STATION next to the airport, but the invoice I received later charged me an additional \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "tolls_epass"
+    ],
+    "entities": [
+      "New York"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGb1VESTJMVEZYY0UxVWIwVkhSRTU1TWxwMldrRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Murodjon Imamov",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "I pay for Camry, they give me 1.3 engine small suv , and told me it is upgraded! How Camry has 2.4 engine, it is downgrade. Small engine cars not driven good , return it same day !",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Camry"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNFVERk5TRzE1V1c1dlpGQjRNRE5XVW5CVlVHYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Antonio Rabuzin",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "They trying to charge 450 USD for cleaning for perfectly clean car almost 2 weeks after return of the car (and deposit was returned initally). Scam, avoid this company",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VLUF9ydkRoM2JTd19BRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Roger Hanna",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "We have been waiting to pick up a reserved car for an hour!  About halfway through the line.  Three employees at six terminals, with one dot matrix printer.  What a crapfest.",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMFIxSTRZVUpNZVVKNFNTMWZlbGhFVUVGVlQzYxAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Juan Chastang Puerma",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "The customer service has a lot to improve, they didnt talk at all except for ask ID and tell me where to go, but nothing else, no details of what car I am getting, petrol situation, confirmation on how many days was rented etc... \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KT1RWQTJPVFpWTUd0VVJ6aDRWMVUyZDFGVWNHYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "jabran pirzada",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Absolutely THE WORST vehicles ever! Booked through them 2 times and both of those times the cars had mechanical problems. I had to goto 5 locations to find a replacement. Not even the customer service support was able to find me a replacement. They kept sending me to different locations.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRU5VSlRkRnBTYTFNeVFqTnJka1pSU1VreFVYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Sarah Sarcona",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Waited over two hours in line to get the rental car we had pre booked ahead of time. We then waited another 40 min for the car to be turned over and cleaned etc. We had our toddler with us so the entire experience was painful and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "rental car",
+      "toddler"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VPcUc5ZHpsenBhQlJREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "MANNY BUENDIA",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Stay away from this place.  The Volvo rental was FILTHY inside and out.  Looked like it had not been washed in weeks.  It had no windshield washer fluid and no one explained the bizarre apps in the car.  To add insult to injury, it was \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "cleanliness",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Volvo"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRlEycEJUM2t0TWt4dWRITmxSRWhDVldkRFJYYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "John Hetherington",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "Great staff so easy a process.\nOnce you get used to the Sky train, up to level 3 then the train to all the car rentals then back down to ground level its right there.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRVVuSmhUMGN4VlRWS1ltUnhiSEpOVm0xWE5HYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jordan",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "3 hour wait to get my rental after a long flight. Never seen a line move so slow. Understaffed, mistakes kept happening with people who were assigned cars coming back inside,  then it took 30 minutes just to pull up my car up after hours of \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMFVFUnpSbll6YldjdFlUUk5VaTFVVjJwWVRIYxAB",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Tim v. K",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Made a reservation l, the car was fine. Downside was the 1,5 hour wait before receiving it. Please make the experience for customers with reservations better!",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReE5sTkRkRGh3YUdSNVdXODJWbnBMWlZsdFRtYxAB",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Chris Cycmanick",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Nice staff when returning the car, however not the friendliest people at the reservation/return counter. Charge also came out slightly more than what Costco priced the reservation at, something I've never seen before.",
+    "sentiment": "neutral",
+    "sentiment_score": 0.2,
+    "topics": [
+      "staff_behavior",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Costco"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSlpYbEdTbnBVUjFsZmMySnJjRk5OWDFJM1VsRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Nitin Asati",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Wait time is horrible. I booked the rental online 3 months ago and waited for more that 2 hrs at midnight of 3rd august 2025 when there were only 3 customers ahead of me and there were two people at the counter processing the booking. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvelowNUZjazFXV210VlNtRjNOR1I0YVhjeVdYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Magdalena Abramowicz",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Rented a car for a day, got the car at 4:40 am but turned out it had a broken front window so they changed the car but did not change the time on the rental so I had a 1,5h less time to return. Also they were supposed to freeze up to 250$ \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "front window"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydjZETk9nEAE",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "carlos alfredo carrasco jorquera",
+    "review_date": "2023-01-15T15:37:31.653457",
+    "review_text": "The attention is very slow but the car is incredible, in my case we reserved a VW Jetta and they gave us a Ford Mustang 5.0.  I made sure to take a video of the state, the vehicle was full of gasoline and we delivered it full.  He also told \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "VW Jetta",
+      "Ford Mustang"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSFpFSkZZM2d4TjFCSExXY3RjeTFJZGxGclEyYxAB",
+    "location_id": "JFK",
+    "rating": 4.0,
+    "reviewer_name": "Chance Altidor",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "A nice and comfortable car with all the new system. The service was fast there with very little wait. Although the reservation was already made online.",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWdWVQOFF3EAE",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Elliot Arakanchi",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Needed a pickup truck for the day . Was quoted more than $100  at counter . Associate told\nMe to book online.Had to wait nearly 30 minutes for the system to show my reservation. Then finally get the truck and is damaged.",
+    "sentiment": "negative",
+    "sentiment_score": -0.6,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadUtUVlR3EAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Ion Timotin",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Hey Carter,\nI bought toll service, was told one price for tolls, which was supposed to be 7.5$ + 6$ daily fee, as a result I was charged 20$ for tolls and an extra 50$ for \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "tolls_epass"
+    ],
+    "entities": [
+      "Carter"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTlZGaDZVV1poWW5scWExTTVXSFI1YzA5ME5uYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Adam Geiger",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Probably the worst rental car location I\u2019ve been to in my life. We had to wait almost and hour to talk to someone, incredibly slow, the car we got was dirty and had mechanical problems and they were incredibly unhelpful in modifying our rental. Total disaster",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEcS1PdDZnRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Kathrine Espino",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "If I can give a zero I would!! STAY AWAY FROM AVIS!! IF YOU EXPERIENCE ANY PROBLEM NO ONE WILL BE ABLE TO HELP YOU!! I REPEAT I DO NOT RECOMMEND THIS COMPANY TO DEAL WITH!!!My husband picked up a van yesterday from AVIS in JFK and just \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kUmIwTXRPWEF5VlVGcmRtSmFhbkpFZFRoVmNsRRAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Norm Walker",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "All of the staff were super friendly and they checked us in and into a car in about 15 minutes.  The issues was we waited almost 30 min for our to get cleaned and brought up for us.",
+    "sentiment": "negative",
+    "sentiment_score": -0.4,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwbHBYaHV3RRAB",
+    "location_id": "JFK",
+    "rating": 4.0,
+    "reviewer_name": "Euan McDougall",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Booked 2 week car rental from jfk in August 2023. Very quick check in at desk, but was presented with a badly damaged car - front fender was covered on dents - these had been marked with crosses for repair. I returned to desk and quickly \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VOV0J1dlNOMWJ2eVhBEAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Jonathan Ortiz",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "Everyone should become an Avis preferred member. Easy and fast reservations, skip the lines when picking up with express exit. I do everything thru the app and if you speak to staff they are very helpful at the Avis at JFK.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "customer_service",
+      "location_access"
+    ],
+    "entities": [
+      "Avis preferred member",
+      "JFK"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyejVPaDZ3RRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Sarah Budd",
+    "review_date": "2023-01-15T15:37:31.653457",
+    "review_text": "Treat \u201cPreferred\u201d customers very rudely, terrible service. They had 4 agents helping general customers, and only one helping \u201cpreferred\u201d customers. You can see this in my photo. As a result, we waiting AN HOUR to get a car, which we\u2019re \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNkpmY3NnRRAB",
+    "location_id": "JFK",
+    "rating": 4.0,
+    "reviewer_name": "Cosmin Iordache",
+    "review_date": "2025-05-19T15:37:31.653457",
+    "review_text": "Spent 30 minutes on the queue when we picked up the car (not too bad) and dropped off is extremely easy: park it up at drop off point, take your luggage, leave the keys in and go to your departure terminal. Ten minutes later we've receive \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaFlrVkdjRXBFTkRaUFdGOUJZMmRpWWxwNVVFRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Maha Tariq",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Well. The experience was terrible. Booked a denali, or similar, a suburban in fact, gave me a navigator. Charged me $75 extra everyday, terrible. Y\u2019all just ambush people. Wouldn\u2019t visit again.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMk1LTG5BRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "S M",
+    "review_date": "2025-05-19T15:37:31.653457",
+    "review_text": "This place is a scam. First they gave me a car that reeked of cigarette smoke, after waiting in line again they swapped my rental for a car that didn't stink but had definitely not been cleaned and had scratches and damage. I dropped off \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25reVgyczBaVWh6VUhOSWRXOXNjVTFRYmpGU1JXYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Shirlye Serrano",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Have no idea why they charge me for having a delay flight, I understand that is on their policy rules but that policy should change do that I\u2019m not driving the car and the car been pay off already, will not just that but I didn\u2019t get the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSa1FXb3hVM2xRZFVsRVpXdFljVGgxUVRWbVUxRRAB",
+    "location_id": "JFK",
+    "rating": 4.0,
+    "reviewer_name": "Annie Timura",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Wait was way too long for the amount of people they had working the desk. The people were just sitting there laughing instead of helping customers. However it was easy and clean once I got the car.",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VQQ1Q3SWFnc3ItSzRRRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Michael Lee",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Rented a car Saturday. Returned a car Sunday. They didn\u2019t check it in until Friday. They charged me for 6 extra days. They will then deny that you returned the car and ask YOU for proof that the car was returned on time. Their job is to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VORFU2YlBxcU9PNEhnEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Tina King",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "We picked up our car here at JFK and dropped it off at Dulles airport. Woefully inefficient. When you arrive at an airport and endured a 2hr queue at the immigration, the last thing you need is more waiting. Be aware that confirmation email \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "JFK",
+      "Dulles airport"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VMejB5T3pTczdPMHNnRRAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Dario Rojas",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "The customer service here is amazing how bad it is. I don't have a single good thing to say about the management. Spoke to a customer service agent on the phone and the agent on the phone instructed a fee be waived because it was an error \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "customer_service",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0Z2QzSkRBEAE",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Frank C",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "Car was extremely dirty with countless amounts of scratches and chips. The interior had a somewhat of a chemical smell like it was masking an odor or cigarette smell",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJWHhnS0dxbnNuOURBEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Gary",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "Avoid Avis at all costs\u2014my recent rental experience was a complete nightmare. I prepaid online for a simple one-way overnight rental from JFK airport. Despite prepaying, I was forced to wait in line for over an hour just to pick up the car, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis",
+      "JFK airport"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVYweElMVTlVV0hkTFZXVm5VMWt4ZHpaaVEwRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Genadi Kazakevich",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "We wate 2 hours and 40 minuts to get the car that reserved already before.  The flour  was fool of many sleeping people, children that wated hours to get the car. It was terrible.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": [
+      "sleeping people",
+      "children"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMlVEaG5YM2wxTFd4WFozUkdTVEZrZEMxNE9FRRAB",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Yusef Saeed",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "The service center did not have wifi (they say due to construction). I wasn't able to pull up my confirmation information when I was in line and had to step out of line to do go outside to get service. It was very hot and difficult after a \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwamNMa1dREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "fateme ekbatani",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "TERRIBLE service!! Spent more than 3 hours in line to rent a car!!  Only one staff is available who is not even bother himself to work !! You can see in this photo what is going on here right now. Costumers are exhausted and nobody wants to help them and facilitate the service\u2026.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toYWQzVmhaVXQwUzB0TGRFTTRXazB4T1VsMVdVRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Lisa Pedzik",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Long lines. Long wait time. No cars available. Plan for 30 minute minimum after waiting 30 minutes in line. The car I rented had 50K miles, not a new car",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWGNqQjFVV2M0YWtWR1NtRmxNRlZMVm1GYWRsRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Subash Dwarkanauth",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Had a great experience! They already had my car waiting for me when I got there so all I had to do was drive out. Thank you Avis for also giving me a great pick SUV for my trip it was perfect.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "SUV"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSGVrMDFibk10UmtSd2NXcHlZbWxLVlVkemNtYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Mona Khurana",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Absolute worst customer service. Especially by the Avis Preferred rep. What a horrible woman. Charged us $400 more because she would not honor our online reservation. Showed her the confirmation number and everything but would not honor it \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKNXJ5LTdBRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Nina House",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Arrived to pick up a car at Budget rental finding out it was closed from 11:30p-5:30a.  This information was not provided at the time  making the reservation for the car. So at the note stated to go to Avis rental to help. So as shown at \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "location_access",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Budget",
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMVdFMTFXVFZDVldSVk1VRlJVMG93UlhFemNHYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Faraibe Khan",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Be careful of how old you are. They let under 25 get a 8 seater suv online but in person they don\u2019t. If you want to waste time book with this company otherwise go to somewhere else. Worst customer service there is out there.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VQbjEyX1hmdjhfcTNnRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Federico V",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "A Disappointing Experience Despite Online Check-in\n\nMy recent experience with Avis car rental in JFK New York was not so great. A \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.6,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": [
+      "JFK New York"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSmNXVklZV3hOTW5wcUxWcGpkeTFYU2tSeVMxRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "S Weinberger",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "Horrible customer service\nYou make a reservation for one class and they give you a different one\nAnd the vehicle is dirty",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVGFWZGlMVXBtT1RKRFRrMVlSR1I0TFd4YWNGRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Daniel Blake",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "If your time is important to you never go here, the smoothest rental company that actually cares about it's customers is HERTZ I repeat if you want to wait for an hour or longer just to not get the car you wanted, or to be late for your appointment rsvp with AVIS",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "HERTZ",
+      "AVIS"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSbGRYaHhhSE5GTVRVeVIzWmtSa2RwYVdKTGNYYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "R R",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "Great staff here! So helpful\u2026they go out of their way for their customer. Shout out to Kiniarti, Simi, Freddy, Matt and everyone else.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Kiniarti",
+      "Simi",
+      "Freddy",
+      "Matt"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtaFB6YldREAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Wade Z",
+    "review_date": "2023-01-15T15:37:31.653457",
+    "review_text": "Great vehicle holds 7 people and good on gas. I had the easy pass added so driving by the tolls was a breeze. I thank the person at the desk for helping me with this rental. The car was very clean and we all had a great experience. I really appreciate it.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "tolls_epass",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdm9yT2ZnEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Desert Skipper",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "1AM - The whole Avis system was down.\n\nHad to wait an hour at 1 AM. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlX3VMWnB3RRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Ejaz Siddiqui",
+    "review_date": "2023-01-15T15:37:31.653457",
+    "review_text": "Excellent Customer service on phone and at the pick up and return counters. Great product at even better value price with latest technology included in base price. Very helpful in changing my drop off location closer to my home and at no charge .",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25veU4wdFJTMnA1ZVVzelJuaDZhM1pVVUVoTE9IYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "S & L Helfrich",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "Tried to cancel. Wouldn't let me. Said I booked a 3rd party. Called booking.com. They wouldn't let me\nGot the run around. They suck.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": [
+      "booking.com"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sM1NVWnJiSGxJZGsxZk9HMUZlRmRIWVVVdE0yYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Jennifer Powell",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "If I could give this location a negative review, I would. This was the worst car rental experience I have had, and I've had a few. We waited on line for almost 2 hours on a very rainy evening. We had a reservation already. There were 3 \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MVVUSnVjMnBXT0VwTVlYRmxkbkJ5VTFOcGRYYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Alex Carvalho",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Excellent service to check in, if you use the App the car will be waiting for you with the key on. Super easy and convenient return. One of the best, wish all Avis were like this in Europe\ud83e\udd37\ud83c\udffb \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": [
+      "App",
+      "Europe"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1LWNhSmNREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Ed Essey",
+    "review_date": "2023-01-15T15:37:31.653457",
+    "review_text": "This was a horrible rental experience. To give some context, I\u2019ve been an Avis Preferred member for over twenty years with multiple rentals per year. This was my first rental with JFK, and it has been my worst rental ever. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "JFK",
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VQSFowWUdrbWZyS05REAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Ajay Singh",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "Each time I come here for rental pick up . It takes atleast one hour for them to just do the paperwork work. The desk staff are lazy and pathetic . They are a shame and Avis should teach them customer service. Unfortunately My corporate \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wU2VtaHZXRTExYzFoS1owRnpRbkV3V1ZWMUxYYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Ali Gulbay",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "It took over an hour just to reach the Avis desk after 10 hours of flight , which is unacceptable. There were not enough staff to handle the customer volume, and the service quality was below expectations. This delay caused a significant \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCZlltNUNOek54ZERoYVNrTTFSaTFtTFdGcWJHYxAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Matheus Quincozes",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "\"Terrible service. The girl at the priority desk (I\u2019m a President\u2019s Awards member, so imagine the regular service) acted like she was doing me a favor and was extremely rude. For a simple 7-hour extension, they tried to charge me more than \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "pricing_fees",
+      "preferred_program"
+    ],
+    "entities": [
+      "President's Awards member"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VMNzF3TjZ2ai0zVmNnEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Haider Muhammad",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "Absolutely terrible experience at the Avis location next to JFK Airport. The staff there were completely unprofessional and had no clue what they were doing. I came in with a reservation and a simple question about their policy, and not a \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis",
+      "JFK Airport"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmOEx6S0F3EAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Saber",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "Had a very straightforward and easy experience. My flight landed early so we arrived an hour before our booking so had to pay a bit to cover the extra hour. There were a few people in the queue but the line moved super fast. Got the car \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "wait_times",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VKVGlfTjd5emJlZ0h3EAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Edward Yango",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "I am a Avis Preferred member and have been using Avis for over 30 years. I feel compelled to write this review as the service at this location is way below any other Avis locations across the US. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "preferred_program",
+      "location_access"
+    ],
+    "entities": [
+      "Avis",
+      "Avis Preferred"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWVl6Vk1SbGcxYTNFMVdsVmtVMjFoU0dKalpYYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Emily Peralta",
+    "review_date": "2025-12-24T15:37:31.653457",
+    "review_text": "As a preferred member, it went fast and we got our car quickly! Crystal helped me and was amazing.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBc19YeFZREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Lauren Lauterbach",
+    "review_date": "2025-02-18T15:37:31.653457",
+    "review_text": "They are trying to scam me to pay for a shattered broken glass rear window. At the time of return, an attendant took my keys and emailed me the receipt, said all was good. There was no mention of anything wrong with the car. A month later \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "insurance"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJNExVOHhiSEV6WmxWTVNVcElVWEZIYTNsWVRIYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Driver Driver",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "STAY AWAY STAY AWAY from this car rental management here does not care about your reservation & money you spend\ni made a reservation for a premium elite vehicle when I get here it\u2019s not \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VPT29uZFhWazg2a2VBEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Benjamin L",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "We picked up our truck in jfk on May 7 11pm, the front desk has an attitude and treat customers impatiently. When we pick up the car, the windows are greasy and there is a spider crawling on the windshield. In addition, there are weird \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "JFK"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VMbXQzZnp2bE5MeE9BEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Peter Dempsey",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "i arrived at 2am due to numerous flight delays. the staff of 3 were working without any degree of urgency with dozens of upset passengers in front of them. they allowed non-premium members to get in the premium line and then had to explain \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwanBXOElREAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Pierluigi Rossi",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Express check in and good service, I had a problem with the car and at an Avis office in Toronto they changed the car in less than 10 minutes. I felt very comfortable having Avis offices in all places where I traveled.\nI will recommend Avis to all my friends!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis",
+      "Toronto"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VLckZpdTNMelkyRXpRRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Matthew Bilodeau",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "Understaffed and VERY LONG WAIT TIMES!!!! Vehicle locations were not listed on the preferred board and required waiting in a very slow moving line. The staff also ignored the Avis preferred line. I cannot believe how long it takes to go \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis",
+      "Avis preferred"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMDdYekN3EAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Pat Jenakanandhini",
+    "review_date": "2025-05-19T15:37:31.653457",
+    "review_text": "Terrible experience at Avis. Despite completing the pre-check-in online (which didn't save any time) and only having 5 people ahead in line, I waited nearly 1.5 HOURS to process my rental (15-20 minutes per customer!), followed by another \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwakpqS2tRRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Andrew Latham",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Just want to add to the many many reviews describing the same experience.  50-100 people in line, only 3 staff working, been standing here for about twenty minutes and the line has moved once.  It's 5 PM and I've already told my 8 PM dinner \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4MnY3Tk1BEAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Andreas Haferkorn",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Everything worked smoothly. The car was great and as ordered. When picking up we also had the choice between two vehicles. The return was perfect and also very easy and customer friendly. Everything top and at any time again. Thank you Avis team.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwa29fcThnRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Abdullah Alotaibi",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "AVIS provided me with a wonderful experience, despite my initial reluctance to rent a car from them due to some negative reviews I had read. As an AVIS preferred member, the process of renting and returning the car was fast and efficient. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": [
+      "AVIS"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VMT0twTlNEMHRpYW1RRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Tamar Kater",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "What terrible service!!!! We pre-ordered the car two days before arrival, and with a 25-minute flight delay, I joined the Avis line, which had about 60 people in it, with and without reservations. 2 people in the customer support line out \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keGVqUjFiM3BEWTJsblFsTmZUa05UVUdseVUyYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Michael Selberg",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "No issues, ran smoothly, which is very, very high praise in the rental car space.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VPenY0dG0wLXNIVUt3EAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Lydia Figueroa",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "Was very surprised, i made reservation 1st week of May i asked if they accept master debit card and they said yes,, today June 13th I flew into JFK went to pick up my rental the lady asked fir the credit card and I explained to her what i \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": [
+      "JFK"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyLW96NDZnRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Brian Chau",
+    "review_date": "2023-01-15T15:37:31.653457",
+    "review_text": "I had same issue with some of the people doing a review here. I already returned the car on 5/8/2022, they never took my car out and continue let someone else rent and I got charge for the next 4 day which is shown on my receipt 5/12/2022. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwN3BXbVNREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Robert Jones",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "Having traveled to JFK the car I was presented with had bald tyres, had this not been noticed by myself, my whole family would have been put at serious risk of harm and injury in the event of a high speed blow out. The tyres were not only \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "JFK"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbFZrdFJSak5yYWs5Vk9IbHJhVlphZVRNM1gwRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Philli K",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "The service at this location is terrible prepare to wait for hours for your rental car. Understaffed and this is an airport where lots of rentals should be expected. Customer service is better at smaller locations.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRFJWbE1iV1ZrVmtKeWJVa3pNV0o1YUVaQ01YYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Itamar Rain",
+    "review_date": "2025-10-16T15:37:31.653457",
+    "review_text": "The most horrible service by far we ever got in Avis in the US.\nRude and unpleasant service, representatives who are doing the really bare minimum. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VLNm5wX255aW9pakF3EAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Theresa Squire",
+    "review_date": "2025-06-18T15:37:31.653457",
+    "review_text": "I am picking up my car. I had to wait about 30 minutes but there was a long line of people. There 3 people working at the counter and they all three were really nice and helpful to everyone renting a car. The man helping me was really kind and answered all my questions and gave me good advice without judgement. Thank you.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21scE5VUmxPRk55YmxKU09EUmZMVFpaWDFRd2FtYxAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Francisco Rodriguez",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "I do not recommend it at all. I made a reservation 3 weeks before, and when I went to pick up the vehicle, they told me it was not available. Very bad service.\ud83d\udc4e \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1U1MwNHhTVlEzTjJSZlJIbGxVMUIwV2xOdVExRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Murali Peddi",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "I waited for 3 hours to get my reserved car. There\u2019s only one staff person who is working and there were atleast 50 persons waiting in the queue. It would have much more helpful if they have more staff members to help customers.",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfOEo3MUtREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Lukasz Kedzierski",
+    "review_date": "2025-02-18T15:37:31.653457",
+    "review_text": "Long wait in the office to have the car processed and additional wait outside to have the car driven to the pick up point. Skeletal and rather rude staff.\nThis is only a part of problem though. They run a scam there and charge people \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "tolls_epass"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3aHZHSUhBEAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Mai Dan",
+    "review_date": "2025-04-19T15:37:31.653457",
+    "review_text": "I arrived at the JFK airport service after they confirmed my car reservation on the website. They didn't mention that they needed a credit card, just another charge of the same amount. (In case something happens to the car) At the counter I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "reservation_issues",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis",
+      "JFK airport"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNmVXcGFSblZ1VDJJNVRHNUJkMkZpUjBseFRGRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Yasir Raja",
+    "review_date": "2025-09-16T15:37:31.653457",
+    "review_text": "The customer service here is terrible. They're completely useless and rude. The car and pricing was not an issue, it's just the people that work there.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoanJMX05REAE",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Nazirah M",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "I was very satisfied with my service from JFK Avis Car Rental. Marques was very accommodating and patient. He helped me to reserve a vehicle that fit our family\u2019s needs for our trip. Highly recommend this location and its staff. Thank you again",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "JFK Avis Car Rental",
+      "Marques"
+    ]
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNnRHV193RRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "John Barnes",
+    "review_date": "2025-01-14T15:37:31.653457",
+    "review_text": "Absolutely terrible service, been in the Q for 120 mins with only 10 customers in front. 3 people behind the counter. They keep calling the preferred customers and only calling the \u2018standard\u2019 every so often. When we get to the counter we\u2019re \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UGVVdHVWUzFPZUZGbmFHeFBRVVozYUc0NVRVRRAB",
+    "location_id": "JFK",
+    "rating": 2.0,
+    "reviewer_name": "Zac Howell",
+    "review_date": "2025-12-15T15:37:31.653457",
+    "review_text": "This was dreadful, there must have been around 50 people waiting for cars between avis and budget, each only having one person to deal with customers, I was only there to collect keys for a exchange car but was still made to wait 3 hours in \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": [
+      "avis",
+      "budget"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVmExUktkbDlZWVhReGEwNTRObnBVYTNkeVYxRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "john ardesia",
+    "review_date": "2026-01-07T15:37:31.653457",
+    "review_text": "Great Customer Service, wonderful vehicle, easy rental and Drop off",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25odlJuRlFSbVI1YkRWVU5FczNNMEZoZDNsMVZYYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "JP",
+    "review_date": "2025-08-17T15:37:31.653457",
+    "review_text": "FYI:This location is under construction. Be mindful of this when returning your vehicle. \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MGZxNHRnRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Travis Macy",
+    "review_date": "2025-04-19T15:37:31.653457",
+    "review_text": "I had the absolute worst experience with this place. Avis charged me nearly $200.00 in tolls when I had proof that I was nowhere near those toll crossings during my entire reservation. I contacted Avis Customer Service, they simply said \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "tolls_epass"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnd1gwNDBZVmRtTVRWaGRrcEJNRkpPYTJ4M2VrRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Zalmen Raskin",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "If I could leave a minus review I would.\nWaited an hour in line to get my reserved car.\nThen had to wait another 45 until they cleaned it and allowed us to drive it. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRei1QbzhRRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "AbbeyDawn Ruan",
+    "review_date": "2018-01-16T15:37:31.653457",
+    "review_text": "Just rented a car with Avis. Picked up and dropped off very fast. Staffs are nice. The car was pretty New, 2017. Very nice car at cheap price. The lady gave us choices to check the car to see if we like it or wanted to switched. They have plenty luxury sport cars. We Will definitely rent in the future for long distance travel.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4dTVmTGZREAE",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Parth Sharma",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "It is 1 in the morning and there are no cars available, even for preferred customers, all of which have reserved in advance. Agents are helpless and non communicative. They are occasionally glancing at their monitors, casually chatting with \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tScmFERnJRbnB5ZG5KWlkxUTVNVGQwVlhkRVluYxAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "brian T",
+    "review_date": "2025-11-15T15:37:31.653457",
+    "review_text": "Nice customer service\nThe car was top notch\nEasy drop off at the airport",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeWJYTmpkVEJ5TkRBM1dtZ3hTbkJSU0VzMU0xRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Matt M",
+    "review_date": "2025-12-24T15:37:31.653457",
+    "review_text": "Avis preferred doesn't help here. Waited 45 minutes for a car to come out. Not the first time this happened. They need more guys cleaning and prepping cars",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWlFXMXhhSEpDWDNwR2RGbHlRV1JST1RaU1ZGRRAB",
+    "location_id": "JFK",
+    "rating": 1.0,
+    "reviewer_name": "Sherline Pereira",
+    "review_date": "2025-07-18T15:37:31.653457",
+    "review_text": "The worst customer service. The lines and wait time is unbelievable. Took me a hours to get to a representative. There are only 2 people on the counter helping customer and they combined Avis and Payless. Never taking Avis again.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOWRlTWV3EAE",
+    "location_id": "JFK",
+    "rating": 3.0,
+    "reviewer_name": "Raj Palanisamy",
+    "review_date": "2025-05-19T15:37:31.653457",
+    "review_text": "The rental process was very slow. I had to wait about an hour between checking in at the counter and actually receiving the car, mainly because of delays in paperwork and having the car cleaned. It would help to streamline the process for a better customer experience",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGNGVLUXhnRRAB",
+    "location_id": "JFK",
+    "rating": 5.0,
+    "reviewer_name": "Mirela Graure",
+    "review_date": "2024-01-15T15:37:31.653457",
+    "review_text": "The car was excellent, I think it was a higher class than I booked. I was confused by the cold attitude of couter desk emplyees, who coundn't answer on the details of payment, when I asked about the split of the requested payment the answer \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.5,
+    "topics": [
+      "vehicle_condition",
+      "staff_behavior"
+    ],
+    "entities": []
+  }
+]

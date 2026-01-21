@@ -340,7 +340,7 @@ async def get_sentiment_details(location_id: Optional[str] = None):
                 "review_id": row['review_id'],
                 "score": row['sentiment_score'],
                 "rating": row['rating'],
-                "text_preview": row['review_text'][:150] + "..." if len(row['review_text']) > 150 else row['review_text']
+                "text": row['review_text']
             })
     
     conn.close()
@@ -389,6 +389,129 @@ async def get_recent_reviews(location_id: Optional[str] = None, limit: int = 10)
     
     conn.close()
     return {"reviews": reviews}
+
+
+# Predefined queries for highlight detection
+HIGHLIGHT_QUERIES = [
+    {"query": "long wait times delays queue complaints", "topic": "wait_times", "label": "Wait Times"},
+    {"query": "rude staff unhelpful bad customer service", "topic": "staff_behavior", "label": "Staff Behavior"},
+    {"query": "dirty car vehicle condition mechanical issues", "topic": "vehicle_condition", "label": "Vehicle Condition"},
+    {"query": "hidden fees overcharges unexpected billing costs", "topic": "pricing_fees", "label": "Pricing & Fees"},
+    {"query": "reservation not honored booking cancelled", "topic": "reservation_issues", "label": "Reservation Issues"},
+    {"query": "cleanliness dirty smell unclean", "topic": "cleanliness", "label": "Cleanliness"},
+]
+
+
+@app.get("/api/dashboard/highlight")
+async def get_highlight(location_id: Optional[str] = None):
+    """Get the most critical complaint highlight for the dashboard alert"""
+    from utils.bedrock import BedrockClient
+    
+    bedrock = BedrockClient()
+    conn = db.get_connection()
+    conn.row_factory = __import__('sqlite3').Row
+    cursor = conn.cursor()
+    
+    # Gather complaint stats for each topic
+    location_filter = "AND r.location_id = ?" if location_id else ""
+    base_params = [location_id] if location_id else []
+    
+    topic_complaints = []
+    
+    for hq in HIGHLIGHT_QUERIES:
+        topic = hq["topic"]
+        # Count negative reviews for this topic
+        cursor.execute(f"""
+            SELECT COUNT(*) as count, AVG(e.sentiment_score) as avg_score
+            FROM reviews r
+            JOIN enrichments e ON r.review_id = e.review_id
+            WHERE e.sentiment = 'negative'
+            AND e.topics LIKE ?
+            {location_filter}
+        """, [f'%"{topic}"%'] + base_params)
+        
+        row = cursor.fetchone()
+        if row and row['count'] > 0:
+            topic_complaints.append({
+                "topic": topic,
+                "label": hq["label"],
+                "query": hq["query"],
+                "count": row['count'],
+                "avg_score": row['avg_score'] or 0
+            })
+    
+    # No complaints found
+    if not topic_complaints:
+        conn.close()
+        return {"highlight": None, "generated_at": datetime.now().isoformat()}
+    
+    # Sort by count * severity (more negative score = higher priority)
+    topic_complaints.sort(key=lambda x: x['count'] * abs(x['avg_score']), reverse=True)
+    top_complaint = topic_complaints[0]
+    
+    # Get a sample review for this topic
+    cursor.execute(f"""
+        SELECT r.review_text, r.rating, e.sentiment_score
+        FROM reviews r
+        JOIN enrichments e ON r.review_id = e.review_id
+        WHERE e.sentiment = 'negative'
+        AND e.topics LIKE ?
+        {location_filter}
+        ORDER BY e.sentiment_score ASC
+        LIMIT 1
+    """, [f'%"{top_complaint["topic"]}"%'] + base_params)
+    
+    sample_row = cursor.fetchone()
+    conn.close()
+    
+    sample_quote = ""
+    sample_rating = None
+    if sample_row:
+        text = sample_row['review_text']
+        sample_quote = text[:150] + "..." if len(text) > 150 else text
+        sample_rating = sample_row['rating']
+    
+    # Determine severity
+    count = top_complaint['count']
+    avg_score = top_complaint['avg_score']
+    if count >= 10 or avg_score < -0.7:
+        severity = "high"
+    elif count >= 5 or avg_score < -0.5:
+        severity = "medium"
+    else:
+        severity = "low"
+    
+    # Generate dynamic headline using LLM
+    headline_prompt = f"""Generate a short, urgent alert headline (max 10 words) for a car rental dashboard.
+Topic: {top_complaint['label']}
+Complaint count: {count}
+Sample complaint: {sample_quote}
+
+Return ONLY the headline text, no quotes or explanation. Make it actionable and specific."""
+
+    headline = bedrock.invoke(headline_prompt, max_tokens=50, temperature=0.7).strip().strip('"')
+    
+    # Fallback headline if LLM fails
+    if not headline:
+        headline = f"{top_complaint['label']} issues need attention"
+    
+    location_context = f" at {location_id}" if location_id else ""
+    analysis_query = f"Show me all complaints about {top_complaint['label'].lower()}{location_context}"
+    
+    return {
+        "highlight": {
+            "headline": headline,
+            "description": f"{count} complaints identified",
+            "severity": severity,
+            "topic": top_complaint['topic'],
+            "topic_label": top_complaint['label'],
+            "complaint_count": count,
+            "sample_quote": sample_quote,
+            "sample_rating": sample_rating,
+            "analysis_query": analysis_query
+        },
+        "generated_at": datetime.now().isoformat()
+    }
 
 
 if __name__ == "__main__":
