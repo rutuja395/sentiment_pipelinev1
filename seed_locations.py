@@ -26,11 +26,11 @@ LOCATION_COORDS = {
 def seed_locations():
     db = Database()
     
-    # Get existing location_ids from reviews
+    # Get existing location_ids from reviews using SQLAlchemy
+    from sqlalchemy import text
     conn = db.get_connection()
-    cursor = conn.cursor()
-    cursor.execute("SELECT DISTINCT location_id FROM reviews")
-    existing_locations = [row[0] for row in cursor.fetchall()]
+    result = conn.execute(text("SELECT DISTINCT location_id FROM reviews"))
+    existing_locations = [row[0] for row in result.fetchall()]
     conn.close()
     
     print(f"Found {len(existing_locations)} locations in database: {existing_locations}")
