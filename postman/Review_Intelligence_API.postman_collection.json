@@ -720,6 +720,154 @@
           }
         }
       ]
+    },
+    {
+      "name": "Reddit",
+      "description": "Reddit data ingestion and analysis endpoints. Ingest Reddit posts/comments about car rental brands.",
+      "item": [
+        {
+          "name": "Ingest Reddit Data",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"file_path\": null,\n  \"enrich\": true\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/ingestion/reddit",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "ingestion", "reddit"]
+            },
+            "description": "Ingest Reddit data from JSON files in data/raw/reddit/. Set file_path to process a specific file, or leave null to process all files. Returns a job_id for tracking."
+          }
+        },
+        {
+          "name": "Get Reddit Stats",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/reddit/stats?brand={{brand}}",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "reddit", "stats"],
+              "query": [
+                {
+                  "key": "brand",
+                  "value": "{{brand}}",
+                  "description": "Optional: Filter by brand (e.g. avis)"
+                }
+              ]
+            },
+            "description": "Get statistics for Reddit reviews including sentiment breakdown, top topics, and subreddit distribution."
+          }
+        },
+        {
+          "name": "Get Reddit Stats (All Brands)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/reddit/stats",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "reddit", "stats"]
+            },
+            "description": "Get Reddit statistics across all brands."
+          }
+        },
+        {
+          "name": "Get Reddit Reviews",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/reddit/reviews?brand={{brand}}&limit=50",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "reddit", "reviews"],
+              "query": [
+                {
+                  "key": "brand",
+                  "value": "{{brand}}",
+                  "description": "Optional: Filter by brand"
+                },
+                {
+                  "key": "subreddit",
+                  "value": "",
+                  "description": "Optional: Filter by subreddit (e.g. travel, scams, cars)",
+                  "disabled": true
+                },
+                {
+                  "key": "sentiment",
+                  "value": "",
+                  "description": "Optional: Filter by sentiment (positive, negative, neutral)",
+                  "disabled": true
+                },
+                {
+                  "key": "limit",
+                  "value": "50",
+                  "description": "Max results (up to 500)"
+                }
+              ]
+            },
+            "description": "Get Reddit reviews with optional filters. Includes subreddit, post title, and vote count from original Reddit data."
+          }
+        },
+        {
+          "name": "Get Reddit Reviews (By Subreddit)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/reddit/reviews?subreddit=scams&limit=50",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "reddit", "reviews"],
+              "query": [
+                {
+                  "key": "subreddit",
+                  "value": "scams",
+                  "description": "Filter by subreddit"
+                },
+                {
+                  "key": "limit",
+                  "value": "50",
+                  "description": "Max results"
+                }
+              ]
+            },
+            "description": "Get Reddit reviews from a specific subreddit (e.g. r/scams for fraud-related discussions)."
+          }
+        },
+        {
+          "name": "Get Reddit Reviews (Negative)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/reddit/reviews?sentiment=negative&limit=50",
+              "host": ["{{baseUrl}}"],
+              "path": ["api", "reddit", "reviews"],
+              "query": [
+                {
+                  "key": "sentiment",
+                  "value": "negative",
+                  "description": "Filter to negative sentiment"
+                },
+                {
+                  "key": "limit",
+                  "value": "50",
+                  "description": "Max results"
+                }
+              ]
+            },
+            "description": "Get negative Reddit reviews - useful for identifying complaints and issues discussed on Reddit."
+          }
+        }
+      ]
     }
   ]
 }

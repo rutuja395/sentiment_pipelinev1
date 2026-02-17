@@ -1,0 +1,161 @@
+[
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2s5MmJtWlVlVmhMVTFWbFF6RlNXSEI0T1V4UFUzYxAB",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sadman Ahmed Ayon",
+    "review_date": "2026-02-06T10:19:00.092064",
+    "review_text": "I was charged $100 more than what I was told and they did not even reach out to let me know the reason. They didn\u2019t provide the receipt which the lady at the counter told me it will be sent to my email. Also the lady forced me to pay in \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUMyb3RtTVRBEAE",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Unlimited Flooring Sheffield",
+    "review_date": "2023-02-11T10:19:10.735194",
+    "review_text": "First time using Avis for our vacation/business trip. We prepaid in the UK, and arrived at the counter, all went well, collected the car which was a really nice Expedition XL, really clean car. Was an easy and faultless experience....\ud83d\udc4d, from Josh \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "UK"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURrNDVfbjlnRRAB",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Santiago Gzz",
+    "review_date": "2020-02-12T10:19:10.813491",
+    "review_text": "Big mistake. Even though I'm an Avis Preffered Member they couldn't validate my reservation. It was 1PM there were only two people at the desks. When they finally helped me the lady was extremely slow and unprofessional. She kept messing up \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "reservation_issues",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis Preffered Member"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURBNTVxNnpRRRAB",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Rich Hicks",
+    "review_date": "2018-02-12T10:19:10.914872",
+    "review_text": "Normally I have good experiences with Avis, but not at this location.  We made our reservation for 6PM and received confirmation our car was ready.  Perhaps the car was, but the staff was not.  We arrived on time to find a dozen people \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VLSy0wYWJldS1xNXJBRRAB",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Emma Smith",
+    "review_date": "2025-06-15T10:19:11.022820",
+    "review_text": "\u2e3b\nEdit avoid at all costs. We have now had $135 in toll fees and $103 in road side cover taken from our bank. We were told toll fees were $3.95 plus the toll . We \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "tolls_epass",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURNX0xfcnBBRRAB",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Madeleine Cassidy",
+    "review_date": "2020-02-12T10:19:11.139831",
+    "review_text": "At Avis car rental at the MCO airport, and we've been waiting in line for 15 minutes (and counting, because we still haven't been helped) while two Avis employees stood at the counter and did nothing. The one who is working, is so busy \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis",
+      "MCO airport"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VNbnB4LXJvbzhTTlhREAE",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Timothy Riener",
+    "review_date": "2025-07-15T10:19:11.255606",
+    "review_text": "Talk about your mixed reviews! For the people working at Avis at this airport location, I give them the full five stars. For Avis corporate. I'd like to give them zero stars and a big chewing out for being completely unhelpful. We got to \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUMta1Bhci1BRRAB",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nicolas Perreault",
+    "review_date": "2023-02-11T10:19:11.360047",
+    "review_text": "I rented a car at this location last week (October 2022), the car was filthy. There was food crumbs, sticky drink spills in the center console and stains on the seats (ice cream residues) ect... The car was obviously not cleaned from the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "cleanliness",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pad1ZtVnNNak5MU21KV2NHaDJPSHA2UW1STlNVRRAB",
+    "location_id": "MCO",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Brittney Janovich",
+    "review_date": "2025-08-14T10:19:11.434986",
+    "review_text": "If you are considering renting a vehicle, go somewhere else\u2026ANYWHERE ELSE! The absolute worst customer service. We reserved a large SUV and after waiting an hour and a half in line, we were told our vehicle was not available so we had to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  }
+]

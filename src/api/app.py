@@ -61,9 +61,13 @@ async def get_locations():
     """Get all locations with coordinates for map display"""
     locations = db.get_locations_with_coords()
     brands_map = db.get_brands_by_location()
+    # Filter out locations without valid coordinates (like Reddit's "ALL" location)
+    valid_locations = []
     for loc in locations:
-        loc['brands'] = brands_map.get(loc['location_id'], [])
-    return {"locations": locations}
+        if loc.get('latitude') is not None and loc.get('longitude') is not None:
+            loc['brands'] = brands_map.get(loc['location_id'], [])
+            valid_locations.append(loc)
+    return {"locations": valid_locations}
 
 
 class LocationUpdateRequest(BaseModel):
@@ -717,6 +721,7 @@ async def get_competitive_trends(location_id: Optional[str] = None, period: str 
 
 
 @app.get("/api/competitive/gap-analysis")
+@app.get("/api/competitive/analysis")  # Alias for UI compatibility
 async def get_gap_analysis(location_id: Optional[str] = None):
     """
     Identifies topics where competitors outperform us and vice versa.
@@ -1016,6 +1021,234 @@ async def get_ingestion_status(s3_key: str):
     if not record:
         return {"status": "not_found", "s3_key": s3_key}
     return record
+
+
+# ============ REDDIT INGESTION APIs ============
+
+class RedditIngestionRequest(BaseModel):
+    file_path: Optional[str] = None
+    enrich: bool = True
+
+
+@app.post("/api/ingestion/reddit")
+async def ingest_reddit_data(request: RedditIngestionRequest, background_tasks: BackgroundTasks):
+    """
+    Ingest Reddit data from JSON files.
+    
+    If file_path is provided, ingests that specific file.
+    Otherwise, ingests all files from data/raw/reddit/
+    """
+    from ingestion.reddit_parser import RedditParser
+    from ingestion.enricher import ReviewEnricher
+    
+    job_id = str(uuid.uuid4())[:8]
+    
+    def run_reddit_ingestion():
+        parser = RedditParser()
+        results = []
+        
+        with jobs_lock:
+            ingestion_jobs[job_id]["status"] = "running"
+            ingestion_jobs[job_id]["started_at"] = datetime.now().isoformat()
+        
+        try:
+            if request.file_path:
+                files = [Path(request.file_path)]
+            else:
+                reddit_dir = Path("data/raw/reddit")
+                files = list(reddit_dir.glob("*.json")) if reddit_dir.exists() else []
+            
+            total_inserted = 0
+            total_enriched = 0
+            
+            for file_path in files:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                scrape_date_str = data.get("scrape_date")
+                scrape_date = datetime.strptime(scrape_date_str, "%Y-%m-%d") if scrape_date_str else datetime.now()
+                brand = data.get("brand", "avis")
+                
+                reviews = parser.parse_reddit_data(data, brand=brand, scrape_date=scrape_date)
+                
+                inserted = 0
+                for review in reviews:
+                    try:
+                        db.insert_review(review)
+                        inserted += 1
+                    except Exception as e:
+                        logger.error(f"Error inserting review: {e}")
+                
+                total_inserted += inserted
+                results.append({"file": str(file_path), "inserted": inserted})
+            
+            # Enrich if requested
+            if request.enrich and total_inserted > 0:
+                enricher = ReviewEnricher(db)
+                unenriched = db.get_reviews(unenriched_only=True, limit=1000)
+                reddit_reviews = [r for r in unenriched if r.get('source') == 'reddit']
+                if reddit_reviews:
+                    total_enriched = enricher.enrich_reviews(reddit_reviews)
+            
+            with jobs_lock:
+                ingestion_jobs[job_id].update({
+                    "status": "completed",
+                    "completed_at": datetime.now().isoformat(),
+                    "results": results,
+                    "summary": {
+                        "files_processed": len(files),
+                        "total_inserted": total_inserted,
+                        "total_enriched": total_enriched
+                    }
+                })
+                
+        except Exception as e:
+            logger.error(f"Reddit ingestion failed: {e}")
+            with jobs_lock:
+                ingestion_jobs[job_id].update({
+                    "status": "failed",
+                    "completed_at": datetime.now().isoformat(),
+                    "error": str(e)
+                })
+    
+    with jobs_lock:
+        ingestion_jobs[job_id] = {
+            "job_id": job_id,
+            "type": "reddit_ingestion",
+            "status": "queued",
+            "file_path": request.file_path,
+            "enrich": request.enrich,
+            "created_at": datetime.now().isoformat()
+        }
+    
+    background_tasks.add_task(run_reddit_ingestion)
+    
+    return {
+        "job_id": job_id,
+        "status": "queued",
+        "message": "Reddit ingestion job created. Use /api/ingestion/jobs/{job_id} to check status."
+    }
+
+
+@app.get("/api/reddit/stats")
+async def get_reddit_stats():
+    """Get statistics for Reddit reviews (Avis brand sentiment from Reddit)"""
+    from sqlalchemy import text
+    
+    with db.get_session() as session:
+        # Total Reddit reviews
+        result = session.execute(text("""
+            SELECT COUNT(*) as total, AVG(r.rating) as avg_rating
+            FROM reviews r
+            WHERE r.source = 'reddit'
+        """))
+        stats = result.fetchone()
+        
+        # Sentiment breakdown
+        result = session.execute(text("""
+            SELECT e.sentiment, COUNT(*) as count
+            FROM reviews r
+            JOIN enrichments e ON r.review_id = e.review_id
+            WHERE r.source = 'reddit'
+            GROUP BY e.sentiment
+        """))
+        sentiment_data = {row.sentiment: row.count for row in result.fetchall()}
+        
+        # Top topics from Reddit
+        result = session.execute(text("""
+            SELECT e.topics FROM reviews r
+            JOIN enrichments e ON r.review_id = e.review_id
+            WHERE r.source = 'reddit'
+        """))
+        
+        from collections import Counter
+        topic_counter = Counter()
+        for row in result.fetchall():
+            if row.topics:
+                topics = json.loads(row.topics)
+                topic_counter.update(topics)
+        
+        # Subreddit breakdown (from raw_json)
+        result = session.execute(text("""
+            SELECT r.raw_json FROM reviews r
+            WHERE r.source = 'reddit'
+        """))
+        
+        subreddit_counter = Counter()
+        for row in result.fetchall():
+            if row.raw_json:
+                try:
+                    raw = json.loads(row.raw_json)
+                    subreddit = raw.get("subreddit", "unknown")
+                    subreddit_counter[subreddit] += 1
+                except:
+                    pass
+    
+    return {
+        "source": "reddit",
+        "total_reviews": stats.total,
+        "average_rating": round(stats.avg_rating, 2) if stats.avg_rating else None,
+        "sentiment_breakdown": sentiment_data,
+        "top_topics": [{"topic": t, "count": c} for t, c in topic_counter.most_common(10)],
+        "subreddit_breakdown": [{"subreddit": s, "count": c} for s, c in subreddit_counter.most_common()],
+        "generated_at": datetime.now().isoformat()
+    }
+
+
+@app.get("/api/reddit/reviews")
+async def get_reddit_reviews(
+    subreddit: Optional[str] = None,
+    sentiment: Optional[str] = None,
+    limit: int = Query(50, le=500)
+):
+    """Get Reddit reviews with optional filters"""
+    from sqlalchemy import text
+    
+    filters = ["r.source = 'reddit'"]
+    params = {"limit": limit}
+    if sentiment:
+        filters.append("e.sentiment = :sentiment")
+        params["sentiment"] = sentiment
+    
+    where_clause = " AND ".join(filters)
+    
+    with db.get_session() as session:
+        result = session.execute(text(f"""
+            SELECT r.id, r.review_id, r.brand, r.rating, r.review_text,
+                   r.reviewer_name, r.review_date, r.raw_json,
+                   e.sentiment, e.sentiment_score, e.topics
+            FROM reviews r
+            LEFT JOIN enrichments e ON r.review_id = e.review_id
+            WHERE {where_clause}
+            ORDER BY r.review_date DESC
+            LIMIT :limit
+        """), params)
+        
+        reviews = []
+        for row in result.fetchall():
+            raw_data = json.loads(row.raw_json) if row.raw_json else {}
+            
+            # Filter by subreddit if specified
+            if subreddit and raw_data.get("subreddit", "").lower() != subreddit.lower():
+                continue
+            
+            reviews.append({
+                "id": row.id,
+                "review_id": row.review_id,
+                "brand": row.brand,
+                "rating": row.rating,
+                "review_text": row.review_text,
+                "reviewer_name": row.reviewer_name,
+                "review_date": row.review_date,
+                "subreddit": raw_data.get("subreddit"),
+                "post_title": raw_data.get("post_title"),
+                "votes": raw_data.get("votes"),
+                "sentiment": row.sentiment,
+                "sentiment_score": row.sentiment_score,
+                "topics": json.loads(row.topics) if row.topics else []
+            })
+    
+    return {"reviews": reviews, "count": len(reviews)}
 
 
 if __name__ == "__main__":

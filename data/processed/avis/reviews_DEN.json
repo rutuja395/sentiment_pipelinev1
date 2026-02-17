@@ -1,0 +1,933 @@
+[
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2paSFkxSkJWVzVUVkVFd05FdzNOMjlyY1ZaNFMyYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "James Wood",
+    "review_date": "2025-10-17T07:47:53.135832",
+    "review_text": "I had a great experience renting from Hertz at this location. There were plenty of cars to choose from, and every vehicle on the lot was brand new, very clean, and in excellent condition. As a Hertz Gold Member, I already had a reservation \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz Gold Member"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tNeFVYQnBObFE1V1ZGcmRGUlpVMHhQTldSWVIyYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Niki Vasiliadis",
+    "review_date": "2025-09-17T07:47:53.264414",
+    "review_text": "Super quick and easy to collect the car and also drop it off. Follow the signs at the terminal to rental shuttles lane 4. The shuttles come every few minutes. The process to pick up the car was super quick and easy and the car was in good \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "location_access",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tKS1pYUlZSVUpVVjNvMWJWWnRaMU4xYlc5M1RYYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nicola Weber",
+    "review_date": "2025-09-17T07:47:53.343172",
+    "review_text": "When we received our car, it was dirty both inside and out. After contacting the clerk, our concerns were questioned, and the car was only cleaned on the outside. The inside, however, was still full of sticky spots and food leftovers from \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "cleanliness",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tsQ05sUnhTbTE0U0VGclVFeGxSWEJ4T1VKUVJrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Aaron Craig",
+    "review_date": "2026-02-07T07:47:53.444525",
+    "review_text": "Overall experience of customer service and vehicle were great and Hertz here would have been five stars but they need more buses plain and simple. Acknowledge there are times when surges of customers come through but leaving >5 customers at \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25sWlZHMTJSV2xDV0ZkVlFuZFBkMGRCWVRZeWJXYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Denise",
+    "review_date": "2025-09-17T07:47:53.533029",
+    "review_text": "Abysmal customer service. I am convinced this a scam Hertz has done with their computering. Whilst I filled up gas to the fullest I could physically do without gas leaking out of the nozzle just 1 mile away, the screen showed it as one ring \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VONmc2Zks3dHRPaVZnEAE",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "JAY HWANG",
+    "review_date": "2025-06-19T07:47:53.606444",
+    "review_text": "When you pay more compared to other rental car companies, it's because you're expecting better service. But Hertz at Denver Airport fails from the basics. Before picking up the car, I asked if I could upgrade to a slightly larger vehicle \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xjemFsb3lWV2h0UkRZMFkwOTFURnBwVnpJeVpXYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Phil Blanchard",
+    "review_date": "2025-10-17T07:47:53.657987",
+    "review_text": "Roed trip of a lifetime in a jeep for me and my wife. Hertz made it easy for us. 3000miles from Denver to Rapid city, Red lodge Montana, Yellowstone park road trip.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver",
+      "Rapid City",
+      "Red Lodge Montana",
+      "Yellowstone Park"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25OT1UxZDNVM0pqVGxVNFpHcDJUbmh5VGxSRmFXYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Kelly Zee",
+    "review_date": "2025-08-18T07:47:53.697734",
+    "review_text": "TAKE PHOTOS OF YOUR CAR BEFORE YOU TAKE POSESSION! I recently rented a pickup from this location as a gold Member. The pick up process was fast and smooth however, they tried to claim I damaged the vehicle during my rental. Luckily, I took \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.5,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25kUVJWOW9kMHQ2U1MxcFVWWTRTVlZMTmpoSFVuYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "August Doddato",
+    "review_date": "2025-09-17T07:47:53.740370",
+    "review_text": "I am Yolanda Doddato!  I am so very pleased with the Hertz rental car company !  The staffs are so accommodating & very pleasant & helpful!  I am keeping my rental car for 2 weeks while I am in Colorado!  Thank you Hertz for your kind service \ud83d\udc4d\ud83d\udc95\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f! \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Colorado"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tGc1dubHBiMnhhZHpsbE5UWm5TRVpqUVdORldrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Lisa Warren",
+    "review_date": "2026-01-31T07:47:53.786879",
+    "review_text": "Due to the winter storm sweeping the country, we had to change our flight to 5 hours earlier than originally booked. When I contacted Hertz online about picking up the car earlier, I was told they could not change the reservation since I \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "winter storm"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xWSFowZDJaVGN0WmtabWJYa3pYMmxOTkVGaWVrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Bruce Chamberlin",
+    "review_date": "2025-12-16T07:47:53.845587",
+    "review_text": "This experience was much better than when we rented from Hertz at the San Antonio Airport.\nPicking up the car was a breeze. No wait and the rental agent was friendly and \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 1.0,
+    "topics": [
+      "customer_service",
+      "location_access"
+    ],
+    "entities": [
+      "Hertz",
+      "San Antonio Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pKb2FsY3hjVll0VjFabmNIcHJORzFsZEdod05FRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Alex",
+    "review_date": "2025-09-17T07:47:53.916302",
+    "review_text": "The overall experience with the office staff was great and so was the vehicle I rented. The 2 stars comes because of the very rude hertz shuttle bus driver. A very arrogant and non helpful individual. Luckily Hertz corporate looked into the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.4,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21ZeE4yRmFaRUkyU0V4U2RVTm1VakZ0YkVSV2VIYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Kirk James",
+    "review_date": "2025-12-16T07:47:53.989858",
+    "review_text": "Great prices, good selection of vehicles and really good customer service.\nBoth pick up and drop off at Denver airport was smooth and efficient.",
+    "sentiment": "positive",
+    "sentiment_score": 1.0,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Denver airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25BemJIbEZZWGx6ZDA1TVQxVm5hVGgzVTAxQ1lVRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tyler Hooper",
+    "review_date": "2025-09-17T07:47:54.058406",
+    "review_text": "Hertz oversold cars at the Denver airport leaving hundreds of us stranded for hours. Rent at your own risk. If they had apologized instead of blaming renters for being late (no way that many were late), or if they had offered any \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tKb1UzUjVaMlY2ZWpWbE5ubG1kell0T1hCd2JXYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Michelle Westback",
+    "review_date": "2025-12-16T07:47:54.108194",
+    "review_text": "Horrible experience! Pick up time was set for noon. Received notification that my rental would be held for 2 hours past pickup time. Arrived at 12:45 to pickup to find out that the 20 minute away from me location closed at noon!!! \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "reservation_issues",
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xKMllVWlJURXhVU21sVk5sTjJRM2RoT1ZnNWRrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Victor Trac",
+    "review_date": "2025-10-17T07:47:54.170444",
+    "review_text": "There's a line 50+ people deep waiting for at least 30 minutes now at Denver Airport and no sign of the Hertz shuttle. I've seen ever other company's shuttle go through twice now. Logging into the website gives me an error. I'm a hertz gold presidential or whatever and will seriously reconsider hertz going forward. Unbelievable.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xkVU1tUjFNbXBZTVVkVGIwaFVTelpXTkRoc1RYYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Tzvi H. Kushner",
+    "review_date": "2025-09-17T07:47:54.248645",
+    "review_text": "I had an unbelievable experience here! They gave me great service! They were super nice! Would rent from here again! The whole process was so smooth! They were amazing! They upgraded my rental for very cheap to give me a brand new vehicle! Hertz is the place to rent!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pCVGVWQnNjRVF4V0d0dFkySTFRbTkwWmtONVFuYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Nicholas Coleman Art",
+    "review_date": "2026-01-15T07:47:54.335424",
+    "review_text": "In the past I use to make regular reservation for a rental car, you hop in the shuttle at whatever airport you might be traveling to, you wait in maybe a short line but the last few years I\u2019ve noticed the rental car people have consolidated \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21wR1FVZGlabkJyYm5SSk9GRk1ZWE41U2tGWGJWRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Marcus Waite",
+    "review_date": "2026-02-07T07:47:54.429732",
+    "review_text": "Keep fuel receipts. This location now has charged me twice for \u201cfuel shortages\u201d after fully filling my tank prior to returning.  After the first incidence, I decided to keep all receipts. Served me well this time as I was able to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2swNGRtVnlXRVJVTkhaSU0zTXlRM2xKUXpWaVQxRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Linda Pindiak",
+    "review_date": "2025-09-17T07:47:54.524845",
+    "review_text": "Hertz rental at the Denver International Airport has a great selection of vehicles and the ease of picking up your vehicle is outstanding when you join and have the app. Their employees are outstanding with their customer service. I highly recommend them if you want a hassle free experience.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver International Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25nd1dYaEJTREpLTFRkUmJVVXRXbFZZYUZSeWJtYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Regina C",
+    "review_date": "2025-10-17T07:47:54.595549",
+    "review_text": "My rental process was the easiest I have ever experienced. I avoided the counter, selected all of my options online and was already assigned a car when I arrived. Walked to the car and exited. Quick and simple.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21VMk5WVXhablo1WXpOaVVHeGhVMFJMU21GSWJYYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "joe williams",
+    "review_date": "2025-10-17T07:47:54.665723",
+    "review_text": "Quick, efficient easy access to get to Denver. I had the absolute best bus ride to the terminal! Dave M is a treasure.  What a wonderful way to start a long trip home with such a dedicated employee.  Dave is celebrating his 46th year as a Hertz employee.  Good job Hertz keeping such a rock star!!!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Dave M",
+      "Hertz",
+      "Denver"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2twM0xWRkZSVFJ6Ym01SFNYTTNibE5pYXpsMVJHYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "David Pena",
+    "review_date": "2025-12-16T07:47:54.722347",
+    "review_text": "Picking up a rental should be seamless which it was although finding 5he car was a bit of a challenge easily fixed with better signing. Dave, and his homey professional manner was a treat.  In this day and age finding an employee who is \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "location_access"
+    ],
+    "entities": [
+      "Dave"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2twV05ucEdaRUZhUmxwRk9GcEhNR1JtYzJ3dFQzYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Mathew",
+    "review_date": "2025-08-18T07:47:54.787495",
+    "review_text": "I recently rented a car from this Hertz branch and was quite disappointed with the experience. Although the vehicle was fairly new, it was not properly cleaned. Even more frustrating was a persistent warning alarm that went off every two \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2t4alNGZFJiekZVVkdaZlVuaHhlV1JQTlROT1pYYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Reto Weber",
+    "review_date": "2025-09-17T07:47:54.849969",
+    "review_text": "As we got our car it was dirty inside and out.\nContacting the clerk resulted in questioning our opinion and the car got en outside clean. The inside was still full of sticky spots and food from the last \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21waGVtODJSMmxyTUhCQmJtOW5hRXBXWTJGdldsRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "P D",
+    "review_date": "2025-10-17T07:47:54.948737",
+    "review_text": "Jonathan was awesome. He wished us an early happy birthday but Ashely was not the best. She was rude and the manager wasn\u2019t better. She didn\u2019t introduce herself and just said who am I talking to. The manager did explain the reason why my \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Jonathan",
+      "Ashley"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT210UVJUVldaMmxwVnpsSFgwUmpSemhWVUV4QlZuYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Heema Patel",
+    "review_date": "2025-10-17T07:47:55.055612",
+    "review_text": "I had a great experience renting from Hertz at Denver Airport! Pickup was quick and easy, and the staff was super friendly. I got a Nissan Pathfinder, and wow!! what an awesome SUV! It was super clean, comfortable, and perfect for driving \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver Airport",
+      "Nissan Pathfinder"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21WRVJVSnRSMFpLY2kxSlVWbzNSV0Z3UjBSc2VsRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nicole Seaman",
+    "review_date": "2026-01-31T07:47:55.152540",
+    "review_text": "Absolutely terrible experience.  My husband is a gold plus/ president's circle member and we received the email that our car was ready, keys in it, waiting for us in an assigned spot.  We hop in said car, get to the exit and are told this \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "reservation_issues",
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": [
+      "husband",
+      "gold plus",
+      "president's circle"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnTURJcUs2clBBEAE",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Peter Conway",
+    "review_date": "2025-04-20T07:47:55.239008",
+    "review_text": "Seems like an incredibly long exit line at 11 AM on a Sunday.  Also, well, I really liked the choice of vehicles the SUV we picked up had an incredibly dirty windshield (on the inside). And I wouldn\u2019t call the back \u201cfilthy\u201c but you can see \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.4,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2sxcmRtWjFObWxGWnkweWMwNUhia0pmZFZrM2MyYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Julian L.",
+    "review_date": "2025-09-17T07:47:55.336193",
+    "review_text": "I rented a car from Hertz at Denver Airport for a road trip across the central United States during the summer of 2023, and everything went perfectly. Pickup was fast, the staff was very professional, and the car was perfectly suited for a long journey.  I highly recommend Hertz Denver!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21wbldWVkxWM2RPWjI1dGNGOVBla0ZMY0ZocE1tYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Carolyn Anthon",
+    "review_date": "2025-09-17T07:47:55.426810",
+    "review_text": "This is our 3rd time renting at Denver Airport Hertz. We keep coming back because this company is one of the best for customer service and transparency plus selection of cars. With our family, we always need a vehicle with 5-7 passenger \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT204dE5HUjBYM0puU20xVlNuWTNRV1p1YW10dE5sRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Mark Petty",
+    "review_date": "2026-01-15T07:47:55.524238",
+    "review_text": "Terrible experience. Look elsewhere if you want a quality rental and to be treated with respect. I prepaid for a 7 passenger vehicle to accommodate a large travel party. The 7 passenger vehicle that I reserved was not available. I was given \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tOS2MwOUxRbWx0VDNaTmJubFdSR05aVDJGaVZrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Matthew Foglesong",
+    "review_date": "2026-01-24T07:47:55.585970",
+    "review_text": "Clean facility, nice staff, but no cars available despite having a reservation. 100% not a problem that should impact me or other travelers. No offer to upgrade, no offer of any solution buy just\u2026.\u201dwait over there please and we\u2019ll call your \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xkSmFVcDFiazFXWDBsTU9GUkJNSEJPTW1WS1oyYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Jenna Turner",
+    "review_date": "2025-08-18T07:47:55.651236",
+    "review_text": "Easy and quick pickup process. We enjoyed our rental jeep for touring the Rocky Mountains! Drop off was a breeze and took no time away from our airport arrival.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "reservation_issues",
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21WZmVubHRUVW80VUVSVFpISkRXVFZZUVRObU5GRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Christy Helmer",
+    "review_date": "2025-11-16T07:47:55.710670",
+    "review_text": "We found the shuttle and it came rather quickly. We signed up for the free Hertz Gold Plus Rewards program so names were listed on a board and you go straight to your car and get your key in it and when you go to exit they check you out. It \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 1.0,
+    "topics": [
+      "location_access",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25CdFZVZFNSMTlmY21JeWJXSTNYMUJrV205clVuYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Bear Bull",
+    "review_date": "2026-01-15T07:47:55.777759",
+    "review_text": "I rented a car for a day online but was surprised when I arrived to pick up the car and had to answer the exact same questions that I already did online.   Even after saying I didn't need the insurance, they added it anyway.  I'm glad I had \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pCQ2JFeHpOa3R4TTJJM01GZElVVUUzU1ZCMFdrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Todd Poehl",
+    "review_date": "2025-09-17T07:47:55.860356",
+    "review_text": "I give them a 2 star because at least the car drove. The workers are always nice. They advertise basic cars for $55 to $75, but after their fees, it's always double that price per day. Deceiving. That's just a side gripe. On top of all \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2toVVMyaEpiMGxzZG10Q2QwdEdPVWxpWWt4VldtYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "kartik b",
+    "review_date": "2025-09-17T07:47:55.951187",
+    "review_text": "We had an excellent experience renting from Hertz Denver Airport, thanks to Aaron. He went above and beyond to help us add an additional authorized driver and switch cars, making the whole process smooth and stress-free. It was late and \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz Denver Airport",
+      "Aaron"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25OR2RsZGlVVXBQUlc1TmNUTlpTRFp3YWtjeVpYYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Justin Houston",
+    "review_date": "2026-01-15T07:47:56.062019",
+    "review_text": "Horrible experience.  Twice now they have not had our vehicle ready at the time of pickup.  This time we waited 30 minutes at the gold counter only to be told we were 7th on the list to get that vehicle type.  Person working the desk was \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSURuc2RiNW5RRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Geo-T22 Pav",
+    "review_date": "2025-02-14T07:47:56.153584",
+    "review_text": "I was visiting the Denver area and flew into DIA (Denver International Airport).  I am a long-term Hertz customer dating back to the mid-1990s. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VKelh4Tm5LejlDeGVREAE",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Nathan Ulmer",
+    "review_date": "2025-06-19T07:47:56.252476",
+    "review_text": "Aaron was incredible. I arrived at this location a bit defeated needing to swap vehicles due to sensor issues on a Tesla after driving from Chicago. This location does NOT have Teslas and at first I thought all hope was lost but Aaron made \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Aaron"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSUNodU5HcXRBRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tyler Christensen",
+    "review_date": "2023-02-15T07:47:56.346383",
+    "review_text": "This review is not going to be great, but I will try to be as helpful as I can.\n\nI had reserved a car through my Hertz Gold Membership for Jan. 13 - 17 which \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25Vd1FqQmhSRFZKVG5Ga2FVeHhOa3RKUlUweFJtYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Indu Varshini",
+    "review_date": "2025-10-17T07:47:56.445611",
+    "review_text": "Friendly staff. Detailed instructions. Well maintained Hertz location and a wide selection of cars. One might be paying a little extra on the fees since it is an airport location. Whether you come through the airport or not, this is a great \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "pricing_fees",
+      "location_access"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUNIcGVTY2J3EAE",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Michael C.",
+    "review_date": "2025-02-14T07:47:56.544735",
+    "review_text": "Absolutely worst car rental place. Staff will lie to you, and management is unresponsive. I was \u201csold\u201d gas refill after some pushovers. Then, as I returned the car, I discovered that the sales associate never added it to my reservation so I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pOc2RXMU9RWEoxVWxnMlJVOTViblYwUlY5S09FRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Sajal Sheth",
+    "review_date": "2025-09-17T07:47:56.666690",
+    "review_text": "The Best car rentals \ud83d\ude99\ud83d\ude97\ud83d\udefb\ud83d\ude98\ud83c\udfce\ufe0f\ud83d\ude90\n\nAirport Pick-up & drop in Bus \ud83d\ude90 was best. Every 15 minutes. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25CeU9HNTVaRlV5VjNOM1NWTjVURmhtUmtSNWFrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Pay Pa",
+    "review_date": "2025-12-16T07:47:56.731626",
+    "review_text": "DIW rental was easy to pick up and drop off.  The hertz bus seemed to be slow to pick us up at the airport.  But for the return trip to the airport the bus was waiting for us after we returned the car. Very convenient.  The good thing about DIW is there is only one location for all airlines for pickup and drop off for the rental cars.",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "location_access"
+    ],
+    "entities": [
+      "Hertz",
+      "DIW"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21oSlpEVlRSMGh3YVdSMWNpMDROQzFzU0hOWVUyYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Paul Rannis",
+    "review_date": "2025-10-17T07:47:56.802530",
+    "review_text": "I'll NEVER rent here again. If you reserve your vehicle, check in online and expect to walk in, get in your car and drive off (as they boast about), think again. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21NMk5tdDJTRGs0TkRWRGEyOVZVWEptVTNkeVNuYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Maria Schollmeier",
+    "review_date": "2025-11-16T07:47:56.898562",
+    "review_text": "We had such a frustrating experience with our Hertz rental in Denver. The car battery died twice in two days/ once we were stranded for hours on the side of the road and had to spend most of the day at Pep Boys getting it replaced. Then the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz",
+      "Denver",
+      "Pep Boys"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21vNFpUaG5kSFphYlUwM2MwUk5iRGMxTm1kblFrRRAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Carli B Music",
+    "review_date": "2026-01-24T07:47:56.971287",
+    "review_text": "This was the worst experience I have ever had.  The vehicle wasn\u2019t ready.  I was almost late getting to my flight and it would have put me 2000.00 in the hole.\nI was charged for 4 days of rental when I rented the vehicle for 3 hours.\nIt is still not resolved. Don\u2019t rent from this company.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25aMk1sWlVWVEJLTWxGSVZrVmxiVTVTU25GQmNtYxAB",
+    "location_id": "DEN",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Adam Albrecht",
+    "review_date": "2025-11-16T07:47:57.053715",
+    "review_text": "The very worst experience I have ever had renting a car. It took over an hour to get the car, and I was told I had a free tank of gas as compensation for the wait time. Returned the car with almost half a tank and was then charged $141 for \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": []
+  }
+]

@@ -1,0 +1,1047 @@
+[
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2s5MmJtWlVlVmhMVTFWbFF6RlNXSEI0T1V4UFUzYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sadman Ahmed Ayon",
+    "review_date": "2026-02-06T10:19:00.092064",
+    "review_text": "I was charged $100 more than what I was told and they did not even reach out to let me know the reason. They didn\u2019t provide the receipt which the lady at the counter told me it will be sent to my email. Also the lady forced me to pay in \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUMyb3RtTVRBEAE",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Unlimited Flooring Sheffield",
+    "review_date": "2023-02-11T10:19:10.735194",
+    "review_text": "First time using Avis for our vacation/business trip. We prepaid in the UK, and arrived at the counter, all went well, collected the car which was a really nice Expedition XL, really clean car. Was an easy and faultless experience....\ud83d\udc4d, from Josh \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "UK"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURrNDVfbjlnRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Santiago Gzz",
+    "review_date": "2020-02-12T10:19:10.813491",
+    "review_text": "Big mistake. Even though I'm an Avis Preffered Member they couldn't validate my reservation. It was 1PM there were only two people at the desks. When they finally helped me the lady was extremely slow and unprofessional. She kept messing up \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "reservation_issues",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis Preffered Member"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURBNTVxNnpRRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Rich Hicks",
+    "review_date": "2018-02-12T10:19:10.914872",
+    "review_text": "Normally I have good experiences with Avis, but not at this location.  We made our reservation for 6PM and received confirmation our car was ready.  Perhaps the car was, but the staff was not.  We arrived on time to find a dozen people \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VLSy0wYWJldS1xNXJBRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Emma Smith",
+    "review_date": "2025-06-15T10:19:11.022820",
+    "review_text": "\u2e3b\nEdit avoid at all costs. We have now had $135 in toll fees and $103 in road side cover taken from our bank. We were told toll fees were $3.95 plus the toll . We \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "tolls_epass",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURNX0xfcnBBRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Madeleine Cassidy",
+    "review_date": "2020-02-12T10:19:11.139831",
+    "review_text": "At Avis car rental at the MCO airport, and we've been waiting in line for 15 minutes (and counting, because we still haven't been helped) while two Avis employees stood at the counter and did nothing. The one who is working, is so busy \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis",
+      "MCO airport"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VNbnB4LXJvbzhTTlhREAE",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Timothy Riener",
+    "review_date": "2025-07-15T10:19:11.255606",
+    "review_text": "Talk about your mixed reviews! For the people working at Avis at this airport location, I give them the full five stars. For Avis corporate. I'd like to give them zero stars and a big chewing out for being completely unhelpful. We got to \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUMta1Bhci1BRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nicolas Perreault",
+    "review_date": "2023-02-11T10:19:11.360047",
+    "review_text": "I rented a car at this location last week (October 2022), the car was filthy. There was food crumbs, sticky drink spills in the center console and stains on the seats (ice cream residues) ect... The car was obviously not cleaned from the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "cleanliness",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pad1ZtVnNNak5MU21KV2NHaDJPSHA2UW1STlNVRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Brittney Janovich",
+    "review_date": "2025-08-14T10:19:11.434986",
+    "review_text": "If you are considering renting a vehicle, go somewhere else\u2026ANYWHERE ELSE! The absolute worst customer service. We reserved a large SUV and after waiting an hour and a half in line, we were told our vehicle was not available so we had to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s5MmJtWlVlVmhMVTFWbFF6RlNXSEI0T1V4UFUzYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sadman Ahmed Ayon",
+    "review_date": "2026-02-10T07:46:49.350151",
+    "review_text": "I was charged $100 more than what I was told and they did not even reach out to let me know the reason. They didn\u2019t provide the receipt which the lady at the counter told me it will be sent to my email. Also the lady forced me to pay in \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUMyb3RtTVRBEAE",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Unlimited Flooring Sheffield",
+    "review_date": "2023-02-15T07:46:58.290604",
+    "review_text": "First time using Avis for our vacation/business trip. We prepaid in the UK, and arrived at the counter, all went well, collected the car which was a really nice Expedition XL, really clean car. Was an easy and faultless experience....\ud83d\udc4d, from Josh \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSURrNDVfbjlnRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Santiago Gzz",
+    "review_date": "2020-02-16T07:46:58.349852",
+    "review_text": "Big mistake. Even though I'm an Avis Preffered Member they couldn't validate my reservation. It was 1PM there were only two people at the desks. When they finally helped me the lady was extremely slow and unprofessional. She kept messing up \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSURBNTVxNnpRRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Rich Hicks",
+    "review_date": "2018-02-16T07:46:58.405104",
+    "review_text": "Normally I have good experiences with Avis, but not at this location.  We made our reservation for 6PM and received confirmation our car was ready.  Perhaps the car was, but the staff was not.  We arrived on time to find a dozen people \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VLSy0wYWJldS1xNXJBRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Emma Smith",
+    "review_date": "2025-06-19T07:46:58.456542",
+    "review_text": "\u2e3b\nEdit avoid at all costs. We have now had $135 in toll fees and $103 in road side cover taken from our bank. We were told toll fees were $3.95 plus the toll . We \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "tolls_epass",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSURNX0xfcnBBRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Madeleine Cassidy",
+    "review_date": "2020-02-16T07:46:58.520426",
+    "review_text": "At Avis car rental at the MCO airport, and we've been waiting in line for 15 minutes (and counting, because we still haven't been helped) while two Avis employees stood at the counter and did nothing. The one who is working, is so busy \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VNbnB4LXJvbzhTTlhREAE",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Timothy Riener",
+    "review_date": "2025-07-19T07:46:58.576676",
+    "review_text": "Talk about your mixed reviews! For the people working at Avis at this airport location, I give them the full five stars. For Avis corporate. I'd like to give them zero stars and a big chewing out for being completely unhelpful. We got to \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSUMta1Bhci1BRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nicolas Perreault",
+    "review_date": "2023-02-15T07:46:58.632140",
+    "review_text": "I rented a car at this location last week (October 2022), the car was filthy. There was food crumbs, sticky drink spills in the center console and stains on the seats (ice cream residues) ect... The car was obviously not cleaned from the \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pad1ZtVnNNak5MU21KV2NHaDJPSHA2UW1STlNVRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Brittney Janovich",
+    "review_date": "2025-08-18T07:46:58.693630",
+    "review_text": "If you are considering renting a vehicle, go somewhere else\u2026ANYWHERE ELSE! The absolute worst customer service. We reserved a large SUV and after waiting an hour and a half in line, we were told our vehicle was not available so we had to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21kUk4yTmxTWE5mY1ZKRVJrdHJXRXd5YjBKdFNrRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Heidi Graham",
+    "review_date": "2026-01-15T07:48:26.525217",
+    "review_text": "So we are Gold Memberd when we were in Orlando Florida, and almost every time we use the gold service it's been seamless. This recent time our name wasn't on the master board , and so we had to wait in line, and there was an incident \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": [
+      "Orlando Florida"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xKWExWVndkWFV0UlhOdU1uaHJTMVl3VkZkUFZtYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nick Vaillancourt",
+    "review_date": "2026-01-31T07:48:26.636381",
+    "review_text": "Still waiting over an hour in line for a reservation that was already made. Email confirmation says \u201cskip the line\u201d but then directs you into the same line anyway. Very disappointed with this company, race to the bottom. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21reE4wSTFlRXBsY0UxZldGUkhZVTlXU0dkQlkwRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Daniel Loughlin",
+    "review_date": "2026-01-15T07:48:26.737387",
+    "review_text": "Excellent experience with Hertz in Orlando - pickup and drop off were very easy and quick. We got the car we booked; a Kia K5 which was excellent. The car was in great condition, had good tech and was nice to drive. Couldn\u2019t have been better.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Orlando",
+      "Kia K5"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tSd1RFbDFUMWhhTjIxUlNqQnRZek5NTm1oSWNWRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Bbo Cir",
+    "review_date": "2026-01-31T07:48:26.829221",
+    "review_text": "If flying into Orlando airport, the hertz rental process is easy and simple to get your vehicle from the garage. Process is simple, reserve online and it will be there as promised! There are no close fueling stations near the airport and \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "location_access"
+    ],
+    "entities": [
+      "Orlando airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pBNU9EUk5jMTh0VmtOdFZGTjJNVzlaY3pWd01uYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Kassandra Marin",
+    "review_date": "2026-01-15T07:48:26.925732",
+    "review_text": "Being a Gold member makes everything so fast and easy! I haven\u2019t rented from anyone else in over 5 years.\nI hop in a car I like and go. Then the return is just as easy. The cars are \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2t0SVJtSllXbUZYY0RZM1NsRk1RVzlZZWtoSmEyYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Lauren Maidlow",
+    "review_date": "2025-10-17T07:48:27.025606",
+    "review_text": "My father and I rented a Kia Sportage for 2 weeks\u2026. Now we are home, we have been charged $500 for smoking. Neither of us are smokers, and the car stank of smoke when we got it, it evidently wasn\u2019t cleaned prior to our rental due to mud \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Kia Sportage"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2paa1ZtTmZXSGsxWVdNd2VUVTFibGRhYzBWNlIzYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Rhys Green",
+    "review_date": "2025-11-16T07:48:27.121786",
+    "review_text": "Overall we had a good experience, we arrived a hour earlier than exspected but was still able to pick our car up, it came as discribed, clean and with a full tank, the process was really easy both to collect and return. My only criticism \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pKU2FFNUxlR05ZYkdGNk5XTlBTVlEwTkdoWlptYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tibor Hedjesi",
+    "review_date": "2026-01-17T07:48:27.199540",
+    "review_text": "Vehicle wasn't the one I booked, it was damaged, dirty inside. Milage was different than reported. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tZdFNuSXdMVkV6VFdOMWRUVmFhekZrVmxsdU9XYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Edoardo A.",
+    "review_date": "2026-01-15T07:48:27.246104",
+    "review_text": "Insanely smooth experience from start to finish. The waiting line to pick up the car was literally one minute, which was a great first impression. I got a brand new car in perfect condition, clean and easy to drive. The whole pickup process \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xsTVRHZDJiRU4wZEdKek1GSmtRMjlwU0VFMldVRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Sherry L Brinser-Day",
+    "review_date": "2026-02-07T07:48:27.286756",
+    "review_text": "I had a  very good experience with Hertz. Minimal human interaction needed, but the staff was kind and professional. My vehicle(Hyundai Elantra) was clean, reliable, and good looking! Having a hybrid available was great because it saved me \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "vehicle_condition",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Hertz",
+      "Hyundai Elantra"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2kxWFJYWnJiVGRhV2xsYVdqQkVkR1pQYWpCalpsRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Christian Platzer",
+    "review_date": "2026-01-15T07:48:27.338720",
+    "review_text": "I was concerned after reading the bad reviews here. Now I see that it is like everywhere in the Internet. Reviews are written if something goes \"wrong\". So here is one where things went right: 1) friendly personell at the airport 2) No \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25GVWMxVjRiV0oxVEdkS2JubzFOalZIVkZOSmExRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "ashley doane",
+    "review_date": "2025-11-16T07:48:27.395229",
+    "review_text": "Please see pictures of the dashboard of the first two cars I was given. There was also an extra deposit taken at the time of pick up. There was a sign that explained the additional fees but it was kept under the counter where customers \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT201M09URk1Uelp4V0VaeUxYTTNVVnBvU1ZwWWRrRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Zachary Taylor",
+    "review_date": "2026-01-24T07:48:27.508638",
+    "review_text": "Car great, hidden fees were outrageous.\n\nAlso they took the keys from me and checked us in. Handed me back everything and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21oeGNrZFZia2h0ZDBKMWRUWm1hRXMxVWxBdGRGRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Gavin Searley",
+    "review_date": "2026-01-15T07:48:27.593807",
+    "review_text": "Very quick turnaround at Orlando airport with help from Laney who was great in getting us sorted with the right size of vehicle rather than the smaller one we had booked! \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Orlando airport",
+      "Laney"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xKaFRsTmxVbFZvZFhaWGRGQlRXRkl6Y20xb1pWRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Damon R",
+    "review_date": "2026-02-07T07:48:27.643584",
+    "review_text": "I travel a lot, Hertz is unusable. I have stayed away from Hertz for many years but recently found myself with a reservation from them. It became obvious why I stayed away. The line for the main desk as well as the gold desk were each over \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT201MFFsOWxVVXN3ZW1kUFVUWnpkMnM1YVROSFFuYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "christopher hollister",
+    "review_date": "2026-01-15T07:48:27.715021",
+    "review_text": "Went to pick up my car at 1:30 am in Florida and car was not there. Was told would have to wait for 3-5 hours for any car or come back 10-12 hours later to ensure I received the car I rented 2 months ago. I am also a good member which means \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": [
+      "Florida"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21Kc00yNTJOV3RwVVV0UE9YTjJWRmw1Y1ZNMFJFRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "IHAVEISHSHOES",
+    "review_date": "2026-02-07T07:48:27.798053",
+    "review_text": "There was two problems I experienced.\nFirst was my email price versus my pick up price. The difference was over $300 more at time of pick up. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21vNWIyZE9ZbGRvWW5GaWRVWmpXbXN3WjFCVWVrRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tom Walsh",
+    "review_date": "2026-01-24T07:48:27.845105",
+    "review_text": "Hertz did a VERY poor job of communicating the pickup process at the Orlando airport. The day of arrival I received one email saying I need to stop at the Hartz counter then shortly after I received a second email saying as a Gold Member I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "preferred_program"
+    ],
+    "entities": [
+      "Orlando airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2taTU0yOU1jbUZxZVZwM2QzQnRVelUwYVZaT1VXYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Jonathan Phan",
+    "review_date": "2025-08-18T07:48:27.935665",
+    "review_text": "Hertz at MCO was convenient and open late, which helped when our flight landed after 11 PM. We reserved a full-size SUV for our family of five and were given a Nissan Pathfinder that was clean and spacious. The pickup process was decent, \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.3,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Nissan Pathfinder"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT201NFh6TkxMVkZCUzBoc04xOXNhalU0T0VocVQxRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "sss siva",
+    "review_date": "2026-01-31T07:48:28.050437",
+    "review_text": "I had an excellent experience with Angela at Hertz. Even though I am a Gold member, I booked through Capital One, which wasn\u2019t linked to my Gold account. It was late in the evening, and I was traveling with heavy luggage and my family. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": [
+      "Angela",
+      "Gold",
+      "Capital One"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xaTWIwY3hWemhRVkhaVlpISklZMjlHVUZZdGMyYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "C B",
+    "review_date": "2025-11-16T07:48:28.186111",
+    "review_text": "It\u2019s kinda like the best of a bad business you go with hertz. I filled up maybe 15 miles from the airport with premium gas. Returned it with more range then was given to me the car with and got charged for 2 gallons of gas\u2026 how do you \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21WNlNtMVNSVXh0VXpNM1VXeE5jRmh5VDA4NFZuYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Steve Sampson",
+    "review_date": "2025-12-16T07:48:28.323152",
+    "review_text": "I had a truly enjoyable experience renting through Hertz. We had a new Nissan Rogue which was a joy to drive and great on fuel. The staff were very knowledgeable and helpful and the rental was at a good price. We will definitely choose Hertz for all rentals in future.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Nissan Rogue"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25Cc1QxUlFjV2xaTkU4MFZXRkxhVTFSWDAxd1JYYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Viacheslav Bobryshev",
+    "review_date": "2025-10-17T07:48:28.447610",
+    "review_text": "Very good experience. I'm 21, I booked through AAA and the final amount was the same as in the app. Be prepared for a $300 deposit for credit cards and $500 for debit cards. Insurance is optional, you can decline, just like with Sun Pass. I \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "pricing_fees",
+      "insurance",
+      "tolls_epass"
+    ],
+    "entities": [
+      "AAA"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25WTmVXRXljMTlKTkc5TGIwVXlORXhVYUU1M01HYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Rachel McVean",
+    "review_date": "2026-01-24T07:48:28.567819",
+    "review_text": "The worst car rental experience I have ever had. We reserved a car with Hertz and signed up with their Gold+ membership so that the car would be waiting for us in the parking lot. Instead, our name was not on the \"Gold\" board where it \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2swNWJraHNkREl3U2xSNFJYSlBjV3RJU0hSUlJYYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Keanna Daly",
+    "review_date": "2026-01-15T07:48:28.619993",
+    "review_text": "We rented a vehicle at MCO Airport for our winter vacation and New Year\u2019s. Less than one mile after leaving the airport, the car broke down. The vehicle clearly had not been properly inspected before being rented\u2014there was no coolant, and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "MCO Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21Gek1EbHZiR0k0ZVdSeWFWZHVSVEZ4VDJWc1VHYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Darren Wood",
+    "review_date": "2025-08-18T07:48:28.695509",
+    "review_text": "Great company from start to finish, only issue we had was the tyres needed to be inflated on the 2nd day which cost me $3.00 from a station. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xkSmEydzRNWEIyVDFZeFJpMXFWM2RQWVhKNFdtYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "JOSE RIVERA",
+    "review_date": "2026-01-15T07:48:28.782334",
+    "review_text": "I rented a vehicle from Hertz and paid for an upgrade at the counter upon arrival. However, the upgraded vehicle I paid for was not available, yet I was still charged for it. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnTUNJanV2am53RRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Meg Cryan",
+    "review_date": "2025-04-20T07:48:28.886876",
+    "review_text": "Kelvin was incredibly helpful getting us started on the right track with our Florida trip in February! There were 3 employees at the desk taking in customers at a fairly quick pace and I was impressed at how fast we were in and out with \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Kelvin"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2twSFpuVjBOVmRoY0hocGFDMURYMkZLVkVaalJHYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Daniel Watson",
+    "review_date": "2026-01-31T07:48:28.988973",
+    "review_text": "I returned the car a day early due to my flight being changed to an earlier day. Delta notified me that there was inclement weather coming to the destination of my upcoming flight and that I should consider changing my flight to an earlier \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Delta"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT214TVozWTROelpZUW1OUmIzTlBZbTgxV1ZoYWRtYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "KC Fo",
+    "review_date": "2026-01-17T07:48:29.088597",
+    "review_text": "I didnt get the car that I chose b4 arrival. But it actually worked out perfectly. I enjoyed the KiA suv I chose from \"gold\". Good prices. Good employees. Would rent again with hertz as they had the best deals through Sam's club membership. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "KiA",
+      "Sam's Club",
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xNMVdXSkthSGxWYmw5YVprWlRRVWxNT1dKd2EyYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "CKN Kemmy",
+    "review_date": "2026-01-15T07:48:29.188988",
+    "review_text": "\u2b50\ufe0f 1 Star \u2013 Extremely Poor Experience for Gold Members at Orlando Airport\n\nI arrived at Orlando Airport expecting a smooth pickup as a Hertz Gold member, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": [
+      "Orlando Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s1Q1ZWbFJhRXBYWDFFdGJXeHJkbFZYTVVFMGNsRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Daniel Quevedo",
+    "review_date": "2026-01-24T07:48:29.304256",
+    "review_text": "One of the worst rental experiences I\u2019ve ever had. 3 hours waiting for a car I had reserved, in the cold, at 2am, with basically no communication, agents who were to busy to answer basic questions to the 50+ people waiting in line, no one \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tSb1JVcEZjbFp6VFZKMU1WVmZVMmgzTTNCdU1rRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "teri manis",
+    "review_date": "2026-01-31T07:48:29.414792",
+    "review_text": "Booked a passenger van 3 months in advance for our large family. We were told they didn\u2019t have any when we arrived. The lady that helped us was wonderful and ended up getting us two cars. Unfortunately this doubled our parking fees, gas \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "reservation_issues",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pJME9WOXNlR0pQTkd4VFpIaGtNRjkzT0c1bWJHYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Weslly Montenegro",
+    "review_date": "2026-01-15T07:48:29.514836",
+    "review_text": "I normally don\u2019t leave negative reviews \u2014 if I don\u2019t have anything nice to say, I usually don\u2019t say anything at all. However, this experience was extremely disappointing and added stress to an already difficult trip. I was in Orlando for a \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT205b2RuYzJjbHAzVFdsV1EzSkhjbFEwTlRFelpIYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "dee 490",
+    "review_date": "2025-09-17T07:48:29.586375",
+    "review_text": "Not happy at all with Hertz.   First of all,  I went to pick up my rental around 11:30 PM in Orlando airport they were closed.   I then was directed to go downstairs which  the gentleman  told me to take the shuttle .   When I got to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "location_access",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Hertz",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25VNU5WYzJVRkp6ZDNjME5rZE5jRkE1VDA0dFRVRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Andrea Bashore",
+    "review_date": "2026-01-31T07:48:29.645718",
+    "review_text": "Will never use Hertz again. The first car we received had a terrible odor, we were able to exchange it, but it took 2 hours out of our first vacation day. Then there was an issue with billing. When I tried to speak with a customer service \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21sdE1rdFVUbTlvVlhFM2VGZE5abk54VTJFMmNrRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "paul matthew",
+    "review_date": "2025-11-16T07:48:29.718287",
+    "review_text": "All in all the carhire and upgrade we very well.car was expected. What spoiled the hire was about an hour after returning the car, I recieved an email saying that the car was in a major collision, lucky I never went through security, so \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25GQlEzaE1lVEpvTjBGUWFWTmFkbk5xUTJkSU4xRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Latasha Fultz",
+    "review_date": "2026-01-15T07:48:29.795284",
+    "review_text": "Janet truly deserves personal recognition.\nI waited downstairs in a line that did not move for over two hours. I eventually decided to walk upstairs, and as soon as I arrived, Janet immediately asked if \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "wait_times"
+    ],
+    "entities": [
+      "Janet"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pKR1JITlVMV3d5T0ZaWGFYRndhbTVtTTNJMVpYYxAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "rachael chartier",
+    "review_date": "2026-01-31T07:48:29.898440",
+    "review_text": "Planned a family vacation to Disney World and after landing, the car rental company,  that is away from the airport,  never showed up and gave our vehicle to someone else and was not interested in helping our situation. Feeling frustrated \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": [
+      "Disney World"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT201b1p6WXpVemhrVXpnNFkxaFVXa2wwWHpaYVkwRRAB",
+    "location_id": "MCO",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Krystle Wright",
+    "review_date": "2026-02-07T07:48:30.009466",
+    "review_text": "Horrible service! Our flight arrived in terminal C, had a reservation for pick up in that terminal, however nothing was avaliable for the type of car we rented.  The guy asked if we wanted a smaller type, of course we said no. So we had to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "staff_behavior"
+    ],
+    "entities": []
+  }
+]

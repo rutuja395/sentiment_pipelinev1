@@ -1,0 +1,3616 @@
+[
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT214d1pXRkdXRzlKYVRnMloycG1UWEpMUzFaa2RuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Nehal",
+    "review_date": "2025-12-12T10:17:41.142837",
+    "review_text": "This Avis rental facility is adjacent to the airport. I took the pathway from baggage claim area to get to the rental car lot. I had made reservations weeks ahead, so my card was ready for pickup at a designated spot. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.6,
+    "topics": [
+      "reservation_issues",
+      "location_access"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pjd1kxUnJRMUpJUTNwVlZtSkdlVWt5YmpGTk5rRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Megan Brown",
+    "review_date": "2026-01-11T10:17:41.216348",
+    "review_text": "I WILL NEVER RENT FROM THEM AGAIN! I travel a lot. I rent from alamo and hertz most of the time. I decided to try Avis at MCO and it was a complete nightmare. My car rental smelled like smoke. Had missing plastic round pieces off the car. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Alamo",
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tGNVNrMXlaazFLV0hsSGFXVmFPVWRTWWxoamFGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Alisson Paschoal Hausmann",
+    "review_date": "2026-02-03T10:17:41.326967",
+    "review_text": "I was a bit afraid after reading the comments here, but I had a really good experience with them. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25aUWEyNHlSVTFUY0c1dGVFbFhkVzlYTldWVlRuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "sean thompson",
+    "review_date": "2025-12-12T10:17:41.429887",
+    "review_text": "Easy in and out from the airport.  Helps to be a preferred member as your rental will be available without having to talk to anyone.  Car had some pre existing hail damage and a broken windshield but no issues upon returning.",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "preferred_program",
+      "location_access",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pWa1ExQlVZMUpTV1hrMVdrRkliRXhMWjBKRmFuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Eddie F.",
+    "review_date": "2025-09-13T10:17:41.498512",
+    "review_text": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\n\nRenting from Avis at Orlando International Airport was seamless from start to \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 1.0,
+    "topics": [
+      "customer_service",
+      "location_access"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando International Airport"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xkSFpYWmpXRTF6VmpoaExVdDVObWRTWTNKQ1lsRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Pascal Elpabre",
+    "review_date": "2025-11-12T10:17:41.589807",
+    "review_text": "We rented a car for our vacation in Orlando directly at the airport. Our vehicle was located in the other terminal, but they kindly gave me an equivalent car in the terminal where we were. The car was clean and fairly new. There was a \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21ocUxXOWxWbkJKY0Y5VWNHODFla04xYnpsNVlXYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Shyam Patel",
+    "review_date": "2026-01-13T10:17:41.701903",
+    "review_text": "01/06/2026 - I'm an AVIS Preferred customer and booked a prepaid rental at Orlando (MCO). Finding the rental car facility could be easier-signage wasn't very visible, and the Terminal A/B/C layout was a bit confusing. From Terminal B, it's \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "location_access"
+    ],
+    "entities": [
+      "Orlando (MCO)"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xwcmFsOU9aVll0WXpSaU5scGxjREJFVXpka1VXYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Eran Talbi (E.T.)",
+    "review_date": "2025-11-12T10:17:41.794996",
+    "review_text": "Update: Customer service reached out reduced my reservation class to a lower tear which means less cost, this is nice but the damage to my experience has already made. To compare when SIXT did not have the class I ordered they upgrade not \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "customer_service",
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "SIXT"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT20xdVQwSllVbFJ0Ym5wemMweFJjM2xMWmpRNU1GRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jean Figueroa (AnimatedJ)",
+    "review_date": "2025-10-13T10:17:41.881449",
+    "review_text": "It\u2019s unfortunate I can\u2019t give 0 stars, because Avis clearly has zero regard for customer safety. We\u2019ve rented from them twice, and both times had multiple issues. This time, however, was on a whole different level. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21ac1Fra3dhV1ZXU1ZGek9EbExOWFpxUTNZMFVYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Amir Rodriguez Robles",
+    "review_date": "2025-08-14T10:17:41.966600",
+    "review_text": "07/15/2025 - Upon receiving the rental car, we discovered that the seats were thoroughly wet, which significantly compromised the comfort of our long-awaited journey. While the delivery was expedited due to our Preferred membership, the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2s1SkxVUjJkbUl5ZG5SVFNXcE5aSEJ6UkhsRlNIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sarbajit Mitra",
+    "review_date": "2026-02-06T10:17:42.077552",
+    "review_text": "31st January 2026 Yet again Avis charged for gas when tank was full. Rental was only a few hours and all driving within Orlando. Essentially airport to Millenia Mall and a little bit around it. Filled gas tank , returned and took picture. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pVM1VITXpUWFkxYVRBdGFtbGtYMVZxYzNVelJGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nigel Love",
+    "review_date": "2026-01-11T10:17:42.168494",
+    "review_text": "Awful - Hour long wait times at MCO. And the jobsworth at the counter refused to check me in even though i waited 20 minutes there.  He was oblivious to the fact that was something the significantly impacted customer experience.  Recommend \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xRNVdFdGhkRlZmWWsxS1NHUnBWVGRDVUdWb1VFRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Neil N",
+    "review_date": "2026-02-06T10:17:42.253452",
+    "review_text": "Terrible experience. We were at the Avis preferred line which didn\u2019t display our name on the board. Multiple people were there complaining because their cars were not in their supposed spots. The employee gave us the spot number and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xObmJtMU5Ra0pxYzNscGFVVm9NRXRyWDAxTlUwRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Solange Roman",
+    "review_date": "2026-02-03T10:17:42.361803",
+    "review_text": "While the vehicle rental was okay. The SUV was pretty cool but super dirty when we got it from a different location.  I wish they had a direct number to answer call that I otherwise don't need the MCO operator to transfer me multiple times \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.2,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT201YWQyWnJSRXB2WnpsTGEyZFdORlJMYnpsdk1VRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "John Daley",
+    "review_date": "2025-12-12T10:17:42.467780",
+    "review_text": "I flew in with BA from London Gatwick on 14th October 2025 and having read some of the reviews for Avis I was dreading the service which we would receive at Orlando terminal C. My wife had joined Avis Preferred prior to the trip hoping that \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": [
+      "Orlando",
+      "BA",
+      "London Gatwick",
+      "terminal C"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pSaFVWUnpUVUZ5TFhwMk9WWkxVa1V4Y20xblVGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jacklyn Brown",
+    "review_date": "2026-01-11T10:17:42.553167",
+    "review_text": "No correct car seats when I arrived. Acted like it wasnt a big deal to put toddlers in illegal unsafe car seats. The morning we were leaving I couldn't even get the car to start. They once again acted as if its no big deal and expected me \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tWUGMxOVdhRWxOZEhaWlpFbHJaV2RMYzJScGFtYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Dan S",
+    "review_date": "2025-11-12T10:17:42.632455",
+    "review_text": "I really wasn't sure what to expect following mixed online reviews, but the service was excellent (no queue at all) and 5 star service from the Avis Preferred team. Definitely worth joining their preferred service which has seperate pick up \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis Preferred team"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25GVVRHNXFUa1Z5VFhsTk1qbFZUVXBOVFhkRVlVRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Kali Higgins",
+    "review_date": "2025-12-12T10:17:42.720443",
+    "review_text": "This was our second time renting through Avis but our first time ever at MCO. I don\u2019t know if it was MCO or Avis, either way picking up the car was a nightmare. \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "MCO",
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xaRFlWSnRRVkZsWDFaRWRsbE5YMjg0ZG05TWJtYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Joe Cool",
+    "review_date": "2026-01-11T10:17:42.830318",
+    "review_text": "This was the first time in 25 years I've flown to an airport and first time using Avis as a rental car company. When arriving at Orlando, I had an anxious and tired family that just wanted to get to their hotel for Thanksgiving vacation. As \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "location_access"
+    ],
+    "entities": [
+      "Orlando",
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2s1UE9FSXhaVXRyUkZkVE1EbFFiRmQ2ZFRKRU9FRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Mervin Blackmore",
+    "review_date": "2026-02-03T10:17:42.206518",
+    "review_text": "Funny story, I reserved a convertible well in advance of my trip however when I got to the counter I was told \u201cwe have no inventory so we have to give you something else\u201d. Instead of a convertible, I was given a Nissan Altima, not before \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xSdFVGSkJObFZVU25ZdFRqTk9SbVZpVkhSUlgyYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "s9Whitty",
+    "review_date": "2026-01-20T10:17:42.280356",
+    "review_text": "So, After an 8 hour flight theres nothing like spending the next 50 minutes in a queue to collect your car. 2 members of staff on which I assume they'd knew it would be busy and most car rental would be pre booked? \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xkcE1raFNWME51VUV3dFQxaG5jV050UlVGTFRWRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Rich Caputo",
+    "review_date": "2026-01-27T10:17:42.395244",
+    "review_text": "Horrible. Horrible. Horrible.\n\nThey massively overbooked their cars. There was one agent at the desk with 50+ \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pWR01ERktSRXhLU201cVRXODBkWEpaTlRobGRIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tina",
+    "review_date": "2026-01-20T10:17:41.546328",
+    "review_text": "COLD CUSTOMER SERVICE. Extremely rude and uncaring.\nThey act like you're wasting their time. There was one associate named Mark who really tried to help my daughter and I. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Mark"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xKUWFtdDVVVnBOT0cxeGJHdHJVMnR1U21seFFuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Char Everett",
+    "review_date": "2025-12-12T10:17:41.626962",
+    "review_text": "I heavily rely on reviews but I never write any. I love Avis. It\u2019s very easy to become a preferred member and as long as you set up your account properly, you can use the app for everything. MCO is one of my favorite locations. You can easily walk straight to your car. No SHUTTLE! The cars are always clean.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "vehicle_condition",
+      "location_access"
+    ],
+    "entities": [
+      "MCO"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUNJdEp2SWRnEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Renwa Jitender",
+    "review_date": "2025-04-16T10:17:41.694252",
+    "review_text": "There is a reason one should first looks at Google reviews before opting a service. Worst AVIS experience ever! I booked a compact car and they didn\u2019t have one I needed except an electric compact which I didn\u2019t want. They offered me the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Google reviews",
+      "compact car",
+      "electric compact"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25STmNFaExaa0pKV25KZmIyeG9ZbFUxTlhGUVIxRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Chris Anderson",
+    "review_date": "2026-02-03T10:17:41.781565",
+    "review_text": "Avis changed the car on my contract after I picked it up so now I dont have a valid rental agreement for the car I picked up. Despite providing screenshots from the app showing I picked up the correct car, AVIS customer service said I have \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25wQlNGRjRNRlkxUjA5WlpFbHNXVEJYT1RWSWFYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jeff Rhine",
+    "review_date": "2025-08-14T10:17:41.836727",
+    "review_text": "something is seriously wrong with this Avis car rental location, maybe others? We flew in for our family vacation July 2025 and spent four hours in line waiting for our car. Every 30 minutes I would ask and they had no clue or they would \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2t4clFtZDVVMjl3ZVhwUlJuTlFkbkpSVlZreFYzYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "T4ty",
+    "review_date": "2025-08-14T10:17:41.904305",
+    "review_text": "We paid in full for our reservation online before we got there. They try to upcharge everything in person!! We went ahead and filled up gas on the vehicle. When we got there to turn in the vehicle at their convenience no one is there and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUR3MEt1V0NBEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jeff Emonds",
+    "review_date": "2025-04-16T10:17:41.979543",
+    "review_text": "I made the mistake of using the Avis at the Orlando airport to pick up a rental prior to a cruise out of Cape Canaveral and based on my experience I will never use them again.  Upon our arrival at the Avis rental area, we had to wait in \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando airport",
+      "cruise",
+      "Cape Canaveral"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21KclJHaGlSVzVtUmxkQmJucExNMGR6VTBjeVpuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Len Smith",
+    "review_date": "2025-10-13T10:17:42.051717",
+    "review_text": "Our experience with Avis was was great.  We found trying to find the Avis rental location a bit challenging at Orlando.  The could use some better signage. \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.3,
+    "topics": [
+      "location_access"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUN2aEtqcnNRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Amanda Shute",
+    "review_date": "2025-02-10T10:17:42.123547",
+    "review_text": "I wish I could give zero stars.\n\nWe waited over an hour for our prepaid vehicle at the Orlando Avis location, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "wait_times",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Orlando Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tkeFRtaDRlamwwWW1aWWNUWnlaMDh6T1hwMlJYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Abbady Abbady",
+    "review_date": "2025-11-12T10:17:42.211986",
+    "review_text": "My flight arrived to MCO at 12 midnight and i stated my flight number and time of arrival. Upon arrival to the desk there were over 25 customer in the line and only one agent so i was able to get my car after 3 hours waiting on line. This \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "MCO"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xCTmQyZzFka1ZYZFRCRlNVUmhWbXd0WmpWaGRIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kris Munro",
+    "review_date": "2025-08-14T10:17:42.284324",
+    "review_text": "Would give 0 starts if I could for the condition I was given the car ! I\u2019ve hired a car in Orlando more than 10 times and this is the worst we\u2019ve ever had ! \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2s5dk1rWmlWRTEwWTFReVRGZEZXa2x0U1ZSSFVtYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Stephanie Kight",
+    "review_date": "2026-01-11T10:17:42.370523",
+    "review_text": "Be careful and check your receipt! This location is now using fuel sensors. If you bring back your rental at 20 gal instead of the 20.1 gal it was dispatched with, Avis will charge you a  $15.99 minimum fuel fee. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25KTU5qbEdRbkI1WkZGUU5WRnBOVUpZZG1sbFkwRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Gerardo Ramon",
+    "review_date": "2025-08-14T10:17:42.448585",
+    "review_text": "I rented a car, and when I picked it up, there was some noticeable debris in the back. Grocery bag and a cup lid. But the lady in the white shirt said they didn't have any vans, so we took it and drove to our first destination.  When we \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURYLVBpaVN3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Tadd Pham",
+    "review_date": "2025-02-10T10:17:42.561388",
+    "review_text": "This review is for folks who are new with Avis in MCO airport. If you have a pre-assigned car at a car slot, please make sure whether it's in the Terminal A or B lot. Otherwise, you will have to waste valuable time walking to the other \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.6,
+    "topics": [
+      "location_access"
+    ],
+    "entities": [
+      "Avis",
+      "MCO airport",
+      "Terminal A",
+      "Terminal B"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2taNU5FNUxjRFpYVkV3eWF5MWxhRFkzV0RocFEwRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Ryan Zhao",
+    "review_date": "2026-01-20T10:17:42.658163",
+    "review_text": "Avoid this location. After a long flight, the last thing you want is extra hassle. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTURJcTVpWHpnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "J B",
+    "review_date": "2025-05-16T10:17:42.750292",
+    "review_text": "Take all the negative reviews seriously. We are still waiting on line 3 hours later. My Husband and I are taking turns. This has ruined our trip and plans. Such rude customer service too. DO NOT GIVE THEM A PENNY. IT IS NOT WORTH IT!! \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURfd0o3ajNBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "LVDB",
+    "review_date": "2025-02-10T10:17:42.839844",
+    "review_text": "I wish I could give 0 stars!!!!\nYou rent a dodge ram, pay for it. the lady says, there are almost no cars left, certainly no ram. you can get a regular suv. i did not agree with that, after \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": [
+      "dodge ram"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xKT1dsTk9lVlpWY0ZVNWFVVk9MWEpQVWxwaVExRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Xiao Xie",
+    "review_date": "2025-11-12T10:17:42.947633",
+    "review_text": "If I could give zero stars, I would.\n\nThis was hands down the worst rental experience I\u2019ve ever had \u2014 and I\u2019ve rented \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTURRdTR1M1NREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Vinh",
+    "review_date": "2025-04-16T10:17:43.049719",
+    "review_text": "0 stars. The rental car they gave us was defective and the window glass shattered onto us 5 minutes after we left the parking garage. Horrible customer service on the phone, kept redirecting me back and forth and ended up not helping \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "rental car",
+      "window glass",
+      "customer service"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pCa1dFbFNjM3BxY0cxSVN6RnRiblZ5YWpkRGRGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Bruno H",
+    "review_date": "2025-09-13T10:17:43.148378",
+    "review_text": "I had one of the worst rental experiences ever with Avis.\n\nFirst of all, the price I saw online was completely misleading. It showed me I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2poWldtSnBOMHR6VkhGMlpuTlBaemxGUm5ab1dVRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Chicago TL",
+    "review_date": "2025-11-12T10:17:43.252429",
+    "review_text": "I picked up a mid size car from Avis at Orlando airport on last Wednesday.  Luckily there was no one in line. Even though I have Avis preferred membership,  I went to the counter as others in party had to pick their car from Budget. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis preferred membership"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2psNmEyOVNjRXM1Y0hCSVQxaG5YMDlUZEZoWVNsRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Cory Yundt",
+    "review_date": "2025-10-13T10:17:43.351142",
+    "review_text": "FELT SCAMMED.....\nPre-booked, Pre-Paid and when we arrived to pick up our rental (Jaguar FPace) car was not available. Only after insisting they said they could retrieve from \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Jaguar FPace"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tocFdFSXhZazE2TFMxeE1WcHNWelZvYjJWVFIzYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Arma Geddon",
+    "review_date": "2025-09-13T10:17:43.416788",
+    "review_text": "10 terminals at the counter, three employees that spent more time chatting with each other than working and 10-15 customers standing in line. Zero sense of urgency, go to Hertz or Budget for better service.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Hertz",
+      "Budget"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tWT2RWQm1aV1l6VEZKNGRYcERiamxIWjBSeGFYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Janice P",
+    "review_date": "2025-09-13T10:17:43.464024",
+    "review_text": "The bad - their customer service is a joke.  Long line at the counter with only 2 people servicing clients.  For an airport at a location known for tourists, a high volume of rentals are expected so you would think they would have more \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2taemVVZzJNamhwT1VOU2FGOXdRbUpYYXpOeU9IYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Stuart Bale",
+    "review_date": "2026-01-11T10:17:43.546538",
+    "review_text": "My rental car died. Had to get towed back to the airport for a replacement and all they wanted to do was give me a coupon for free day. The replacement vehicle had an empty tank. The bill came and they added the fuel service charge that I didn't agree to. Calling Customer Service was not helpful. First and last time I rent with Avis.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xSeFNHeFdkSGM0TlZnNFZVeEVUbW8xVDJ0NVVrRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Alex Todd",
+    "review_date": "2025-10-13T10:17:43.621580",
+    "review_text": "Places like this often get a bad rep. But I have to say I was really pleased with the service we received. Unfortunately I didn\u2019t catch the name of the employee who helped us, but she was very attentive and resolved our issue. We had \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUR4NFBPNmNREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Momir Milinovich",
+    "review_date": "2024-02-11T10:17:43.689640",
+    "review_text": "I received a car with less than 3/4 of a tank of gas.  It had a smell of cigarettes.  There were food stains on the seats, floor and dashboard.  I returned the car with 3/4 of a tank and no food stains on the seats and fewer stains on the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tsMVJIQk1hRWx0UWtoQ01tdFpTazlXWWs1RFdtYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "jaywalker17",
+    "review_date": "2025-09-13T10:17:43.756130",
+    "review_text": "Expensive. Thought we would get our money's worth. We did not. Only one person working the counter, so we waited a long time. The SUV we rented was not clean. The windshield was filthy. The car had a big dent (which at least had a sticker \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "cleanliness",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21KaGVtVXlOMjVvZUdoR09VdGZhM1Y0YWtadVdYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Andy Thi",
+    "review_date": "2025-10-13T10:17:43.843793",
+    "review_text": "Literally the worst and slowest service ever.. like being serviced by a bunch of sloths. If you want to wait 1.5 hrs with a prepaid reservation, only to be told the car needs to be cleaned and that you\u2019ll have to wait some more, then this \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "wait_times",
+      "cleanliness",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25SVVUwbFVYMDFwVjFwVlpuQmtiSEZuTVRsUGNrRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Adrian Bordeianu",
+    "review_date": "2025-11-12T10:17:43.973509",
+    "review_text": "Getting the car and returns go very efficiently. Unfortunately the initial car had too little oil and started to smoke bad. I needed to get back myself to the rental office to have it changed, which took time I could have spent better. The \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21wSE5tRlZiVXRGZVZWbmRYTTBVblJvTUhaVFRWRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Bart Bruninx",
+    "review_date": "2025-09-13T10:17:44.051291",
+    "review_text": "When we arrived at the Orlando airport, we had to wait in line for more than an hour because only one person was working. Then we were told that our car was not ready even though it was already later than our pickup time. We could get the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Orlando airport"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2toVE5YRndMVlY2V2taR2FWbDVSRk5RVlhaME5VRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Killian Peach",
+    "review_date": "2025-11-12T10:17:44.132598",
+    "review_text": "We spoke with one of the nicest Agents Dee. She was very kind and personable. We were given a RAV 4. The car itself ran great, but TAKE PICTURES BEFORE YOU DRIVE OFF AND BEFORE YOU RETURN TO AIRPORT DAY OF. We were charged a cleaning fee \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25RdFdWbDJXV3N3YzJob2ExTTNXSGQ0YjNSNVRXYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "LaTashia Abdul",
+    "review_date": "2025-09-13T10:17:44.225331",
+    "review_text": "I rented a car that had faulty brakes and immediately had to return it for a replacement car. While I was at the counter after just leaving the airport, another family came in to exchange their vehicle as well due to issues with the car \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pKTFRXSnhkRFJGZG5weVJtdGpjMm94YWpKc1lrRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Erin Welenc",
+    "review_date": "2025-11-12T10:17:44.322832",
+    "review_text": "We rented from here for a 5 day weekend. While the rental was amazing this after bills this company try\u2019s to send is obnoxious. I advised them I  had my own transponder for tolls and was sent a 52 bill the next day. Now today I got a bill \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "tolls_epass",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VOVFVzLXFPN2U2d0xREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Alex Anthony",
+    "review_date": "2025-07-15T10:17:44.397302",
+    "review_text": "MAKE SURE TO CHECK YOUR RECEIPT BEFORE LEAVING!!! Rented from here a couple of times\u2026 first, most likely you will get a car that\u2019s half full of gas without being told before leaving. Take a pic of tank before leaving or they WILL charge you \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21wdmEwVjFZMGxOVGtsMVQzaFBlVXh4TFUwMlIyYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Shawn Patrick",
+    "review_date": "2025-09-13T10:17:44.468361",
+    "review_text": "Went on a sporadic vacation to Florida didn\u2019t have a car rental reservation had no issue getting off the plane, finding Avis renting a car. It did seem a little high for the price. Easy to load the car leave the airport easy to drop off at the airport and get on your plane.",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "pricing_fees",
+      "location_access"
+    ],
+    "entities": [
+      "Avis",
+      "Florida"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTUN3NmV6VDlBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Ryan Collins",
+    "review_date": "2025-04-16T10:17:44.559648",
+    "review_text": "Rented an escalade for family trip. Car was clearly not cleaned prior to handing it over to us. There was a steak knife on the backseat that my 1 year old daughter proceeded to pick up as I was installing the car seat. I notified the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "cleanliness",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "escalade",
+      "steak knife",
+      "car seat",
+      "daughter"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUNvazhLOWZBEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kwame Joseph Licensed Realtor",
+    "review_date": "2025-05-16T10:17:44.658810",
+    "review_text": "This place is horrid, the customer service is disgusting and everything about the process is an utter joke. They rented the same car to someone else, got here someone's loading the car we rented. Went to the Avis counter and the clowns in \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "customer_service",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21wZlpFaExlRWd4VWtwMU5HSnpXRGhDVjNVd1YzYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Acacia Bailey Baxter",
+    "review_date": "2026-01-11T10:17:44.772846",
+    "review_text": "Freddy was so kind and answered all my questions.\nDean took my payment and help me get set up with the car. He was extremely kind and joyful. He made me feel hard and communicated everything very well!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Freddy",
+      "Dean"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pkYVduQTJiVEphWDBwNmFHWnFSVnB0VDJwUGJrRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Fabiola Barrios",
+    "review_date": "2026-01-11T10:17:44.853774",
+    "review_text": "Avis at Orlando airport was outdated and very slow. Only two people working the desk, over an hour wait, despite having prepaid online. Staff suggested using other rental options, which made the reservation feel pointless. Very frustrating.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "location_access"
+    ],
+    "entities": [
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURwNDZmRXhBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Chris Gafoor",
+    "review_date": "2024-02-11T10:17:44.925486",
+    "review_text": "First time using Avis and picked up the vehicle at Orlando airport. The vehicle that I received was dirty and had a foul odor inside. The washer fluid was empty and not filled. The tires were worn and noisy while driving. The vehicle had \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "Orlando airport"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUMxbXBTeXdRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Wence Shen",
+    "review_date": "2024-02-11T10:17:44.976586",
+    "review_text": "BE FLEXIBLE! Being in a busy airport expect long wait time at the counter. We waited 20+ minutes just in line then another 20 at the counter. The process was slow and often there\u2019s only a few workers. Also do know the car you booked are \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURuN01EaDZnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "kgm5512",
+    "review_date": "2025-02-10T10:17:45.036030",
+    "review_text": "Given a vehicle that was not what was reserved, damaged. Look how close it\u2019s parked and was expected to get into it.  Lot attendant said damage was documented and \u201cjust leave\u201d. Far into my trip the vehicle had a mechanical problem which \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTUNncXEtdGhnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Michael Rothschild",
+    "review_date": "2025-03-17T10:17:45.091972",
+    "review_text": "Absolutely terrible customer service. Max at terminal B was the only one present at the ticket counter... the lines for service were busy... and the corporate/ customer service was closed. We waited an hour to be serviced this is \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service",
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "customer service",
+      "Max",
+      "ticket counter",
+      "lines"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURPZzRQVV93RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Eivind Nessen Tangen",
+    "review_date": "2024-02-11T10:17:45.167809",
+    "review_text": "Ordered a Ford Expedition and got a Denali. Super car, only it started vibrating at 65 mph. Asked for an exchange and Joe at terminal B hooked me up with a brand new 2022 Suburban Premier. Excellent service in one of the most busy seasons. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.6,
+    "topics": [
+      "reservation_issues",
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Ford Expedition",
+      "Denali",
+      "Joe",
+      "Suburban Premier"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUQ5MTdMY2lRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kathy Escobar",
+    "review_date": "2025-02-10T10:17:45.233362",
+    "review_text": "AVIS Flight Friday, March 15, 2024\nFort Lauderdale, FL 8:40 a.m. m. -Orlando, FL 9:49 a.m.  Flight 198...We arrived at the AVIS counter at 10:40 AM and finally at 2:20 PM. They gave us the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "AVIS",
+      "Fort Lauderdale",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTUNRMDc2NS1BRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "dave wood",
+    "review_date": "2025-04-16T10:17:45.305770",
+    "review_text": "The desk guys were pleasant and helpful, and it was quick to get me processed and on my way the company system might need some work, as I was told where to find my car, a Black GMC Terrain in spot 10.  After taking the elevator, the tunnel, \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.2,
+    "topics": [
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": [
+      "desk guys",
+      "company system",
+      "Black GMC Terrain"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pkaVVtSnFkelJVTkVVNFRGZFVkblpwWW5kV1dHYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Lee Attwood",
+    "review_date": "2025-11-12T10:17:45.376888",
+    "review_text": "Would I use Avis again, simply \"No\". We arrived after a 9hr flight and just wanted to pickup our pre-booked car and go, it's then when the rep said I would need to take the additional insurance ($17 per day $170 additional cost)to be \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "insurance",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUN2Nk1IXzFRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Allyson A",
+    "review_date": "2025-02-10T10:17:45.449169",
+    "review_text": "LONG READ BUT WILL HELP YOU SAVE MONEY:\n\nWorst rental and customer service experience ever! I rented a vehicle for a one \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "tolls_epass",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tKeFJsRnZXVTAxTlZCTmNEUmhWVmxTTURjMVNGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Cynthia Prado",
+    "review_date": "2025-11-12T10:17:45.510628",
+    "review_text": "3 or 4th time I return my car full and the return agents have marked it as less than full. Luckily I have learned to take pictures before I leave the airport and when I return to be able to fight it. They also recharge if their base rate changes from when you prepaid it. I\u2019m getting fed up with Avis after exclusively using them.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VLRC13Nnl4eHZqd2hBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Joffre Santos",
+    "review_date": "2025-07-15T10:17:45.575322",
+    "review_text": "I do not recommend it. You will suffer physical and verbal aggression from an African-American AVIS employee when you return the vehicle. They are xenophobic and attack Hispanic tourists who book with this company. I am already taking legal \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "AVIS"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURod19lMlN3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Eric sanborn",
+    "review_date": "2024-02-11T10:17:45.693856",
+    "review_text": "Picked up truck at Orlando airport. Drove it 30 miles broke down on the side of a 2 Lane Highway left us stranded for over an hour until it finally started back up to where I can get to our location. While on the side of the road broken \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Orlando airport"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUQ5MUlQQTZBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "D. Johnson",
+    "review_date": "2025-02-10T10:17:45.782861",
+    "review_text": "My experience was 5 star all around! I arrived to pick up a vehicle from another company thinking they were located at the airport and they were not. The Avis agent went to help me and told me where to stand outside to get service for my \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNYdE5yNU9BEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Andrew Adams",
+    "review_date": "2025-02-10T10:17:45.875079",
+    "review_text": "I am utterly disgusted by the quality of service I received from Avis Preferred. I made a reservation at noon, but by 12:28, when they were supposed to release the vehicle, I had to wait an additional 20 minutes for it to be ready. What is \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis Preferred"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUNJNl9XemNREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "benny daniel",
+    "review_date": "2025-04-16T10:17:45.953323",
+    "review_text": "We took a Chevrolet Silverado, a luxurious and very high-quality vehicle. We picked up the car from the Orlando airport, the order was ready on time. Unfortunately, we received an unclean car, the plastics were sticky and there were remnants of snack and gum wrappers.",
+    "sentiment": "negative",
+    "sentiment_score": -0.4,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "Chevrolet Silverado",
+      "plastics",
+      "snack wrappers",
+      "gum wrappers"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURyNWZLN1BREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kelly Bailey",
+    "review_date": "2025-02-10T10:17:46.015812",
+    "review_text": "We were met with a cold, rude representative and this Avis provided us the worst rental car I have ever used. The car was dinged, scraped, etc. The inside was not clean - there was dust, dried drips of who knows what and the cloth seats \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tNMWJHNVJURTVoYW1sVWJsRm9SMWgwVUdwRVNuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jennifer Knoble",
+    "review_date": "2025-08-14T10:17:46.076899",
+    "review_text": "Avis is the absolute WORST car rental company I have ever dealt with!    Criminal actually as they have stolen nearly $800 from us by fraudulently charging our credit card.   We have spent so much time making phone calls and opening tickets \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xGNFVYSnVjV1pVY0dScVFrazRTM0poWnpsaFluYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jim Orta",
+    "review_date": "2025-10-13T10:17:46.134361",
+    "review_text": "I prepaid for a minivan all done online. When I got to the counter they processed the reservation and strangely add free glass on return and sun pass and all I had to do was wait a little bit longer for the car. I had to wait two hours before they could locate the minivan. What a disaster.",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "reservation_issues",
+      "pricing_fees",
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21rdE1FUk5iWFZPUnpGTU0wZDBNSEp5ZVVwQlpIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Brandon Young",
+    "review_date": "2025-11-12T10:17:46.205587",
+    "review_text": "Yesterday I received an email confirming my rental reservation, starting yesterday evening. Only problem is, I never made a reservation. Someone else somehow made a reservation in my name. I immediately called Avis customer service to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2poaWVGcDBXRkY2TTFZMmMySkVXV2hsYzBKTVZrRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tony",
+    "review_date": "2026-01-27T10:17:46.258652",
+    "review_text": "What a terrible rental car company in Orlando airport.  You book out all your vehicles and have 2 people working the check in desk. 40 people in line waiting for their pre paid vehicles and have to wait hours to get to someone to check you \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Orlando airport"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pCU2EwOU5kamg0VjJ4NGJHdFZUbFI0ZFhSMlVIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Alain B",
+    "review_date": "2025-12-12T10:17:46.318589",
+    "review_text": "We were served by Ralph at the MCO Avis counter and we had a couple of complicated issues which Ralph (and I include all the staff present in both instances) gave us top notch service. Who ever had to rent a car coming off a flight knows \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Ralph",
+      "MCO"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pnNWVqWlhjalZSVFZVMWVuUjVURUZXTjNKcVNtYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Dave Haring",
+    "review_date": "2025-10-13T10:17:46.384545",
+    "review_text": "DOCUMENT, DOCUMENT, DOCUMENT!!  I have had generally good transactions with all of the Avis Rental Locations I have dealt with, but I will likely look elsewhere next time in Orlando.  I rented a vehicle for 4 days in July...put 90 miles on \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "tolls_epass",
+      "location_access"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2kxT1EwOHlhMlJaYURkQlkxRlZlbEoxUzNCSWRGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kenny",
+    "review_date": "2025-11-12T10:17:46.450556",
+    "review_text": "The worst Avis I\u2019ve ever used. Presidential status and nothing was left in my reservation type. Staff was flippant and gave us a 12 seater SUV (we reserved a luxury sedan). I asked for a different vehicle and he said they had nothing left. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "reservation_issues",
+      "vehicle_condition",
+      "preferred_program"
+    ],
+    "entities": [
+      "Presidential status"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tKNFpWb3hVWEJuYTBOdWNYYzJWRkIwTTBoRWIyYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Josh Ward",
+    "review_date": "2025-11-12T10:17:46.487415",
+    "review_text": "Awful! Avoid use another company. Had to queue for nearly 2 hours at the rental desk then when I got there they just scream at you and lie telling you to add things on. Say no they get aggresive and try force it. I said no to everything but \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUMyMGQtdWRnEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Samantha \u201cSam\u201d Smith",
+    "review_date": "2023-02-11T10:17:46.551829",
+    "review_text": "On the early morning of Wednesday April 20th (2am) my 11 yr old daughter and I waited over 4hrs to get our pre-paid rental car from Orlando International, just for you to deny me a rental because all I had was a debit card with me. I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "pricing_fees"
+    ],
+    "entities": [
+      "rental car"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNyLS1pZGVnEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Dale Lane",
+    "review_date": "2025-02-10T10:17:46.620253",
+    "review_text": "And this is the condition of the truck I picked up? This is a total disgrace of any rental car company to get out to a customer! Scratches everywhere in the bed of this truck with only 12k miles on it! Beware of this location. The employee \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21Gb1kxbDRSRlZaVDJaUk9XOXJWVGR5TUV0Q1MxRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Peter Dixon",
+    "review_date": "2025-10-13T10:17:46.713301",
+    "review_text": "2 hour wait when we landed as they try to upsell everything at the desk.\nCar had a humming noise. Suspect rear wheel bearing.\nCar then would not start on day 3. Roadside assistance couldnt find me with \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTURnZ09PTG1RRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "ezr0cool 1",
+    "review_date": "2025-03-17T10:17:46.795540",
+    "review_text": "I had rented a car for a trip to Orlando. When I landed, I was told that I would have to take a truck. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": [
+      "rental car",
+      "truck",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUNENzhEaHZBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "S T",
+    "review_date": "2025-02-10T10:17:46.896539",
+    "review_text": "Had much better experience with Avis in the past.  This vacation I reserved a Camry fora week and when I showed up I was given a Chevy Trax.  Had ordered a Camry or comparable mainly because of the trunk space. In my eyes a Trax and a Camry \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis",
+      "Camry",
+      "Chevy Trax"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNCdjdHMlRREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Niki Dittmer",
+    "review_date": "2023-02-11T10:17:47.001110",
+    "review_text": "We had a 12 person can reserved and paid for  they couldn\u2019t find it. I had even put in our flight number and terminal number as suggested. The staff was very apologetic and tried. But they could not find another vehicle to replace it.  They \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "staff_behavior"
+    ],
+    "entities": [
+      "vehicle",
+      "staff"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2psU1dsTjNWRXRxUzNwZlJFTlZVMHR4T0U5dWFrRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Eric Schafer",
+    "review_date": "2025-08-14T10:17:47.110378",
+    "review_text": "Terrible experience.  Waited in line for about 90 minutes, only had two people working in the middle of the day.  Counter rep spent more time on her phone than actually helping people.  When we finally made it through the reservation, they \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUNGcW92eTB3RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Andrew Legro",
+    "review_date": "2024-02-11T10:17:47.203519",
+    "review_text": "I reserved a minivan but was given a Chevy Tahoe that I did not want.\nWithin the first 20 miles, the right rear tire was low. Refilled air that night. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Chevy Tahoe"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25KQ0xYZFNRelp3TjFaNVYzZGxPVXRyVG1SMmVGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Jason Tambolleo",
+    "review_date": "2026-02-03T10:17:47.310591",
+    "review_text": "These guys were absolutely awesome renting from them was no problems no issues my son left in Hayden in the car and we were able to get it back later on that day they were very accommodating and helpful absolutely rent from them again",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pOWE9WWkJiREpxU2sxRGNFbGZZa2hpYTJaRlkzYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Caleb West",
+    "review_date": "2025-08-14T10:17:47.400776",
+    "review_text": "Update from original review. Even worse than my initial review. Charged over $200 worth of add ons I didn't want. In attempting to contact Avis Customer Support for resolution, I'm getting straight runaround, as they are asking for all this \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis Customer Support"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNfMW8zdWZ3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "W. Sinnige",
+    "review_date": "2025-02-10T10:17:47.484582",
+    "review_text": "1 employee @ Orlando, waiting after a long flight for like 1.5 hour. Competitiors do all have at least 4 employees. We Will absolutely not book again at this company.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tkaWNYSXRMWGROVm1OWmJWRkVRa3RaTTJkdVEyYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Amanda Giddens",
+    "review_date": "2025-12-12T10:17:47.572955",
+    "review_text": "Dalton portrayed an incredible sense of customer service after dealing with car rental BS from uber through Avis. He helped me to rectify the situation with a genuine care and service. Thank you so much Dalton for all you did !",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Dalton"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUNKeS0zNHdBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Christopher Yakacki",
+    "review_date": "2024-02-11T10:17:47.631753",
+    "review_text": "Had a full-size reservation, but got upgraded to a \"sports\" car because I'm a President's Club member. Got a Camaro that looked like it was stolen for several weeks and was recovered on the side of the highway after some hard use and abuse. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "preferred_program"
+    ],
+    "entities": [
+      "Camaro",
+      "President's Club"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xaa04wZzFkVXczYXpKTE5YTllaamxuWjA5NU9VRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Frederick Robertson",
+    "review_date": "2025-09-13T10:17:47.689862",
+    "review_text": "Worst Avis location I\u2019ve ever dealt with!\nI was fraudulently charged a $489 \u201clost key\u201d fee even though I returned the key exactly as instructed by their employee. When I dropped the car off, I asked if \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pORFQzTnlVblpwTWxwUWJGZFRaVjl0Y2sxelRWRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Marcos Rivara",
+    "review_date": "2025-11-12T10:17:47.762712",
+    "review_text": "Fiat time at Orlando internacional Airport, mennat front desk didn't provided any information, just a number and a letter (no car model or plate number)... Woman at frond desk on parking section refuse to offer information because I'm not \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUQyMl92OWdBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Xing Song",
+    "review_date": "2023-02-11T10:17:47.838396",
+    "review_text": "Today I rented a car when I arrived. The reason why I rated two stars was because the service at the front desk was ok, otherwise I would have given one star. At the suggestion of the front desk, I upgraded my car by adding $6 a day. But \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "staff_behavior",
+      "pricing_fees"
+    ],
+    "entities": [
+      "front desk"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pWNWEzUlNZMFZXWVdKVE1FNW9XSEo1VDFkMldsRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Mike Carrillo",
+    "review_date": "2026-01-11T10:17:47.901145",
+    "review_text": "The absolute worst - similar to Fort Lauderdale - understaffed, long wait times, and under trained.  Looks and feels like the limited number of agents fist time renting a car. 8 stations, 2 agents, 30 people in line. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25SU0xVTk5SRGxMUzNoR2ExbGZaamR2WDFkVVYwRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "iwlu25",
+    "review_date": "2025-11-12T10:17:47.980195",
+    "review_text": "It took me one hour to rent a car. Why? Because there was only one worker",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURMZzhQb09nEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Naila Scott",
+    "review_date": "2025-02-10T10:17:48.076727",
+    "review_text": "Worst car rental place I\u2019ve ever been to! We needed to rent a car seat for my 10 month old, employees would not help us find the belt to strap it into the car. When we finally got an employee to come out and help the man in the picture \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25NeWNETmtTMVZ1WmxKRlYwcHBWVVZyZERGeE5GRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Dave Gilmour",
+    "review_date": "2025-11-12T10:17:48.174489",
+    "review_text": "If you like a 2 hour wait and multiple attempts to fob you off with different vehicle types than that which you ordered, roll right up. Pretty unapologetic about having one guy on the desk with a queue of 15 rentals waiting.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xWamVISkJialoxVkhwTGNtSklaWGRtWW1kblJYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "David Beggs",
+    "review_date": "2026-01-11T10:17:48.255789",
+    "review_text": "***DO NOT USE AVIS***\n\nIf you have the option I would recommend using another rental company. Avis \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tKdVJEZ3hUMFEwVkVGemREWkNlVTFOVEdKNmJHYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tony Chan",
+    "review_date": "2025-08-14T10:17:48.327919",
+    "review_text": "My car is full of ants or bedbugs... This is absolutely disgusting. I felt the ants running up and down my legs before I realized the back seat is full of ants. All they did was give me a $50 credit after I had to drive all the way back to exchange my car.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURzMllHS3JBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Allan Noerholm",
+    "review_date": "2021-02-11T10:17:48.416271",
+    "review_text": "Very fast and easy pick-up procedure. A very nice and new car.  We did not get the seat for our child, that we had ordered.  It was no problem to change the bill accordingly.  I am gonna use Avis again next time and next time ..",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "vehicle_condition",
+      "customer_service",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21ka1ZIRmtNV3gwTFU1b1IxVnpOVmg0Y1doMlUyYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Priscila Rocha",
+    "review_date": "2025-07-15T10:17:48.482167",
+    "review_text": "Terrible attention!!\nOver 2 and a half hours waiting, hopping to get a car that I had already pre paid and reserved and they didn\u2019t have any. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUMxcHR5ODd3RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Matt F",
+    "review_date": "2024-02-11T10:17:48.544250",
+    "review_text": "Ended up being a 2.5 to 3  hour wait to pickup our vehicle.  Absolutely Ridiculous.  All other rental counters were empty or had very small lines. Avis was a disaster with absolutely 0 sense of urgency by any of the agents to move the line \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURCeFBPc2dnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Leonardo Macedo",
+    "review_date": "2023-02-11T10:17:48.599494",
+    "review_text": "Dear, whem I got the car the car was completely dirty and the fuel was 7/8 (I returned 1/2 and they charged me $163,00). The contract of the person before me was still in the car. The person said that was the only car available but he \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "car"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25OQ1QxcFZOVk5EV25aT2VuVkJXRWRLZFhGc1dVRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Pete Lara",
+    "review_date": "2025-09-13T10:17:48.650786",
+    "review_text": "Definitely do not recommend. The Mazda I received was in horrible condition and now they are trying to stick me with a bill for damaged glass. I asked their employee at the exit gate to document all damage as I was instructed to do and he \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Mazda"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pCUmFURklWVVUxYVhWaVoydHJZMEZxYW01dldFRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Laquita Patrick",
+    "review_date": "2025-08-14T10:17:48.700813",
+    "review_text": "Certainly an unwelcoming and horrific experience. I waited roughly 30 mins in line all to get to the counter and offered a vehicle that was  different from what I reserved. I rented a minivan to seat 7 and fit several luggages. I was told \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2poQlNYcDBhR0ZOYkRBNWJVdEJNVVozWmxSU05rRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "ike lv3012",
+    "review_date": "2025-12-12T10:17:48.773255",
+    "review_text": "Everytime i come to this location I have problems and this was the last straw. Upon getting my car the out side was nasty filthy and interior windows were not cleaned at all as well as the seats. Asked for another car and was basically told \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "location"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUR1ZzhlVVV3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Yinka A",
+    "review_date": "2023-02-11T10:17:48.846123",
+    "review_text": "I have Avis Preferred. Service was not bad however they gave me a car with alignment and brake problem. I returned it within the hour and I saw them trying to give the same car to someone else. The did give me better car but I had to wait a \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "preferred_program",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Avis Preferred",
+      "Service",
+      "car",
+      "alignment",
+      "brake problem",
+      "car"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURLNlBDcWtRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Tamara Green",
+    "review_date": "2022-02-11T10:17:48.922859",
+    "review_text": "Renting a car can be a complete disaster right now, but luckily we didn't have any issues. Our flight was delayed 2 hours and I was so worried they would give our car away. Nope. No problems. We arrived Saturday night around 7:30 and we \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": [
+      "car"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25rNGNsb3daR2R3UlhoQlkyczRSMjQxUWpCa1ZWRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Eric Cyr",
+    "review_date": "2025-09-13T10:17:48.991961",
+    "review_text": "We arrived at Avis as a Preferred Member, keys were on the board and so far everything seemed seamless...got to our vehicle, not what we rented. We rented a 12 passenger Ford Transit and had a GMC Savana instead. Very different, the Transit \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Avis",
+      "Preferred Member",
+      "Ford Transit",
+      "GMC Savana"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pWYWNXRXlNVFppWVdnNGJURjNkV1JEZDBOaU0wRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Jason A",
+    "review_date": "2025-08-14T10:17:49.070190",
+    "review_text": "I\u2019m at the Avis car rental in Terminal B, stuck in a line that hasn\u2019t moved while Budget and Hertz customers come and go. I\u2019ve got three boys with me, including a special needs son, after a long red-eye flight, and this wait is beyond ridiculous. The service and speed here are completely unacceptable.",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Terminal B",
+      "Budget",
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pjeGVVbHlNRTVNYVVsblkyMUxaa05yYURSVlFYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Micah Cruger",
+    "review_date": "2025-09-13T10:17:49.125360",
+    "review_text": "Avis had been my go to when renting, but I am thinking I\u2019m going to have to switch. Each of the last two times I\u2019ve rented parts of the car have been broken. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTURvOGRLUmpRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "A D",
+    "review_date": "2025-05-16T10:17:49.177529",
+    "review_text": "We had a very frustrating experience with the Avis location at Orlando International Airport. Traveling with five children ranging in age from 5 to 14, we expected a smooth process since we had already completed pre-check-in, made a \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUNnLU92QURREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Hunny Be!",
+    "review_date": "2025-03-17T10:17:49.232858",
+    "review_text": "Hello Hunny Bees!! \ud83c\udf3b\ud83d\udc1d \ud83d\udc51 \ud83d\udc9b\ud83d\udc95It's your girl Hunny back with a review of another local small business. \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2swM09GZFNTMFppWmtVeFVrNXdWRVZxYjFFeWEyYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "fraser d",
+    "review_date": "2025-10-13T10:17:49.302532",
+    "review_text": "Very disorganised collection experience.   Instructions on email did not match the physical setup at airport.   Avis queue was longest and slowest by far.   Old car provided.  Dented, no washer fluid, cigarette burn on passenger seat.    Disappointing that they don't seem to care.",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition",
+      "location_access"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pScGRrbGZiSGt3ZDNSSlJrTkdWMHBDV1hWclVIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Carolina Bel",
+    "review_date": "2025-09-13T10:17:49.376980",
+    "review_text": "Haibert Rivera at the Avis at the Orlando International Airport was very accommodating. We had a pleasant experience like usual. Would recommend this rental company! Thanks.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Haibert Rivera",
+      "Orlando International Airport"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21aS1ZVdzBNWGRHV21wQmVsOWpYMmxKWDA5cFdYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Jacob Morales",
+    "review_date": "2025-12-12T10:17:49.463952",
+    "review_text": "I had a very good experience coming in terminal c after a long flight from London no one at the desk helped me until a guy named Juan cleaning vehicles next to my assigned vehicle helped me set up my apple car play in seconds and even \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Juan"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURoLU1ySmNREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Hendrik Ranoesetiko",
+    "review_date": "2024-02-11T10:17:49.565543",
+    "review_text": "Selecting the car and price is not difficult. Assistance at the counter went very good. Disappointed on info on the internet that payment in cash is slso an option, but it wasn't. After I booked, Expedia came in and offer a collison \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "pricing_fees",
+      "staff_behavior",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Expedia"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUR1Z19mNFlnEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Emilie Salinas",
+    "review_date": "2023-02-11T10:17:49.639705",
+    "review_text": "I wonder who runs customer care in this company. Despite doing the online checking we had to wait standing in line for about 2 hours before getting to the agent that litterally tried to sell us every single insurance package, toll paying \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service",
+      "tolls_epass",
+      "insurance"
+    ],
+    "entities": [
+      "customer care",
+      "company",
+      "online checking",
+      "line",
+      "agent",
+      "insurance packages",
+      "toll paying"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNlOHFYMkRBEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sarah B",
+    "review_date": "2023-02-11T10:17:49.714746",
+    "review_text": "We waited 2 hours when we landed to pick up our car even though it was pre booked for collection. Then to find when we finally reached the desk that there were no cars ready!!! They had clearly oversubscribed so we then had to wait a \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "car",
+      "cars"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUQ3cGFtd0h3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jason Burkett",
+    "review_date": "2025-02-10T10:17:49.771870",
+    "review_text": "Never a good experience when you are on a tight schedule and as soon as you leave the airport, low tire pressure warnings come on.  For some reason, the tire pressure warning system takes a few minutes to register, otherwise I would've \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNXcXB2VElnEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Daniel Villar",
+    "review_date": "2023-02-11T10:17:49.839022",
+    "review_text": "I had  reservations for a 7 passenger SUV for over 2 weeks in advance\nThe car was not ready until an hour of my arrival and then when they gave me the vehicle this is how the car was. I honestly don\u2019t like drama I took it drove it \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "reservations",
+      "SUV",
+      "car",
+      "car"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURKMUpIeG1nRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Mike Young",
+    "review_date": "2024-02-11T10:17:49.911748",
+    "review_text": "My wife and I had our return flight canceled from MCO (Orlando) to DTW (Detroit) and were stranded over 1100 miles from home. I went online and reserved a premium class vehicle one way which totaled just over $127 with the damage protection \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.5,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "MCO",
+      "DTW"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURGNDlXRGp3RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Austin Thomas",
+    "review_date": "2024-02-11T10:17:49.988058",
+    "review_text": "I rented a Tesla vehicle and at pickup there was none available, so I was offered a Ford Mustang Mach-E as a comparable replacement. When I entered the vehicle for pickup, I noticed the battery percentage was only at 61%. I asked one of the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Tesla",
+      "Ford Mustang Mach-E"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2swMWJYbHpMWEJoV25SNlptZEdkRVl0TjFwamVYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Brenda Rivera",
+    "review_date": "2025-07-15T10:17:50.059907",
+    "review_text": "ZERO stars!!  I should\u2019ve checked the reviews before renting from AVIS.\nWhy was my credit card charged $201.58?\nOn January 2, 2025, I prepaid for an \u201cEconomy Rio or similar\u201d car for $358.23 \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "AVIS"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUNmX3NYdDlBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "M O",
+    "review_date": "2025-02-10T10:17:50.142643",
+    "review_text": "DO YOURSELF A BIG FAVOR AND DONT RENT WITH AVIS ORLANDO AIRPORT. Waited over almost 4 hours in line to pickup the vehicle, couldn\u2019t cancel the reservation because was already prepaid and if i cancel wouldn\u2019t get the refund because was \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando Airport"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURlN3FXZHJnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Harry Neumann",
+    "review_date": "2023-02-11T10:17:50.215717",
+    "review_text": "Rental desk in terminal C not occupied, long transfer to terminal B required. Out of 8+ desks only two occupied. Had to wait 2 hours for a prebooked rental car. Paid for gps in advance but turned out that car had no gps built in. So needed \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "location_access",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Rental desk",
+      "terminal C",
+      "transfer",
+      "terminal B",
+      "desks",
+      "rental car",
+      "gps",
+      "car"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25sd2JsVkRUR0phZVU1YWRrVjVWMGhpYlVSSWRIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Michael Cartagena",
+    "review_date": "2025-09-13T10:17:50.300626",
+    "review_text": "Horrible company horrible location. My family and I vacationed in Orlando July 2025. Wait time was ridiculous\u2026 hours just to speaks to someone at the desk. Then we get to the desk and they don\u2019t have the car we reserved. So they tried to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2twblRYVnhWbGxtWWxwbFExZDJjMU15UTNkYVEwRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Michael",
+    "review_date": "2025-08-14T10:17:50.413531",
+    "review_text": "Horrible experience here. About 10 customers ahead of me and it took me about 2 hours to reach the counter to get my pre-booked pre-paid rental car. Some of the people ahead of me were saying they didn\u2019t have the car they booked. It was \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUR1ZzdQUFBREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "li x",
+    "review_date": "2023-02-11T10:17:50.514277",
+    "review_text": "I would put zero if it was possible. I was driving the Dodge Dorado. This car was listed under Elite SUV. The car was given to me with check engine sign turned on and tire sign turned on which  very frustrating  me since I was with three \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Dodge Dorado",
+      "car",
+      "Elite SUV",
+      "car",
+      "check engine sign",
+      "tire sign"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUR3MnFfODRRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "John Saunders",
+    "review_date": "2019-02-12T10:17:50.594452",
+    "review_text": "Terrible. First car needed a service after 2 days and was dirty. Changed to another vehicle which after getting back to the villa in daylight was filthy. Third car was also filthy. Didn't have sat nav and was a downgrade to what we had paid \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -1.0,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUM1dzZXY2V3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "James Fares",
+    "review_date": "2024-02-11T10:17:50.715229",
+    "review_text": "Overalll customer service was excellent and that\u2019s what really got the 3 stars. The vehicle I rented was a jeep grand Cherokee, the car was nice but the Vehicle was dirty with water bottles from the previous renters still in the cup holders \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "Jeep Grand Cherokee"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21oeFZYVlJSRlpSVDJSTVoxZDJXbVJFUVZGZmNFRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Roberto Reyes Bahamon",
+    "review_date": "2025-08-14T10:17:50.817947",
+    "review_text": "was happy to try out the Preferred status that I got thanks to American Airline's Platinum level. tried reserving online for a pickup in Orlando and return in Miami. never got a confirmation but Avis charged my card (currently pending \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "preferred_program",
+      "reservation_issues",
+      "pricing_fees"
+    ],
+    "entities": [
+      "American Airline",
+      "Orlando",
+      "Miami",
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUNaNWFfY2tnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Magdalene Hernandez",
+    "review_date": "2024-02-11T10:17:50.897486",
+    "review_text": "While they had cars in stock, and I was able to secure my rental, the check engine light was on, the back left tire needed air, and I had to stop alone at a shady gas station in Orlando to get air, and I\u2019ve never done that before so it was \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.6,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUR2LWNESzVnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Martin Elderman",
+    "review_date": "2025-02-10T10:17:50.977516",
+    "review_text": "Take another rental company. There is a cue of 20 people. The employees behind the counter take half hour per car. There are only 2 employees. It is a disgrace. Awful company. Last time we rented at Avis.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tGTFYwMDNaVEpIUlVFNFkzUjRkSFZUUVhGS1ZHYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Anna Johnstone",
+    "review_date": "2025-08-14T10:17:51.067837",
+    "review_text": "if you are flying in late into Orlando do not rent from Avis, they are often overbook and will rent your car to someone\u2019s else, make you stranded in Airport till morning of the next day. every day at 11pm to midnight there is people crying \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Orlando",
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25WMFZYRnpOVzVMVkhWaWJuUlFNMUZhVVRKcVlsRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Dustin Thompson",
+    "review_date": "2025-08-14T10:17:51.191029",
+    "review_text": "Worst customer service ever!!! I rented a car from Orlando international airport on 7-19 they didnt have the correct vehicle so they told me to come back the 20th and pick up the right suv that I paid for so I did i called the morning of \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Orlando international airport"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURCb05TaUJ3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sam Seward",
+    "review_date": "2023-02-11T10:17:51.296429",
+    "review_text": "Don\u2019t use Avis at Orlando, especially if flying into Terminal C. (Which British Airway do) Ignoring the poor quality of the car we ended up with, it took us over 2 hrs of queuing and stressful bus travelling between terminals (which Avis \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "location_access",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando",
+      "Terminal C",
+      "British Airway",
+      "car",
+      "terminals",
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURfbGV2M3dBRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Chris Davey",
+    "review_date": "2025-02-10T10:17:51.392763",
+    "review_text": "Rental Agreement #:329494760\nExceptional service from both ladies working the Avis Preferred desk at Terminal C. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis Preferred"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xveGNpMXdaekZXT1hNeFUyOUpMV1UzT0ZWS1IzYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "James Wang",
+    "review_date": "2025-12-12T10:17:51.491162",
+    "review_text": "If you are in the preferred program, Avis will charge your saved card regardless of which card you use to book the rental. Can cause lots of issues with reimbursing business expenses and none of their agents will mention it to you.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURmbHZiQ3N3RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Farad P",
+    "review_date": "2025-06-15T10:17:51.620965",
+    "review_text": "I have a reservation and no one at preferred office and have to come back here facing just one person with a huge line. It\u2019s 1:50 am and I was here 1 am.  Morning of Jan 6. 2025 \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURCcXRpY2xnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "L R",
+    "review_date": "2023-02-11T10:17:51.730572",
+    "review_text": "Awful, we paid 1,700 we didn't get the vehicle we wanted. Employees in the pick up area wasn't in the mood to help us, and we had to walk back to the terminal, with 3 kids and all the luggage. They gave us the ugliest vehicle that I ever saw and plus all of that it was so dirty, I took pictures in case they try to charge me for that.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition",
+      "cleanliness",
+      "staff_behavior"
+    ],
+    "entities": [
+      "vehicle",
+      "Employees",
+      "pick up area",
+      "vehicle",
+      "luggage"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tsbU9VbGhUbEpaZW1zMVJVdzVZa1poVTBZMGVHYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "HawkFan Forever",
+    "review_date": "2025-07-15T10:17:51.829342",
+    "review_text": "If I could give this place in Orlando 0 stars, I would. Absolute nightmare, even as a preferred customer. Took 2 hours to get our car. The worst was, most employees in the car garage were not helpful, on their phones, & tried telling me our \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUQtM0x2V0tREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Eduardo Estima",
+    "review_date": "2023-02-11T10:17:51.896010",
+    "review_text": "2 1/2 hours on the line to sign papers and receive the car key. The car was 30,000 miles used. Bad smell. Dirty in and outside. Avis changed to much. Poor Rental car.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition",
+      "cleanliness",
+      "pricing_fees"
+    ],
+    "entities": [
+      "line",
+      "car",
+      "miles",
+      "smell",
+      "Avis",
+      "Rental car"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tseGJXUkJaRzFhWlcxR1MyNUJjVEJ1Y1V3dE5XYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Gabriela Ribeiro",
+    "review_date": "2025-08-14T10:17:51.964504",
+    "review_text": "After a long flight with my baby, I had to wait over 2 hours in line to get my rental car, only to be met with extremely poor service. I was assisted by Karren, who refused to look up my reservation and insisted that my U.S. driver\u2019s \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service",
+      "insurance"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUNLaGVXMnN3RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Mel P",
+    "review_date": "2022-02-11T10:17:52.049786",
+    "review_text": "3 hours waiting at the preferred desk only to get the wrong car. At least 100 people in front of me and only 1 person working the counter. AVIS takes your money by won't hire enough people to clean the cars or work the counters. Mobile app \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "preferred desk",
+      "people",
+      "counter",
+      "cars",
+      "Mobile app"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUNHd05QRnJ3RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Paul G",
+    "review_date": "2022-02-11T10:17:52.147101",
+    "review_text": "TL;DR\nAvis call center connects you to Budget, where they can't help you. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": [
+      "Avis call center",
+      "Budget"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUM5X2NheTJnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Julie Laser",
+    "review_date": "2025-02-10T10:17:52.222859",
+    "review_text": "We picked up our vehicle from Orlando International Airport.  Once we got back to our hotel, we noticed the cup holders and doors were full of food wrappers and bottles.  The vehicle had not been wiped down or vacuumed.  This is the second \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "cleanliness"
+    ],
+    "entities": [
+      "Orlando International Airport"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNEMm9TdlB3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Wilson Vasconcellos",
+    "review_date": "2025-02-10T10:17:52.293245",
+    "review_text": "I wish I could give it a zero star record. I am at the Orlando airport now, at 2 am, and have been here for more than 3 hours already. There is just 1 employee to attend a crowd. How come a company as big as Avis does not to plan its staff accoding to the number of bookings they get to know in advance? A real nightmare.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUR3dk5pVU1nEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jon Hodson",
+    "review_date": "2025-04-16T10:17:52.372734",
+    "review_text": "Avoid at all costs, first car which was lent to us had a large dent down one side, when we returned it, it was replaced with another car with no working washer jets which we didn\u2019t find out until we needed use them, Very unsafe! Then when we reached out to flag the issues they never replied.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "dent",
+      "washer jets",
+      "unsafe"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSURHOU5QTDNRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nicholas Miller",
+    "review_date": "2022-02-11T10:17:52.475119",
+    "review_text": "Absolutely avoid this place!  Horrible customer service. I went through 3 different vehicles because of issues. The final one I got was disgusting.  There is no actual way of calling anyone at the location in case of an issue. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "vehicles",
+      "location"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xoekxUazBNbEpSZFRac1JVRnRhVEpTU1UxSFZIYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Reagan Heering",
+    "review_date": "2025-11-12T10:17:52.575045",
+    "review_text": "Use any other car rental location.   Been in line an hour.    There is one person working the counter and only Avis has a huge line.   Every other rental company has at least two agents.   Absolutely ridiculous and inefficient.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNkak82RFl3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Vivi\u00ebn Visser",
+    "review_date": "2025-02-10T10:17:52.673126",
+    "review_text": "We have turned to fossils in while waiting. It takes FOREVER to get the car keys UNBELIEVABLE at an airport!!!!! Only one person at the desk at 10pm????!!!! My god. Things really need to change here\ud83d\ude12 \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21rMmFrNTNPVjlhZDJvMFlrVk1SVFJRZEcwMlRYYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Filipe MM",
+    "review_date": "2025-11-12T10:17:52.800128",
+    "review_text": "Honestly, this feels like a scam. I\u2019m never renting a car from Avis again. I was charged for gas even though I declined the fuel option and returned the car with a full tank. I was also charged for eToll, even though we declined it and made sure the device in the car was turned off.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "tolls_epass"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT214R1UzTllkMXA2Y0RoWE5ERkpUWGxpWkc1RVNFRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Mohamed Elmallah",
+    "review_date": "2025-11-12T10:17:52.898555",
+    "review_text": "Two agents and 10 people in the queue. Why cannot they use AI to predict the queue lines and hence set a better number of agents.",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUN2dDVXNTZRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Godfrey Ainooson",
+    "review_date": "2025-02-10T10:17:52.968989",
+    "review_text": "Very friendly service, and i got a Dodge Ram as a mystery car. Well maintained and clean, had absolutely no problems with it",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "cleanliness"
+    ],
+    "entities": [
+      "Dodge Ram"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tSTlRsTm1NRk51YTFaS2FtNXBValpSTFZkaVpsRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sandipan Laskar",
+    "review_date": "2025-07-15T10:17:53.033720",
+    "review_text": "Had the worst experience in the Orlando airport Avis car rental. I was traveling with family of 4 with 2 kids, one 4 years old and landed Orlando late around 11:30 PM. I am a preferred member and rightly had my car assigned at the preferred \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pZM1dWbExUREptVjJoV1JHRk1aakJtTmt0Mk1uYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "\u0410\u0441\u0438\u043a \u0410\u0441\u0438\u043a",
+    "review_date": "2026-01-11T10:17:53.134557",
+    "review_text": "The most rude horrible lazy service ever. The longest line. Avoid at any cost",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pGUlVWaFdWbWczYlhCTlUzRlFUbE40YVdaTExWRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "N C",
+    "review_date": "2025-08-14T10:17:53.253977",
+    "review_text": "I Just droped the car 1 hour ago at Orlando International Airport and avis charged me for 241, 68$ for non pkg items. The person confirms that no fees will apply, I only took the gaz service at 46$ and I respect All the contract. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT21WQ01FRXpPVlIyWW1wSVNYUmFXWGxNVFc1eE1IYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Mikael Sidenius",
+    "review_date": "2025-09-13T10:17:53.372366",
+    "review_text": "Everything went smoothly, Scott at the desk was quick and helpful and from arriving at the desk to being in the car took maybe 20 min. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Scott"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2tsS2FuWmZUMDlFTFVoNlNtNVJZMEpPVVVSQ2JuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Matt C",
+    "review_date": "2025-12-12T10:17:53.512747",
+    "review_text": "An hour waiting in line to get my rental. I even pre-registed online.  Never again,I'll pay more for better service. The employees were polite.",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNWemFLYUJBEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Ryan Brady",
+    "review_date": "2024-02-11T10:17:53.628385",
+    "review_text": "My wife was injured due to lack of due diligence in performing a proper pre / post trip inspection.\nThe safety equipment in unit 19, at Cape Canaveral Florida Avis has been \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis",
+      "Cape Canaveral"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURacXZ5V0hBEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "JG Panganiban",
+    "review_date": "2024-02-11T10:17:53.719511",
+    "review_text": "So I\u2019m stuck on the side of the highway right now writing this review because I have nothing to do while waiting for roadside assistance. I rented an electric car from this location and when I left the airport, the car died. I tried to go \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNENm9MdVpBEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Paul Brown",
+    "review_date": "2025-02-10T10:17:53.820471",
+    "review_text": "My recent experience with Avis car rental left much to be desired. From the moment I stepped up to the check-in counter, I encountered an extremely rude ticket agent. When I inquired about a pricing discrepancy, instead of offering \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "topics": [
+      "staff_behavior",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChRDSUhNMG9nS0VJQ0FnSURaMGJvdRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kelly Liu",
+    "review_date": "2024-02-11T10:17:53.948753",
+    "review_text": "Love the car I rented, but the entire audio system is just DEAD!!!\nI really appreciate getting a brand new Mustang but unable to use the speaker system at all meaning I do not have any audio prompts with my gps, no music, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.6,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Mustang"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25SR2JIZFFMVzltUkhwa2NWQTNiV1owVUc5R2RHYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "James Embrey",
+    "review_date": "2025-08-14T10:17:54.046122",
+    "review_text": "Being a preferred member I have rented from Avis locations all over the country and by far, Orlando International airport Avis is THE WORST. Reserved a minivan two weeks in advance, flight was 30 minutes late and stood in the preferred line \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "wait_times",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTURvcGE2a21BRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Steve Stockdale",
+    "review_date": "2025-06-15T10:17:54.143219",
+    "review_text": "Hired a car with AVIS through Holiday Autos.  Was allocated Toyota RAV4 but when I got to the car a warning of \"Maintenance Required\" came up on the dashboard.  Called over an AVIS employee who seemed to think this was normal and the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "AVIS",
+      "Toyota RAV4"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25sYWRsVndUVTh0YzFodlgyNVlSM1UzTFc0eFdWRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Graham Chandler",
+    "review_date": "2025-08-14T10:17:54.219987",
+    "review_text": "Rented a car from avis in April 2025 everything was fine until I got home and got a toll bill from Avis. The toll was timed at 12:31 but I had dropped the car off at 10:09  but Avis said I dropped the car off at 1:09 pm 3 hours after the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "tolls_epass",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2pGS2RuTjBSR3RRVjJsV1dHTTRSV0pTUjBoMWFGRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sebastien H.",
+    "review_date": "2025-12-12T10:17:54.328232",
+    "review_text": "Avis 1 guy who work and 12 clients making the queue ! The other guy doesn\u2019t take care of anyone ! Pass your way if you want to book a car in Orlando!",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25OUmRucFRkMHRIUlVZMVZISlRabTEzZUMxME5WRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Marco Folla",
+    "review_date": "2025-07-15T10:17:54.457496",
+    "review_text": "NEVER MORE\n\n2 hours in the line waiting to be attendant. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25FM1pqQnNZM2R6VG1kT1lsTkhUMjU0Y1ZKb2RFRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Brian Bottini",
+    "review_date": "2026-01-27T10:17:54.561755",
+    "review_text": "Always a shit show trying to exit. One lane open, always a massive backup of cars to exit, quick exit QR code system has been down for months!!!",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUQxM29uX3p3RRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Arout",
+    "review_date": "2024-02-11T10:17:54.687620",
+    "review_text": "My family and I want to write about our very deep regret about the bad experience we had yesterday 06 Jan 2024 with Avis employees at the Orlando airport.\nOn January 06, 2024 we were on the road since 2 am, from Montreal, Canada, and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando airport"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VMTENqTm1sN2EzZFhnEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Dana Dumai",
+    "review_date": "2025-06-15T10:17:54.788260",
+    "review_text": "I was charged over $2,700 for a rental that broke down, left me stranded at night, and wasn\u2019t even drivable due to not being properly charged. I followed all instructions from Avis roadside assistance, returned the keys to the airport \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNSbklDZUZ3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kristen Carolan",
+    "review_date": "2024-02-11T10:17:54.871275",
+    "review_text": "Is there is a decent car hire company out there? Doubt it. Booked GPS , I was told at the desk at pick up that it was activated. I got the car, didn\u2019t work. Asked a guy in the parking area to check it. I was told to just drive out of the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VLempyT3F4OTUybW9nRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Alex Schwartz",
+    "review_date": "2025-06-15T10:17:54.955619",
+    "review_text": "While I did not experience the same long waits or missing reservations as some other reviews listed here (late night arrival after many country wide delays), I too had a very unpleasant customer service experience here and will make great \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25Sc2FqWnZNVXRoYlhGT1VWQm5jVWRFY2xsME5GRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jason Orr",
+    "review_date": "2025-07-15T10:17:55.069976",
+    "review_text": "Middle of Saturday and been in line for an hour.  One agent, absolutely the opposite of customer service.  Still not close to being helped still.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNXaThlZ05BEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Mike Holien",
+    "review_date": "2023-02-11T10:17:55.190487",
+    "review_text": "Slow as Molasses. The staff remind me of the sloths in that Disney movie. Extremely long lines, and the staff are unexcited to rent cars. I mean a smile doesn\u2019t cost anything (regardless of the mask) First and last time at Avis in Orlando \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "staff",
+      "lines",
+      "staff",
+      "cars"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUNVc19PMUdREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Cheater Rush",
+    "review_date": "2020-02-12T10:17:55.305645",
+    "review_text": "Paid for a premium SUV and received a regular SUV. Vehicle did not have a full tank and expected to return with full tank of gas. Better yet, the vehicle was damaged in the left passenger side bumper. Notified the Avis agent when I was \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURSeXZ2UVJBEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Enrique Gonzalez",
+    "review_date": "2024-02-11T10:17:55.517083",
+    "review_text": "Dirty cars - Service was great, agents all friendly and professional, but after looking at about 4 o 5 cars I took the cleanest one... I think they need to spend more time wipe down of a car before releasing it out again..",
+    "sentiment": "negative",
+    "sentiment_score": -0.4,
+    "topics": [
+      "vehicle_condition",
+      "cleanliness",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT25WMmFHUlJhMDV4TlVKcmNtNTBjR0p5VUdGbmVuYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "James Reay",
+    "review_date": "2025-09-13T10:17:55.680089",
+    "review_text": "All good on the face of it. You are given the keys and not shown the car for damage. Thankfully, I took a video............ handed the car back with no checks to verify the condition. Get home to an additional \u00a3341 charge with no explanation. WATCH OUT FOR THIS !!!",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUNJMy11Q05BEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "robert rau",
+    "review_date": "2025-05-16T10:17:55.791931",
+    "review_text": "1 star is too generous for this location.   Getting the vehicle wasn't too bad since we are preferred and got to bypass the line.  The guy working at the counter was incredibly slow and definitely over employed.  The nightmare was after \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "preferred_program",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTUN3MmZPeXBRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Alan Harrell",
+    "review_date": "2025-04-16T10:17:55.894540",
+    "review_text": "Where do I start? We got a $450 cleaning bill for goldfish crumbs under our kids' car seats. There were no stains and we didn't smoke inside the car (or anywhere else.) It would probably have taken them ten minutes to vacuum. Their letter \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "cleanliness"
+    ],
+    "entities": [
+      "cleaning bill",
+      "goldfish crumbs",
+      "car seats",
+      "stains",
+      "smoking"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURaNDZPWkhREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Rodrigo Der Fortes",
+    "review_date": "2024-02-11T10:17:55.986969",
+    "review_text": "I spent more than an hour in line to get the car, as other companies didn't have a line. When I picked up the car the windows were very dirty. After returning the car I was charged a fee via email called \"Non Pkg Items\" which I have no idea what that is.",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "cleanliness",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSUM1amY3LU9REAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tim Frey",
+    "review_date": "2024-02-11T10:17:56.092994",
+    "review_text": "We were told that our 10 day rental would be $1,000. The car we got smelled terrible, had stains all over including 4 spots of spray paint in the interior. We returned our with a full tank of gas and no additional damage, yet our final bill \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2xKYVQzZzJVVFZITUZoWlFsbHJaRGxTTURoclVHYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Diego Rodrigues",
+    "review_date": "2025-07-15T10:17:56.174397",
+    "review_text": "I am a preferred member and this is by far the WORST Avis I\u2019ve ever been to.\nI had a reservation for today 06/21. When I arrived no car was assigned to me, fair that can happen. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "preferred_program"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnSUQtcjhLRDdnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Dave Obedzinski",
+    "review_date": "2023-02-11T10:17:56.307089",
+    "review_text": "Only clicked on one star because we actually got a car and it ran well. Otherwise, My flights were delayed and changed throughout the day. I called and informed AVIS of this so they knew I would be arriving late. I got in line at 11:20 p.m. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "car",
+      "flights",
+      "AVIS",
+      "line"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnTUN3aXRudlRREAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Jacob Musgrave",
+    "review_date": "2025-04-16T10:17:56.431564",
+    "review_text": "They charged me a refueling fee of $46 when I filled the car up at the airport immediately before dropping it off. I even provided proof of the sale. This occurred on Saturday. I have left multiple messages for them to resolve the \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "refueling fee",
+      "proof of sale"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJakt1OEtzOWUzUzRRRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "A.J.L Targaryen",
+    "review_date": "2025-07-15T10:17:56.561222",
+    "review_text": "They promised me to waive the toll charges (because of the troubles we had during pick-up) and still charged me 89$. Then I talked to Avis customer service, the etoll department, and the rental pickup location at the airport, everyone just \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "tolls_epass",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "google_ChdDSUhNMG9nS0VJQ0FnTURBczRPNTVnRRAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "kim dixon",
+    "review_date": "2025-03-17T10:17:56.686593",
+    "review_text": "Has 2 employees working with 9 open stations in middle of day. Had reservations for rental car and have been waiting in line over  45 min!!\nWould not recommend\u2026 next time Enterprise!",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "employees",
+      "stations",
+      "line",
+      "Enterprise"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VJQ0FnSURPMXVpd01nEAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Carolyn Merry",
+    "review_date": "2023-02-11T10:17:56.821962",
+    "review_text": "Terrible service my friend got physically assaulted by the rental agent Mohamed he gave us false information about tolls to try and make us pay more.  Then got held for 3 hours at the airport as he cancelled our booking. And we had done \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "tolls_epass",
+      "reservation_issues"
+    ],
+    "entities": [
+      "service",
+      "friend",
+      "rental agent",
+      "information",
+      "tolls",
+      "booking"
+    ]
+  },
+  {
+    "review_id": "google_ChZDSUhNMG9nS0VMVFE5OW1pemFMSEV3EAE",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Aliya Naim",
+    "review_date": "2025-07-15T10:17:56.958422",
+    "review_text": "Zero stars if I could. I rented a vehicle from this Avis location in Orlando, with the drop-off location in Atlanta. I was charged $168 at the counter at around 5pm and was specifically told I had until 5pm to drop it off the next day. I \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Avis",
+      "Orlando",
+      "Atlanta"
+    ]
+  },
+  {
+    "review_id": "google_Ci9DQUlRQUNvZENodHljRjlvT2sxd1dIZHJZWG90V1dScVh6UXllRTltVVU5MVNHYxAB",
+    "location_id": "ATL",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Richard Holman",
+    "review_date": "2025-07-15T10:17:57.071635",
+    "review_text": "Collecting the car was easy but the rep offered some options which were mildly forced upon us, but rejected after a few no thanks. We've rented many cars before so know what to expect. The main one we were offered was the fuel service. The \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": []
+  }
+]

@@ -1,0 +1,1843 @@
+[
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2toMWNHWldNRUZRY0MxNll6VnpUek5tZWkxT2QwRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Jack Watson",
+    "review_date": "2026-01-17T07:48:34.250486",
+    "review_text": "Really easy process from booking to drop off. We did have one minor issue where the battery of our car was dead when we picked up but the service staff were very quick to resolve this by getting us a new vehicle! \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21JNWVEWkxOVlJQWlhKZlVYRnJOVFZEZUVaeVVIYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "ATLOffroad",
+    "review_date": "2026-01-24T07:48:34.355161",
+    "review_text": "With 16 check in desks they only were using 2.  I waited in line for a little over 20 minutes. I made a reservation using credit card reward points. When I checked in I said I had a reservation, the Hertz employee was rushed due to the long \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2padU1HaExiMEl0TVd0Q2MwVjFVSFpuU2xkRlJIYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Tom Bidot",
+    "review_date": "2025-12-16T07:48:34.407817",
+    "review_text": "How to get a rental car at the airport while I was in town for a few days: I did everything online and went through the expedited process to scan my ID and pay for everything upfront. After doing all this work, I still had to wait in line \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.2,
+    "topics": [
+      "wait_times",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2t4bVdsbGlNMDQyUWpCUlVXeExZMWhJUjA4eVMzYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Courtney Hinderscheit",
+    "review_date": "2026-01-15T07:48:34.478412",
+    "review_text": "From start to finish we had a wonderful experience with Hertz!  We've been using them for years and the process keeps getting better.  No lines and waiting as we got an email that our car was ready and could go directly to the lot!  Took a \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21WeU5FZHJlVTVWY1hoWVNFNDNVVzF3ZWxwaVFuYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Namtab Sylvain",
+    "review_date": "2026-01-31T07:48:34.576015",
+    "review_text": "I travel A Lot.. and after looking through my emails I seem to have forgotten to Post the Review..\nFirst off I went with Hertz for they had a special that weekend.. it seems to be \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT214c1pGTmxSelEwT0VJeFVFNWtRM1JmU0VSeFUwRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Wei-Ai Tai",
+    "review_date": "2026-01-15T07:48:34.652539",
+    "review_text": "Easy check-in and check-out process at the Hertz in the Phoenix Sky Harbor International Airport, especially if you have Hertz Gold Plus Rewards status. However, you do have to take a train to get to the rental car area (about 10 minutes from Terminal 3), so need to factor that into your schedule.",
+    "sentiment": "positive",
+    "sentiment_score": 0.7,
+    "topics": [
+      "location_access",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Sky Harbor International Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21NeFFXVkhURU5TTlhOS1UwcHhMV2N4YmtkbVgzYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "D Krausz",
+    "review_date": "2026-01-31T07:48:34.723578",
+    "review_text": "we had a great experience renting from Hertz at PHX, and I especially want to recognize Lisa for her outstanding service! She was genuinely kind, patient, and welcoming, and made the whole process smooth and pleasant after a long flight... \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Lisa"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tkSlQzSlNXVTVaUVdwYVpHNHRRelZyYlRKck9WRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "malcolm chitty",
+    "review_date": "2026-01-15T07:48:34.783303",
+    "review_text": "I had a very disappointing experience with this rental. I completed my reservation in advance and checked out through the app, expecting the vehicle to be ready upon arrival. Unfortunately, that was not the case. After multiple unnecessary \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tsZlVVNXVSMkpMYURFMlRVeFFaMlJmV1dZeU1XYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Christopher P",
+    "review_date": "2025-11-16T07:48:34.841228",
+    "review_text": "I acheived the Gold Member Plus and got sold on the ease of the Gold Board and \"Skip the Line\". Flight arrived at 11:30pm. No one was present behind the main counter. Come downstairs to a HUGE line at midnight to a counter with 2 \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25aek5uRm5TRkF0UkcxdE1XUmlUbXhIY21oMFowRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Roberto Russo",
+    "review_date": "2026-01-15T07:48:34.920369",
+    "review_text": "I rarely write negative reviews, but this experience was frustrating enough that others deserve to know. I strongly recommend avoiding the Hertz Phoenix Airport location and choosing Enterprise, or National instead. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service",
+      "location_access"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xNM1JtRkJhVU5tYUhOeU1GOTRNR0pLZGprdGVIYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Zekeyahi Scott",
+    "review_date": "2026-01-15T07:48:34.995339",
+    "review_text": "I have to give a huge shout-out to the Hertz team at the Phoenix (PHX) airport location. My fianc\u00e9 and I have had some \"interesting\" experiences at other Hertz locations in the past, but the service here was truly exceptional and completely \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pWRk9VUXRNekJFU2pSNFNqRXhVMEpOTm1KTk9HYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tyler Edwards",
+    "review_date": "2025-11-16T07:48:35.097179",
+    "review_text": "(picture is panoramic; click on it)\n17 counters open, two people working. So I go downstairs to try to check in with my gold membership and they won't let me even though there's two people with \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "preferred_program",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25SYVJIVjVRV3hyZEZsdE5qbGFRVzVhYkhaQ2VrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Joseph Laney",
+    "review_date": "2026-01-15T07:48:35.198261",
+    "review_text": "Not sure why all they have all these bad reviews. Maybe they\u2019ve improved things? Here\u2019s my personal experience\u2026.Booked online, checked in on my phone, then went straight to car that was assigned. They check you out on the drive out, then \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "reservation_issues",
+      "customer_service"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21zd1pHaE1OSFJQUW5wc2RWWTNNRkkwZG5NM2NuYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Rafael Yemane",
+    "review_date": "2026-01-15T07:48:35.304298",
+    "review_text": "\u2b50\u2606\u2606\u2606\u2606 Avoid Hertz at Phoenix Airport (PHX)\nI recommend avoiding the Hertz Phoenix Airport location and renting instead from Sixt, Enterprise, or National. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service",
+      "location_access"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Airport",
+      "Sixt",
+      "Enterprise",
+      "National"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT210VldVOW9RWE5QYVVOVU9HbFhOeTFxT0RCYVkwRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nick",
+    "review_date": "2025-10-17T07:48:35.367222",
+    "review_text": "Loooooooooong lines. It took me almost two hours to finally get my car and hit the road. If you are a business traveler, AVOID. They had two employees servicing a line of 40 people. The online check in system did nothing. One agent \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2toa1ZrRjVaak5IV2taaVVFNXZXWEkxZEhVeGVtYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Katy P",
+    "review_date": "2026-01-31T07:48:35.436025",
+    "review_text": "I returned my car and was told to leave the keys in it and walk away, that they would inspect it later. Within an hour I recieved a $400 smoking cleaning charge. I don't smoke. I contacted customer service to tell them it was a mistake and \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "$400"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s5MmNsUlBTME41WDBkRlVVSktNMk5KTTBwdFltYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Allen Valencia",
+    "review_date": "2026-01-24T07:48:35.520193",
+    "review_text": "Very disappointing experience overall, especially as a loyalty member.\n\nThe vehicle I reserved was not available upon arrival, and the alternatives \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "preferred_program"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pOVVVIUkVTM0Z2ZVRSSlowUXdWbkpoY1RSeE5IYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "AMY GILL",
+    "review_date": "2026-01-24T07:48:35.625247",
+    "review_text": "If there was lower than a 1 star that's exactly what they'd get. Reserved a car then showed up & it's not available. After waiting for over an hour in line,  told me to pick any SUV. Only 1 in the lot. It appeared to be electric. Went back \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnTUNvMF9lQXJnRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Audra Ward",
+    "review_date": "2025-05-20T07:48:35.719432",
+    "review_text": "They were helpful.  Although I wish they would have told me I couldn't leave my personal vehicle there. I had not rented a vehicle for a really long time.  I had to ask my neighbor for a ride to pick up my vehicle and again when I brought \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2poRlJVNTNjRkZYVG5ScVNrcFZjR0kxYVZCb1psRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "jasmineshxy",
+    "review_date": "2026-01-15T07:48:35.815802",
+    "review_text": "I do not recommend renting a car from this company.\nIf you decide to rent from this location, be sure to keep proof of the exact car return time rather than relying solely on their drop-off instructions. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21kblJXNW1SRGR2UWxCR09VcG1WblZtTXpoTGJWRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Erica Morin",
+    "review_date": "2026-01-15T07:48:35.907029",
+    "review_text": "I arrived on a Friday @ 130pm and there was no one in line waiting. There were 2 staff members with customers and another employee came out to attend to us!! He was super friendly- we talked about sports. Don\u2019t hesitate to book with Hertz! No wait and outstanding service! In and out in 15min!! Will definitely book with Hertz again.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21nNWMzWndhRGcwZDJVdFNtRnJZVmx0YWw5b01IYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Moreni Simona",
+    "review_date": "2026-01-15T07:48:36.065271",
+    "review_text": "We purchased a rental car from an agency in Italy. A 4x4 SUV with full insurance included, so we wouldn't have to worry. When we arrived, the salesman tried to sell us a four-hundred-euro upgrade for a car with a navigation system. We told \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Italy"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xwaVVqaFlTR05GWTNWeGVXSkJOMnA1TWw5WFlrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Melena",
+    "review_date": "2025-12-16T07:48:36.155526",
+    "review_text": "DO NOT USE Hertz!!! Go to enterprise. I made 2 reservations because of the chance of flights being canceled. I went into Hertz first. Thought I pre registered online. Short story went up and Down elevators to different counters no one knew \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "enterprise"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pRM2RqVnZWMTlIWldSVFNIUnBkR05CWlVwVFlrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Carrie C",
+    "review_date": "2025-12-16T07:48:36.216763",
+    "review_text": "I will never use Hertz again. Their website messed up our travel locations, and when I called to fix it, they told me the corrected reservation would cost more than double what I originally booked. After speaking with the representative for \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2t0UFpUbENiWGxvZVhGcWFIQnVXVkpGVW5kaVVXYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Kwang sic Joo",
+    "review_date": "2026-01-15T07:48:36.277830",
+    "review_text": "I had a prepaid reservation at Hertz Phoenix Airport and clearly stated at pickup that I wanted only what was already included. I explicitly said \u201cno\u201d to additional options multiple times. The staff member said everything was reflected \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21kc2VrdEpNV0pFYkVkUFJrSlhiWGRFTTFkSFMzYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Nick",
+    "review_date": "2025-11-16T07:48:36.330892",
+    "review_text": "Very deceiving for a first time renter with hertz. Got to pick a vehicle from the presidents area I stayed modest and got a vehicle close to my original reservation. Expecting to pay a competitive $787 total for my rental for my timeframe. \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "pricing_fees",
+      "preferred_program",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2t4NldFTTJPR1ZYZW1SS1MweGhhSEZJTFROak1XYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Emily Sholly",
+    "review_date": "2026-01-15T07:48:36.381172",
+    "review_text": "Terrible customer service. Horribly mean, unfriendly, and unhelpful staff and company. I will never use this company again. The staff is very put out at the slightest request. I lost an item and the claim has been sitting for over two \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s5b2EyRklla0pIV1ZSd1RWZGlibUZtVFRoUFlrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Woody Angie Woods",
+    "review_date": "2025-09-17T07:48:36.435996",
+    "review_text": "We rented from Hertz and we got a 2024 Ford Edge car back in June 2025. We had the car less than 24 hours and the fan in the car would not shut off. Needless to say the battery went dead. We were an hour and 45 minutes away from Phoenix. We \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz",
+      "Ford Edge",
+      "Phoenix"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2t0UE16RnNNSHAxYTA1TWEwRmhTSE4wWDB4WFRuYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "PPF",
+    "review_date": "2025-12-16T07:48:36.490072",
+    "review_text": "For context, I am a President\u2019s Circle Member who rents multiple times every year and have a lot of experience dealing with rental car companies. During my rental experience at Hertz PHX, I encountered questionable behavior from the staff \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "preferred_program"
+    ],
+    "entities": [
+      "President's Circle Member"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2w4emJtaGlXamhGWjNSMWRIWlhRVGhtYkdWUVJsRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Faye Popplewell",
+    "review_date": "2026-01-15T07:48:36.538930",
+    "review_text": "I recently picked up my rental car at Phoenix Sky Harbor Airport and wanted to share how lovely the experience was. Lisa was incredibly kind, patient, and truly went above and beyond to make sure my road trip\u2014and overall vacation\u2014went smoothly. Thank you so much, Lisa, and the team at Hertz!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Lisa",
+      "Phoenix Sky Harbor Airport",
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2t4bldtbDFURXBTYlhkb1pWcDVXbUpTZW00M1JYYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "T Chappell",
+    "review_date": "2026-01-15T07:48:36.599743",
+    "review_text": "I\u2019ve been a loyal Hertz customer for nearly 20 years, but my recent experience at the Phoenix Airport location has left a very bad impression. At most airports, a Hertz employee is present to receive the vehicle upon return; however, at \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.6,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21kUk4yWlNMVlphVEZsUVgyaDJkbnBuYWxRM1ZFRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Victor Claycomb",
+    "review_date": "2025-11-16T07:48:36.655594",
+    "review_text": "The check-in process was polite and efficient. When I arrived at near midnight, the agent let me know that my reserved car class was out of stock, and was kind enough to put me in what has been so far my nicest rental with Hertz without any \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xkbloxaGZOemRzZGs1RlUwWnhWbVp0WmpsS2VWRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Robin Rosser",
+    "review_date": "2025-11-16T07:48:36.714923",
+    "review_text": "The lady upstairs at the Hertz Rental Car Phoenix Airport was very rude and told us it would cost us $100+ to pick up our car 1 hour early even though we told her we would bring it back an hour or 2 earlier.  The lady downstairs said no, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "staff_behavior"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tWTVlYaFRUMFY2Vm05Mk5FMXRPV3h0TTNrd1NVRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Mike Cox",
+    "review_date": "2025-10-17T07:48:36.779528",
+    "review_text": "So I decided to become a Gold account holder to get special services. I've just been informed I need to get my car back to Hertz by 1 O'clock today or I'm being charged for another day. This is very interesting as I picked the car up 6 days \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnTUR3czZqYVd3EAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Anthony Diep",
+    "review_date": "2025-04-20T07:48:36.869880",
+    "review_text": "Avoid renting here at all cost. 1 month+ after returning the vehicle, received an additional mysterious charge on credit card from Hertz. When I called the customer service line, they said that we returned the vehicle with no fuel and that \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xwYU1tZFJNM3BrVDA5RlpVMWtPVjlaV1hoWFIyYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Chris Taylor",
+    "review_date": "2025-11-16T07:48:36.964419",
+    "review_text": "Renting cars can be an incredible nightmare, especially for those on a budget who are paying by themselves and not just filing it as a business expense. There are too many companies out there offering super low prices online, but they don\u2019t \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tsVldHRmlUalJKUkZod01uaGtjMjFyVm1WSGFGRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Lori Ramirez",
+    "review_date": "2026-01-15T07:48:37.084326",
+    "review_text": "Booked through Expedia in September for a package deal for December 11-16. In the booking it said I would only be charge $286 for the rental if I paid now. So I did. Went to Arizona from GA for a soccer event. Only took money for what would \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Expedia",
+      "Arizona",
+      "GA"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21sWlVtNU9NSFU1VjFsaU0wbG5SalpZUTI1c1EyYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Eric",
+    "review_date": "2025-12-16T07:48:37.179791",
+    "review_text": "I get rentals for work and unfortunately by default somehow it always says rental pickup is at Jackson jet center. This has always caused an issue that\u2019s made me go back and forth and the only hertz is at Sky harbor. Hertz employees kick me \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "reservation_issues",
+      "location_access"
+    ],
+    "entities": [
+      "Jackson jet center",
+      "Sky harbor"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21JNU9WTXpXVlZFVUdreE9WWjVNWFl4TlROZlVIYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Mounir Ennenbach",
+    "review_date": "2025-12-16T07:48:37.267833",
+    "review_text": "We rented a car for two days for our trip to Sedona. I had a reservation, but opted for the desk service. The staff were super friendly and helpful and we were in and out pretty fast. Good cars too.",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21wRWNWQk1ha0ZUZFc1UVFtdDVlR3hGYm1sYU5HYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Vu Pham",
+    "review_date": "2025-10-17T07:48:37.313644",
+    "review_text": "AVOID AVOID AVOID!\nThis Hertz Phoenix location is a total scam and extremely unprofessional. They used my credit card to pay for someone else\u2019s reservation under the name John \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2padmQzVkVNV2hDVjBSMmRUbEdiR2cwY0VrMFRrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Rafael Ramos",
+    "review_date": "2025-09-17T07:48:37.366779",
+    "review_text": "Beware this Hertz location will find any reason to charge you for anything. I was charged for exterior mud. When it rained the day before. Everyone is right in the comments. Make sure you take pictures before and after.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25od2JHbHpOMncwUmpSVWRYbDFRVjlNWmswMloxRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Ashley Bastian",
+    "review_date": "2026-01-31T07:48:37.429350",
+    "review_text": "I wanted to rent a $60 car rental, got the bill for $220. This is for ONE day. I only got the basic coverage so should have only been $36 more ($15 higher than budget whom we used a few days before). \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": [
+      "Budget"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25WeFVHNUxOR3hIV1hWMlRsSTVaVEpWZWxkdWVrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sarah Garguilo",
+    "review_date": "2025-10-17T07:48:37.529826",
+    "review_text": "Yikes! Hertz at Phoenix Airport missed the mark! I am not sure if they even realize that they are working alongside the voted \u201cfriendliest airport in the US\u201d but it doesn\u2019t seem like they got the memo. The staff were completely \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior",
+      "location_access"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s1NVZGWkRiRVF4ZWxsT04wRjBSRFZWV2tocFZIYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Kristine Carranceja-Gurski",
+    "review_date": "2025-11-16T07:48:37.629752",
+    "review_text": "Miserable experience waiting 1 and 1/2 hours on line after our flight was already delayed for two and a half hours...  Blame the shutdown. But at least my reserved car was there, and the gentleman who was working tonight was pleasant, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.4,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Avis"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25sRVkycHJPVVY0VmpWVVpVWnBPSGRITVhBM1NsRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Matthew Wilson",
+    "review_date": "2025-10-17T07:48:37.727530",
+    "review_text": "This location still uses AI. It isnt the locations fault but hertz in general but it is still a major issues causing fake claims of damage. This technology should not even be allpwed to use and customers should beware of the anticustomer \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pCalJsSnVjbU5mVlhwQmVDMUNhSGQyTVdoSmNVRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Brooke Pabilic",
+    "review_date": "2025-12-16T07:48:37.812216",
+    "review_text": "Lisa at hertz is a God send. She walked us through the entire booking and did everything she could to get us the best deal possible. She deserves a promotion, a raise and a million dollars. She truly was so kind hearted and just good people. Very glad we booked at hertz and had the opportunity to work with Ms. Lisa!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Lisa"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21VeVkxaGhSa042ZDNwV2NtMXpjVU5hZFZaQk4xRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Andy Braddy",
+    "review_date": "2025-12-16T07:48:37.925695",
+    "review_text": "Not helpful or friendly.  Rairly get upgraded car I paid for without having to go into office and ask for the car I rented. And still don\u2019t always get it. Lots of minivans, otherwise sparse selection for Presidents club. I enjoy Hertz, but this is not a good location at all.",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "customer_service",
+      "preferred_program",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Presidents club"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25CUlkxVXRjazlIVlhWU2MwdFNaa2R6VmpCR1pGRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Sylvain Garnier",
+    "review_date": "2025-12-16T07:48:38.035786",
+    "review_text": "Rented a car from Nov 27th to Dec 1st (5d) from Booking.com for personal travel. I paid 387,21 dollars. Thought that this would be the total price. Ended up to be almost the double after returning the car, here 's the detail: \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": [
+      "Booking.com"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pkUWRsWlZjMlEwZGpGeWVuTkZWalI2ZFdsaVNHYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Eric F",
+    "review_date": "2025-08-18T07:48:38.140390",
+    "review_text": "We rented a 2025 Jeep compass for 2 weeks. The lady at the desk said she was giving us her personal price as a worker. Didn't seem all that cheap though. Still ended up costing 1700 with all fees and taxes. The fees are higher at the \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.4,
+    "topics": [
+      "pricing_fees",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Jeep compass"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25Fd1oyNTRTa2xEZFZobk4wVnZTMVZYZFZWMlpWRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Lisa Sterna",
+    "review_date": "2025-09-17T07:48:38.256552",
+    "review_text": "Used Enterprise instead. I had a car all ready to rent and we get off the plane to pick it up and and told that they have to put the deposit and the fee on the same card when I explicitly asked to split them. Then they did a soft credit \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "Enterprise"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25Cb1VYRndWVXBpV0VFNExVWlhRM3BHU25NekxVRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "RPM Repair Performance Maintenance",
+    "review_date": "2026-01-15T07:48:38.320100",
+    "review_text": "Got the car we wanted for our trip. The hybrid Toyota Camry was a nice vehicle. Had some usually scuffs and minor damage like most rentals do. Pretty much drives itself on cruise control.",
+    "sentiment": "positive",
+    "sentiment_score": 0.6,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Toyota Camry"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pOYVRETldOMGRrVkRRdGFYSkZlVGxhYVhkeWExRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 2.0,
+    "reviewer_name": "Changqi Xiao (Apocalypsor)",
+    "review_date": "2025-11-16T07:48:38.408583",
+    "review_text": "The pickup and return experience was smooth. However, I have a major issue with the final billing.\nWhen I received the emailed receipt 3\u20134 hours after drop-off, it included a \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xKalNEZHdTMjA1WTFCcGEyNTVNbmxuV1c5NldXYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Robert T",
+    "review_date": "2026-01-15T07:48:38.507286",
+    "review_text": "Phoenix International Airport Hertz rental center is easily accessed from the sky tram to the rental center. Or if you have created a rental online go directly down the escalator to the big board with your name and spot. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "location_access"
+    ],
+    "entities": [
+      "Phoenix International Airport",
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSUNmcEw2eDl3RRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Haorong Lu",
+    "review_date": "2025-02-14T07:48:38.598741",
+    "review_text": "\u274c Dangerous Cars and Ridiculous Charges \u2013 Avoid This Location! \u274c\nWe rented a car from Hertz at PHX for the Christmas holiday, and it was one of the worst experiences ever. We picked a 2024 Camry LE, and on the way to Sedona, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": [
+      "PHX",
+      "Camry LE",
+      "Sedona"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pGNVpXeEtVbUYxVDJwVVpYQnVObkJrTkRGTlduYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Naresh Raghumanda",
+    "review_date": "2025-12-16T07:48:38.708795",
+    "review_text": "Hertz is the one of the best rental car company in the US. Being a Hertz Gold/Fivestar member the check in process via the app is so simple and you get to choose a car from the lot. Their new fleet of cars is just amazing!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Hertz Gold/Fivestar"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUNiNmNQV0FnEAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Ruben III Asuncion (Buboi)",
+    "review_date": "2025-02-14T07:48:38.811084",
+    "review_text": "As presidents circle I enjoy the benefits of choosing the car in the parking lot. I always get the best cars that I need mostly for business trips..\nIn my recent rental returns at the Phoenix, the guy named REX helped us a lot. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program",
+      "staff_behavior"
+    ],
+    "entities": [
+      "REX",
+      "Phoenix"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnTURRazlfc0RREAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Robin Abbe",
+    "review_date": "2025-07-19T07:48:38.917027",
+    "review_text": "My pickup experience was wonderful\u2026Returning was the complete opposite. I received the final bill shortly after I returned the vehicle and realized I was charged for fuel. I immediately went to the Hertz location and spoke to Sierra. She \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Sierra"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xOMVgxTTVjWGR3TjBOM1RtRmpRVjltVEhneU4wRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Jonathan Smith",
+    "review_date": "2026-01-24T07:48:39.024931",
+    "review_text": "Sondra crushed it for me.  I rented a vehicle from this location which ran into significant (dangerous) technical issues.  Unlike the customer service hotline, which did not seem to understand that a failing transmission in mountainous \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Sondra"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s5aFUzaDBiblI0TldKNU5FTm9Vemh5UTJ4aWQwRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Dominic Gomez",
+    "review_date": "2025-10-17T07:48:39.127524",
+    "review_text": "Agent was very slow and demanded in a non-polite way that I not look at my phone at all during our transaction. She first barked at me \u201ceyes up here\u201d when I was trying to check my credit card account that I was going to use for the rental \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xWeWNXSmFNVEZhWWtGQlNVYzJYMUZvYWxoNFpHYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Alexander Christine",
+    "review_date": "2025-09-17T07:48:39.215440",
+    "review_text": "Nothing better than getting to your rental car to find out it\u2019s not what you reserved. Then you get to sit for 30 min in line trying to exit the parking garage because they have AI running the show. Awesome experience. Presidents circle member here, and this is the last time I will use Hertz.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "reservation_issues",
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUQtdU9UNVJ3EAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "N Baumann",
+    "review_date": "2023-02-15T07:48:39.280753",
+    "review_text": "I have been traveling more than ever this year, and have never left a review for a car rental, but my experience was so wonderful here, that I felt I must.  This was by far the best rental experience that I have had.  The amount of luggage \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUMxOHZhUkVBEAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Jane Carter",
+    "review_date": "2024-02-15T07:48:39.368380",
+    "review_text": "Long long wait to get checked in but the agent was cheery. Confirmed we'd get an all wheel-drive as we reserved, however when we got to the lot, there were none. I asked a couple employees for help (perhaps temps or young adults needing job \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "wait_times",
+      "staff_behavior",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT20weFpXRlVWSFZDZERjdFIwNTNaVnA2ZURoVVkzYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Laurie Gomer",
+    "review_date": "2025-12-16T07:48:39.457757",
+    "review_text": "Worst hertz airport rental experience. In a line for 30 mins to exit airport, and it\u2019s taking 7-10 mins to process each car for exit.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21WNGRqWXdVamRCZW5vd2RrNXBkV0ZCVldRMGExRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Jack Darwent",
+    "review_date": "2025-11-16T07:48:39.554478",
+    "review_text": "Booked through booking.com expressly says \"final price included all taxes\" yet they insisted on wanting to charge me $400 taxes + the deposit when challenged and shown the agreement completely unhelpful and told nothing they can do \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": [
+      "booking.com"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xkME9UWTRUWGhQVkdWV1lYSk9Ra2sxZVhCb1NuYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Allison Jones",
+    "review_date": "2025-11-16T07:48:39.663143",
+    "review_text": "The truck was clean. The staff were helpful. Easy to find the truck. No surprise fees. Quick pick up. Quick drop off in the rental car center which is just a short sky train ride. I was very pleased.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees",
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s1S1oyWlFaa1ZvTWtNeVpVdEpNV3BaYnpsVVZWRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Debbie Oliver",
+    "review_date": "2026-01-15T07:48:39.764508",
+    "review_text": "Went online and had all reservations set.  I arrived in phoenix to be told they were holding $500 me doing a credit check.  I told them to cancel the reservation and show me paperwork where it had been cancelled.  They are currently refusing to cancel or refund money",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "pricing_fees"
+    ],
+    "entities": [
+      "Phoenix"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21OclFqVlBOMGwwUW1wUGVtbEdhazVRVjJoS1RuYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Christain Ojeda",
+    "review_date": "2026-01-15T07:48:39.890122",
+    "review_text": "I recently rented a vehicle for a soccer tournament and I left my cell phone in the vehicle.  It has been over 2 weeks and I have not heard anything back from the lost and found.  I already submitted a claim online and then tried to get \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xscExWODNTRkZCTlhOeU1HcFJWbXRzUjE5T2JrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Nicolle Smith",
+    "review_date": "2026-01-15T07:48:39.979268",
+    "review_text": "Beware of scam. The at the attendant who checked us in threatened us if we got a chip door ding or anything that it would be scanned by AI and we would be charged the daily rate for the car while they repair above and beyond the repair \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21WNmFHNU5PRXhFYTJKRVFYZFlaUzFJUVY5dE1sRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "JOHN GONZALES",
+    "review_date": "2025-08-18T07:48:40.052238",
+    "review_text": "We experienced no issues what so ever.   Check in at the airport was smooth and under 10 minutes.  We asked for and received a Jeep Compass.   We had no issues with that vehicle.   We received it with 12025 miles and we put 528 miles on it \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Jeep Compass"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21SNFNFVkNWRmRQWms5cFVIVjNibFJJUkRZdExYYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Tom V",
+    "review_date": "2025-11-16T07:48:40.107483",
+    "review_text": "Avoid this place. Right now, I\u2019m standing in a line of 30 people at midnight and two staff to service them.\nThey got these confusing signage all over that say things like \u201cpresidents \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSUNIMk8yRXlRRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Leslie Barry",
+    "review_date": "2025-02-14T07:48:40.156518",
+    "review_text": "Way under-staffed. We had reserved a car over a month prior to our trip and we still had to wait in a 30 minute line just to pick up our car. There were 16 customer service counters but only 2 were open, and for some reason the agents were \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT210bWMzZE5jMFZSV25sRFlrSjFORzlrZUdsWmFIYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Katherine Langon",
+    "review_date": "2025-11-16T07:48:40.195883",
+    "review_text": "Rosaland and Fernando at the Hertz counters were amazing. I had issues with my Sixt rental and they were both so personable and nice and truly saved me (and my wallet)!!! Can't thank them enough.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior"
+    ],
+    "entities": [
+      "Rosaland",
+      "Fernando",
+      "Sixt"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSUNGcWVDU3Z3RRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Suzanne Felber (Lifestylist)",
+    "review_date": "2024-02-15T07:48:40.232699",
+    "review_text": "What is going on at the Phoenix Car Rental location? Every since they got the train going, it is impossible to get a car in a reasonable amount of time. I tried to rent a car here for over a week and they said they were sold out of cars. \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "location_access",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Phoenix Car Rental"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21ZM2VEbFZRbEExTlRCYWNVWlhia3RRY1dnMlIzYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Harley Smith",
+    "review_date": "2025-09-17T07:48:40.270538",
+    "review_text": "If I could give it zero stars I would. This place will screw you over before ever helping you. They will take your money and laugh when you have problems. Go next door to enterprise it\u2019s well worth it. Spenser was great at enterprise and gave us an upgrade because hertz screwed us",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": [
+      "enterprise",
+      "hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSURSNTctUjVnRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Shilpa M",
+    "review_date": "2024-02-15T07:48:40.311473",
+    "review_text": "Yikes !\nThe rental car center in Phoenix airport is pretty alright. You still spend almost 20 minutes to get to the car rental . \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.7,
+    "topics": [
+      "location_access",
+      "wait_times"
+    ],
+    "entities": [
+      "Phoenix airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUNMalpUeEN3EAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Kushi N",
+    "review_date": "2025-02-14T07:48:40.355658",
+    "review_text": "I went in the morning and there wasn't any queue, which made it easy to get to the counter and Felicia was great at assisting. I booked an Equinox but got an upgrade for Durango for the same price, car was clean and smelled great \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": [
+      "Equinox",
+      "Durango",
+      "Felicia"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSURLOTVYbFRBEAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "John Clark",
+    "review_date": "2023-02-15T07:48:40.403551",
+    "review_text": "This review is for Camelback around 9th avenue. Somehow it added it to sky harbor. Run down facility. Staff are rude. Staff do not elaborate on how insurance works. If you dont add insurance at time of purchase you only have 30 minutes to \u2026",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSURpNnZTWndnRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Mister Jon",
+    "review_date": "2021-02-15T07:48:40.459094",
+    "review_text": "My name was on the board and there were a decent amount of cars to choose from at the President's Circle, however, there were only small SUVs. Our car also needed an oil change (only had 2% oil life left) and our rental was for a 3 week period. There was a backup at the exit. It seemed there needed to be more staff.",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tvdFNVTk9XalpGV1RGUU1YUTNUVkZOZWs1VVgzYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Sarah Kile",
+    "review_date": "2026-01-15T07:48:40.520173",
+    "review_text": "Dan was awesome! We made a mistake when booking our rental and he helped us figure out what to do and helped us save money in the long run. Great customer service!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Dan"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25Bd1lraHhTVkpaTWxCaWRYSlVYMlpTT1V4TWIxRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Mikeyla Chambers",
+    "review_date": "2025-07-19T07:48:40.605868",
+    "review_text": "We flew into Phoenix at around 10:30, so by the time we got to the rental car area it was late. We were also renting at 20 years old, which made the process a little different, but Gabriel and Steve were so helpful throughout the whole \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Gabriel",
+      "Steve"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT25WWVJrRnVjMm8zVG5KM1dYSlhkVlZEVDJwelVVRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "David Keene",
+    "review_date": "2025-11-16T07:48:41.223970",
+    "review_text": "Great experience. I\u2019m president\u2019s circle club/gold. But this was the first time a Hertz had my vehicle waiting for me as I walked into the rental area from the tram. Very efficient.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "preferred_program"
+    ],
+    "entities": [
+      "Hertz"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUNwN0pMWUlBEAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Quynh Chi Tran",
+    "review_date": "2024-02-15T07:48:41.300476",
+    "review_text": "We need to take the train from arrival terminal to rental car center. Its quite fast and easy. \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "location_access"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSUNkNjY2c3NRRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "kim harris",
+    "review_date": "2025-02-14T07:48:41.365478",
+    "review_text": "Had a reservation for 1 and finally got a car around 5. Hundreds of us waiting in line with no cars. We all had reservations made thru AAA. Manager bailed on the employees and took her chipotle bag and left. Employees tried to call and no \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "reservation_issues",
+      "staff_behavior"
+    ],
+    "entities": [
+      "AAA"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21kUlpFTnpRMGh1ZVRJeGNFWnBZMGRUUWtsV09VRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Vu Pham",
+    "review_date": "2025-08-18T07:48:41.443876",
+    "review_text": "I rented a car for 2 days and was told at check-in that only $345 would be authorized. But I later saw three separate authorizations, including two for over $400. I returned the car with a full tank, no damage, and received the final report \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pWNGJIbExhaTFRTjJ0allWWlZSSE5oZFVGTFQxRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "A P",
+    "review_date": "2025-11-16T07:48:42.063214",
+    "review_text": "As was in a rush to leave the airport with my rental car and not paying attention to the details, they added hundreds of dollars of insurance and waver fees to my bill. Attempts to resolve the issue through corporate have proven \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VPT2MtOGplNDczaTd3RRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "remi pettus",
+    "review_date": "2025-09-17T07:48:42.170291",
+    "review_text": "6/12: Currently stranded in Bozeman because you guys refuse to take accountability and help us get a new car. You told us to drive an unsafe car to a corporate location in Salt Lake City and also told us to take a Lyft six hours away to \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "customer_service"
+    ],
+    "entities": [
+      "Bozeman",
+      "Salt Lake City"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT21oeGNFc3hVVlEyVTJReE56Vm5Na1pQVjB3M1UzYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Alexis Duhamel",
+    "review_date": "2025-12-16T07:48:42.242554",
+    "review_text": "Rented a car explicitly to go to Monument Valley and Moab. We were only told to bring the car with a tank full of gas. Got hit with a surprise 150$ cleaning fee. Despite returning the car 2 hours earlier, we were told it is not possible to take the car back for a quick trip to the car wash next door. That's a scam.",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "customer_service"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tsMlJEYzBhWE5aYjNOMmEzWjJTek5YTFRkUWRrRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Dalvida Palmer",
+    "review_date": "2025-08-18T07:48:42.361288",
+    "review_text": "I had an excellent experience renting a car with the help of Raed from Hertz. He made the entire process quick and easy, providing clear information and excellent customer service. I truly appreciated how seamless everything was, and I highly recommend working with him if you're looking to rent a car!",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Raed"
+    ]
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xSR05rdDNlVTFMVFdaelgzWjFablV3YjJaMFZYYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Keith Bell",
+    "review_date": "2026-01-15T07:48:42.464657",
+    "review_text": "Car was ready when we arrived -- simple check-in and fast return on our departure.  Well done Hertz at Phoenix Sky Harbor Airport.",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "customer_service"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Sky Harbor Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VMbVA0S2VjMmJ5aDZ3RRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 4.0,
+    "reviewer_name": "Sarah Hartman",
+    "review_date": "2025-06-19T07:48:42.567452",
+    "review_text": "I got a rental car for the weekend and had a great experience at pickup and drop off. Rental car was as I booked online and agent was quick processing paperwork. Drop off went smooth and nothing unexpected.",
+    "sentiment": "positive",
+    "sentiment_score": 0.8,
+    "topics": [
+      "customer_service",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2pkeGFuVTJNMEV0UTBoaE9HNXpSV1ZYYzNJeVNYYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Isiah",
+    "review_date": "2025-10-17T07:48:42.677109",
+    "review_text": "I booked and prepaid with skip the line pickup. I was assigned a vehicle with a specific license plate. Went to pickup my vehicle and they gave it to someone else. They put me in a smaller vehicle and charged me for the smaller vehicle \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "reservation_issues",
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2tVMGIxOXlSWFZZUTJwWWJWRmlNM0phWTJkNlVYYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Lulu shu",
+    "review_date": "2025-08-18T07:48:42.785993",
+    "review_text": "This location is a nightmare. The car they gave me was full of scratches and dents, and they still tried to act like it was fine. Without my consent, they ran several charges/authorizations on my credit card way over the agreed amount. When \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUMzXzZHalVnEAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "francis chock",
+    "review_date": "2025-02-14T07:48:42.904018",
+    "review_text": "Great experience with Hertz. No lines as evident from video. Great car. Well maintained.  Monday SS es , no hassle.  Aloha",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "wait_times",
+      "vehicle_condition"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xORmMyOHpWVmROYzI5elVrWkRUa00wTURsUVdFRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Cynthia Brackett",
+    "review_date": "2026-01-31T07:48:43.016657",
+    "review_text": "Additional charges added beware! Without Notification. Didn\u2019t realize it until I received my receipt. All the charges added I never agreed to or it wasn\u2019t even discussed",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VJQ0FnSURKLXBuc2x3RRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 3.0,
+    "reviewer_name": "Siddhesh",
+    "review_date": "2024-02-15T07:48:43.140245",
+    "review_text": "The casr was nice & clean. Check out was fast as we had prepaid. Initially our reservation mentioned free additonal drivers, so we added 2 more drievrs. When we got our final receipt, they charged us ~ $210! They kept numb when we enquired \u2026",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0,
+    "topics": [
+      "pricing_fees",
+      "reservation_issues"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2xJMk9IUkpZVmRRV1ZKUmNXaENhVGs1TFc1RU0zYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "jayden",
+    "review_date": "2025-08-18T07:48:43.204503",
+    "review_text": "Had a terrible experience at this location. They provided a car in poor condition with multiple scratches and dents and still failed to document them properly. Without my permission, they placed multiple authorizations on my credit card, \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "vehicle_condition",
+      "pricing_fees"
+    ],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2sxaU9GcDFRbUZpVkhZdGREZExRMjVFWW1OemFuYxAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "yanky prushinovsky",
+    "review_date": "2025-07-19T07:48:43.302729",
+    "review_text": "ABSOLUTELY AVOID! CREDIT CARD DESTROYED, FORCED INSURANCE SCAM!\nMy recent Hertz rental on July 1st at Phoenix Sky Harbor Airport (PHX) was an unmitigated disaster and a complete rip-off. They slapped an outrageous amount of \u2026",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "pricing_fees",
+      "insurance"
+    ],
+    "entities": [
+      "Hertz",
+      "Phoenix Sky Harbor Airport"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChZDSUhNMG9nS0VJQ0FnSUNzNG9UcEpBEAE",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Bizzo J",
+    "review_date": "2020-02-16T07:48:43.405040",
+    "review_text": "Great customer service,  both checking in to use the vehicle and upon returning it as well! Good vehicle selection, price, and love that I can use my Visa debit card with them!  I've used Budget a number of times now and they're ALWAYS my first choice- reserving online or with their app is really easy too.",
+    "sentiment": null,
+    "sentiment_score": null,
+    "topics": [],
+    "entities": []
+  },
+  {
+    "review_id": "avis_google_Ci9DQUlRQUNvZENodHljRjlvT2s5Wk1HOVZkR3hwTFZSUUxWZ3lTbVppY1VJd1pVRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 1.0,
+    "reviewer_name": "Daniel Bedno",
+    "review_date": "2025-12-16T07:48:43.511665",
+    "review_text": "It\u2019s 1 in the morning and there are a dozen cars trying to check out\u2026. One staffer\u2026. How are they still in business?",
+    "sentiment": "negative",
+    "sentiment_score": -0.9,
+    "topics": [
+      "wait_times",
+      "staff_behavior"
+    ],
+    "entities": [
+      "staffer"
+    ]
+  },
+  {
+    "review_id": "avis_google_ChdDSUhNMG9nS0VOTzZ4TU93NHZMQ3hBRRAB",
+    "location_id": "PHX",
+    "brand": "avis",
+    "source": "google",
+    "rating": 5.0,
+    "reviewer_name": "Paul",
+    "review_date": "2025-07-19T07:48:43.619365",
+    "review_text": "I have only great experience with this car rental. On my way in I was welcomed and assisted with getting my car upgraded. On my way back I had serious morning delay and when I got to drop off my car I was already running very late.  Paul \u2026",
+    "sentiment": "positive",
+    "sentiment_score": 0.9,
+    "topics": [
+      "staff_behavior",
+      "customer_service"
+    ],
+    "entities": [
+      "Paul"
+    ]
+  }
+]
