@@ -202,6 +202,17 @@ Return ONLY a JSON array with this exact structure:
 ]
 
 Guidelines:
+- sentiment classification (BE DECISIVE - avoid neutral unless truly balanced):
+  * For Google reviews: Use star rating as a baseline, but READ THE CONTENT carefully
+  * 1-2 stars: Almost always negative unless content is surprisingly positive
+  * 3 stars: Read content - if more negative points than positive, classify as negative; if more positive, classify as positive
+  * 4-5 stars: Usually positive, but if content has complaints, weigh them
+  * Count positive vs negative points in the text - if review has 1 positive but 2+ negatives, classify as NEGATIVE
+  * Only use "neutral" for genuinely balanced reviews with equal positive/negative points or purely factual statements
+- sentiment_score: -1.0 (very negative) to 1.0 (very positive)
+  * Negative reviews: -0.3 to -1.0 based on severity
+  * Positive reviews: 0.3 to 1.0 based on enthusiasm  
+  * Neutral (rare): -0.2 to 0.2
 - urgency_level: critical=safety/legal issues, high=service failures affecting many, medium=individual complaints, low=minor feedback
 - actionable: true if the review suggests a specific improvement opportunity
 - key_phrases: 1-3 short phrases (max 8 words each) capturing the essence
